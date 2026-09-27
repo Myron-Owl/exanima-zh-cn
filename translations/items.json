@@ -1,0 +1,3771 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "item.0",
+      "en": "Sword",
+      "zh": "剑",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:0",
+        "objstrings.rdb:7",
+        "objstrings.rdb:9",
+        "objstrings.rdb:32",
+        "objstrings.rdb:959"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1",
+      "en": "Two-handed Sword",
+      "zh": "双手剑",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1",
+        "objstrings.rdb:20",
+        "objstrings.rdb:177"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.2",
+      "en": "Leather Greaves",
+      "zh": "皮护胫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:2",
+        "objstrings.rdb:216"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.3",
+      "en": "Maul",
+      "zh": "重锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:3",
+        "objstrings.rdb:740"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.5",
+      "en": "Metal Stake",
+      "zh": "金属尖桩",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:5"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.6",
+      "en": "Guisarme",
+      "zh": "钩镰枪",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:6"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.8",
+      "en": "Shortsword",
+      "zh": "短剑",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:8",
+        "objstrings.rdb:1006",
+        "objstrings.rdb:1017"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.10",
+      "en": "Leather Trousers",
+      "zh": "皮裤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:10",
+        "objstrings.rdb:243"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.11",
+      "en": "Bardiche",
+      "zh": "长柄大斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:11"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.13",
+      "en": "Sickle",
+      "zh": "镰刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:13",
+        "objstrings.rdb:984"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.14",
+      "en": "Cloth Shirt",
+      "zh": "布衬衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:14",
+        "objstrings.rdb:109"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.16",
+      "en": "Mail Shirt",
+      "zh": "锁子甲衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:16",
+        "objstrings.rdb:148"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.17",
+      "en": "Leather Shoes",
+      "zh": "皮鞋",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:17",
+        "objstrings.rdb:154"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.18",
+      "en": "Mail Vest",
+      "zh": "锁甲背心",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:18",
+        "objstrings.rdb:57"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.19",
+      "en": "Vambraces",
+      "zh": "前臂甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:19",
+        "objstrings.rdb:71",
+        "objstrings.rdb:83",
+        "objstrings.rdb:117",
+        "objstrings.rdb:207",
+        "objstrings.rdb:665",
+        "objstrings.rdb:1034"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.21",
+      "en": "Battle Axe",
+      "zh": "战斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:21",
+        "objstrings.rdb:264"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.22",
+      "en": "Grand Falchion",
+      "zh": "大型弯刃刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:22"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.23",
+      "en": "Great Axe",
+      "zh": "巨斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:23"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.24",
+      "en": "Halberd",
+      "zh": "戟",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:24"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.25",
+      "en": "Pole Hammer",
+      "zh": "长柄战锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:25"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.26",
+      "en": "Billhook",
+      "zh": "钩镰刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:26",
+        "objstrings.rdb:182",
+        "objstrings.rdb:838"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.27",
+      "en": "Mitts",
+      "zh": "连指手套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:27"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.28",
+      "en": "Plate Leggings",
+      "zh": "板甲护腿",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:28",
+        "objstrings.rdb:79"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.29",
+      "en": "War Hammer",
+      "zh": "战锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:29",
+        "objstrings.rdb:468"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.30",
+      "en": "Axe",
+      "zh": "斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:30",
+        "objstrings.rdb:687",
+        "objstrings.rdb:870"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.35",
+      "en": "Mace",
+      "zh": "钉头锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:35"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.37",
+      "en": "Cudgel",
+      "zh": "短棍",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:37"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.38",
+      "en": "Spiked Club",
+      "zh": "带刺木棒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:38"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.45",
+      "en": "Pole Axe",
+      "zh": "长柄斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:45"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.48",
+      "en": "Plate Armour",
+      "zh": "板甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:48",
+        "objstrings.rdb:82",
+        "objstrings.rdb:1114"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.49",
+      "en": "Jar",
+      "zh": "罐子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:49",
+        "objstrings.rdb:289",
+        "objstrings.rdb:293",
+        "objstrings.rdb:336",
+        "objstrings.rdb:340",
+        "objstrings.rdb:343",
+        "objstrings.rdb:544",
+        "objstrings.rdb:639",
+        "objstrings.rdb:1025"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.51",
+      "en": "Chest",
+      "zh": "箱子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:51",
+        "objstrings.rdb:61",
+        "objstrings.rdb:395",
+        "objstrings.rdb:396",
+        "objstrings.rdb:952",
+        "objstrings.rdb:953",
+        "objstrings.rdb:982",
+        "objstrings.rdb:983"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.52",
+      "en": "Key",
+      "zh": "钥匙",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:52",
+        "objstrings.rdb:58",
+        "objstrings.rdb:67",
+        "objstrings.rdb:73",
+        "objstrings.rdb:75",
+        "objstrings.rdb:93",
+        "objstrings.rdb:422",
+        "objstrings.rdb:423",
+        "objstrings.rdb:424",
+        "objstrings.rdb:425",
+        "objstrings.rdb:426",
+        "objstrings.rdb:427",
+        "objstrings.rdb:1059"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.55",
+      "en": "Ghosts",
+      "zh": "幽灵",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:55"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.60",
+      "en": "Reinforced Chest",
+      "zh": "加固箱",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:60"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.62",
+      "en": "Plate Gauntlets",
+      "zh": "板甲手套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:62",
+        "objstrings.rdb:204"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.66",
+      "en": "Boots",
+      "zh": "靴子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:66",
+        "objstrings.rdb:70",
+        "objstrings.rdb:509"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.72",
+      "en": "Gloves",
+      "zh": "手套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:72"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.76",
+      "en": "Voulge",
+      "zh": "长柄砍刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:76"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.77",
+      "en": "Helm",
+      "zh": "头盔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:77",
+        "objstrings.rdb:85",
+        "objstrings.rdb:1118"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.78",
+      "en": "Helmet",
+      "zh": "头盔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:78",
+        "objstrings.rdb:978",
+        "objstrings.rdb:980",
+        "objstrings.rdb:1057",
+        "objstrings.rdb:1071"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.80",
+      "en": "Leather Vest",
+      "zh": "皮背心",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:80",
+        "objstrings.rdb:89"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.81",
+      "en": "Mail Coif",
+      "zh": "锁甲头套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:81"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.84",
+      "en": "Mail Leggings",
+      "zh": "锁甲护腿",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:84"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.86",
+      "en": "Leather Belt",
+      "zh": "皮带",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:86"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.87",
+      "en": "Breastplate",
+      "zh": "胸甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:87",
+        "objstrings.rdb:594",
+        "objstrings.rdb:600",
+        "objstrings.rdb:608"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.88",
+      "en": "Plate Helm",
+      "zh": "板甲头盔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:88",
+        "objstrings.rdb:368"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.90",
+      "en": "Leather Gloves",
+      "zh": "皮手套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:90",
+        "objstrings.rdb:986"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.91",
+      "en": "Brigandine",
+      "zh": "布面甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:91",
+        "objstrings.rdb:528"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.94",
+      "en": "Padded Cap",
+      "zh": "衬垫帽",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:94"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.102",
+      "en": "Leather Tunic",
+      "zh": "皮束腰衣",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:102",
+        "objstrings.rdb:304"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.105",
+      "en": "Hose",
+      "zh": "紧身长袜",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:105"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.106",
+      "en": "Rerebraces",
+      "zh": "上臂甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:106"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.107",
+      "en": "Flail",
+      "zh": "链枷",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:107"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.108",
+      "en": "Shirt",
+      "zh": "衬衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:108",
+        "objstrings.rdb:233"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.110",
+      "en": "Book",
+      "zh": "书",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:110",
+        "objstrings.rdb:114",
+        "objstrings.rdb:115",
+        "objstrings.rdb:119",
+        "objstrings.rdb:121",
+        "objstrings.rdb:124",
+        "objstrings.rdb:129",
+        "objstrings.rdb:927"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.112",
+      "en": "Leather Boots",
+      "zh": "皮靴",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:112"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.118",
+      "en": "Thigh Boots",
+      "zh": "过膝长靴",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:118"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.122",
+      "en": "Bottle",
+      "zh": "瓶子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:122",
+        "objstrings.rdb:290",
+        "objstrings.rdb:291",
+        "objstrings.rdb:292",
+        "objstrings.rdb:294",
+        "objstrings.rdb:334",
+        "objstrings.rdb:335",
+        "objstrings.rdb:337",
+        "objstrings.rdb:338",
+        "objstrings.rdb:339",
+        "objstrings.rdb:341",
+        "objstrings.rdb:342",
+        "objstrings.rdb:344",
+        "objstrings.rdb:345",
+        "objstrings.rdb:346",
+        "objstrings.rdb:388",
+        "objstrings.rdb:494",
+        "objstrings.rdb:495",
+        "objstrings.rdb:690",
+        "objstrings.rdb:691",
+        "objstrings.rdb:692",
+        "objstrings.rdb:693",
+        "objstrings.rdb:694",
+        "objstrings.rdb:695",
+        "objstrings.rdb:696",
+        "objstrings.rdb:697",
+        "objstrings.rdb:698",
+        "objstrings.rdb:710",
+        "objstrings.rdb:712",
+        "objstrings.rdb:716",
+        "objstrings.rdb:738",
+        "objstrings.rdb:746",
+        "objstrings.rdb:762",
+        "objstrings.rdb:779",
+        "objstrings.rdb:833",
+        "objstrings.rdb:837",
+        "objstrings.rdb:844",
+        "objstrings.rdb:846",
+        "objstrings.rdb:848",
+        "objstrings.rdb:850",
+        "objstrings.rdb:851",
+        "objstrings.rdb:854",
+        "objstrings.rdb:855",
+        "objstrings.rdb:857",
+        "objstrings.rdb:859",
+        "objstrings.rdb:862",
+        "objstrings.rdb:869",
+        "objstrings.rdb:871",
+        "objstrings.rdb:873",
+        "objstrings.rdb:875",
+        "objstrings.rdb:876",
+        "objstrings.rdb:879",
+        "objstrings.rdb:921",
+        "objstrings.rdb:922",
+        "objstrings.rdb:1027"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.123",
+      "en": "Baton",
+      "zh": "短棒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:123"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.125",
+      "en": "Gambeson",
+      "zh": "厚棉甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:125"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.127",
+      "en": "Padded Shirt",
+      "zh": "衬垫衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:127"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.132",
+      "en": "Parchment",
+      "zh": "羊皮纸",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:132",
+        "objstrings.rdb:306",
+        "objstrings.rdb:327"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.134",
+      "en": "Binding of the Dead",
+      "zh": "亡者束缚",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:134"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.135",
+      "en": "Life of Linus Fendrick",
+      "zh": "莱纳斯·芬德里克传",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:135"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.137",
+      "en": "Deconstructing Humanity",
+      "zh": "解构人体",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:137"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.140",
+      "en": "The Forgotten Power",
+      "zh": "被遗忘的力量",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:140"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.142",
+      "en": "Forgotten",
+      "zh": "遗忘",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:142"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.149",
+      "en": "Chain Shirt",
+      "zh": "锁子甲衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:149"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.151",
+      "en": "Cloth Leggings",
+      "zh": "布护腿",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:151",
+        "objstrings.rdb:242",
+        "objstrings.rdb:363",
+        "objstrings.rdb:366"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.156",
+      "en": "Spiked Mace",
+      "zh": "尖刺钉头锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:156",
+        "objstrings.rdb:172",
+        "objstrings.rdb:971"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.161",
+      "en": "Buckler",
+      "zh": "小圆盾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:161",
+        "objstrings.rdb:162",
+        "objstrings.rdb:815"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.165",
+      "en": "Round Shield",
+      "zh": "圆盾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:165"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.166",
+      "en": "Square Shield",
+      "zh": "方盾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:166"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.169",
+      "en": "Torch",
+      "zh": "火把",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:169"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.180",
+      "en": "Spaulders",
+      "zh": "肩甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:180",
+        "objstrings.rdb:301",
+        "objstrings.rdb:579",
+        "objstrings.rdb:606",
+        "objstrings.rdb:664"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.183",
+      "en": "Hand Saw",
+      "zh": "手锯",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:183"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.184",
+      "en": "Long Knife",
+      "zh": "长刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:184"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.185",
+      "en": "Wooden Stake",
+      "zh": "木尖桩",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:185"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.186",
+      "en": "Candle Holder",
+      "zh": "烛台",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:186",
+        "objstrings.rdb:277",
+        "objstrings.rdb:311",
+        "objstrings.rdb:805",
+        "objstrings.rdb:942"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.187",
+      "en": "Shackles",
+      "zh": "镣铐",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:187",
+        "objstrings.rdb:645",
+        "objstrings.rdb:938"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.188",
+      "en": "Musical Instrument",
+      "zh": "乐器",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:188"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.189",
+      "en": "Cleaver",
+      "zh": "劈肉刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:189"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.197",
+      "en": "Prosthesis",
+      "zh": "假肢",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:197"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.202",
+      "en": "Mail Gauntlets",
+      "zh": "锁甲手套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:202"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.211",
+      "en": "Plate Greaves",
+      "zh": "板甲护胫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:211",
+        "objstrings.rdb:526"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.212",
+      "en": "Lamellar Greaves",
+      "zh": "札甲护胫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:212"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.218",
+      "en": "Sabatons",
+      "zh": "铁靴",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:218"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.222",
+      "en": "Tunic",
+      "zh": "束腰衣",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:222",
+        "objstrings.rdb:227",
+        "objstrings.rdb:382"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.225",
+      "en": "Velvet Tunic",
+      "zh": "天鹅绒束腰衣",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:225"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.230",
+      "en": "Pipe",
+      "zh": "烟斗",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:230",
+        "objstrings.rdb:481"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.231",
+      "en": "Silk Shirt",
+      "zh": "丝绸衬衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:231"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.234",
+      "en": "Velvet Shirt",
+      "zh": "天鹅绒衬衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:234"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.236",
+      "en": "Suede Shirt",
+      "zh": "绒面革衬衫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:236"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.239",
+      "en": "Cloth Trousers",
+      "zh": "布裤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:239"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.240",
+      "en": "SIlk Trousers",
+      "zh": "丝绸长裤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:240"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.241",
+      "en": "Suede Trousers",
+      "zh": "绒面革长裤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:241"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.250",
+      "en": "Shoes",
+      "zh": "鞋子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:250",
+        "objstrings.rdb:252",
+        "objstrings.rdb:622",
+        "objstrings.rdb:624"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.258",
+      "en": "Metal Bar",
+      "zh": "金属棒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:258"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.262",
+      "en": "Wood Debris",
+      "zh": "木头残片",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:262",
+        "objstrings.rdb:266",
+        "objstrings.rdb:267"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.269",
+      "en": "Pitchfork",
+      "zh": "干草叉",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:269"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.270",
+      "en": "Metal Crutch",
+      "zh": "金属拐杖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:270"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.271",
+      "en": "Broom",
+      "zh": "扫帚",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:271"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.273",
+      "en": "Hook",
+      "zh": "钩子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:273",
+        "objstrings.rdb:759"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.280",
+      "en": "Flanged Mace",
+      "zh": "凸缘钉头锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:280",
+        "objstrings.rdb:621",
+        "objstrings.rdb:968"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.281",
+      "en": "Heater Shield",
+      "zh": "熨斗形盾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:281",
+        "objstrings.rdb:282"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.284",
+      "en": "Falchion",
+      "zh": "弯刃刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:284",
+        "objstrings.rdb:1018"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.285",
+      "en": "Hatchet",
+      "zh": "手斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:285"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.286",
+      "en": "Sledgehammer",
+      "zh": "大锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:286"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.287",
+      "en": "Barrel Lid",
+      "zh": "桶盖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:287"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.288",
+      "en": "Plate Sabatons",
+      "zh": "板甲铁靴",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:288"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.295",
+      "en": "Compass",
+      "zh": "指南针",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:295"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.299",
+      "en": "Chest of drawers",
+      "zh": "斗柜",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:299"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.300",
+      "en": "Desk",
+      "zh": "书桌",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:300",
+        "objstrings.rdb:411"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.308",
+      "en": "Hair Brush",
+      "zh": "发刷",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:308"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.310",
+      "en": "Large Pan",
+      "zh": "大锅",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:310",
+        "objstrings.rdb:866"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.312",
+      "en": "Surgical Tool",
+      "zh": "外科器械",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:312",
+        "objstrings.rdb:689",
+        "objstrings.rdb:720",
+        "objstrings.rdb:776",
+        "objstrings.rdb:780"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.313",
+      "en": "Brass Ingot",
+      "zh": "黄铜锭",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:313"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.315",
+      "en": "Trunk",
+      "zh": "大箱子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:315",
+        "objstrings.rdb:499"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.316",
+      "en": "Cupboard",
+      "zh": "橱柜",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:316",
+        "objstrings.rdb:1002"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.321",
+      "en": "Comb",
+      "zh": "梳子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:321"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.322",
+      "en": "The Guardian of the Underworld",
+      "zh": "冥界守护者",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:322"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.324",
+      "en": "The Guardian's Wrath",
+      "zh": "守护者之怒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:324"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.326",
+      "en": "Waistcoat",
+      "zh": "马甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:326"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.330",
+      "en": "Wardrobe",
+      "zh": "衣柜",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:330"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.331",
+      "en": "Drawer",
+      "zh": "抽屉",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:331",
+        "objstrings.rdb:1061"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.333",
+      "en": "Old Parchment",
+      "zh": "旧羊皮纸",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:333"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.350",
+      "en": "Bar Mace",
+      "zh": "条形钉头锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:350"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.367",
+      "en": "Quilted Trousers",
+      "zh": "绗缝长裤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:367"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.369",
+      "en": "Spetum",
+      "zh": "三尖枪",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:369",
+        "objstrings.rdb:501"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.371",
+      "en": "Blacksmith's Hammer",
+      "zh": "铁匠锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:371"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.373",
+      "en": "Proctor's Seal",
+      "zh": "执法官印信",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:373"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.377",
+      "en": "Pugilist's Gloves",
+      "zh": "拳手手套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:377"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.381",
+      "en": "Coat",
+      "zh": "外套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:381",
+        "objstrings.rdb:1073"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.383",
+      "en": "Strongbox",
+      "zh": "保险箱",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:383"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.385",
+      "en": "Cage Bar",
+      "zh": "笼栏铁条",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:385",
+        "objstrings.rdb:534"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.386",
+      "en": "Shovel",
+      "zh": "铲子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:386"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.389",
+      "en": "Greatsword",
+      "zh": "巨剑",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:389"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.390",
+      "en": "Couters",
+      "zh": "护肘",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:390",
+        "objstrings.rdb:667"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.393",
+      "en": "Padded Coat",
+      "zh": "衬垫外套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:393",
+        "objstrings.rdb:450"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.394",
+      "en": "Cabinet",
+      "zh": "柜子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:394",
+        "objstrings.rdb:1000",
+        "objstrings.rdb:1001",
+        "objstrings.rdb:1031"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.397",
+      "en": "Playing Card",
+      "zh": "纸牌",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:397"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.399",
+      "en": "Bracelet",
+      "zh": "手镯",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:399",
+        "objstrings.rdb:1120"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.401",
+      "en": "Cuirass",
+      "zh": "躯干甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:401",
+        "objstrings.rdb:402",
+        "objstrings.rdb:524",
+        "objstrings.rdb:560",
+        "objstrings.rdb:562",
+        "objstrings.rdb:1032"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.407",
+      "en": "Knife",
+      "zh": "小刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:407",
+        "objstrings.rdb:713"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.408",
+      "en": "Plate",
+      "zh": "盘子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:408",
+        "objstrings.rdb:485"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.409",
+      "en": "Goblet",
+      "zh": "高脚杯",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:409",
+        "objstrings.rdb:410",
+        "objstrings.rdb:539",
+        "objstrings.rdb:753",
+        "objstrings.rdb:755",
+        "objstrings.rdb:1082",
+        "objstrings.rdb:1083"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.412",
+      "en": "Latrine",
+      "zh": "便器",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:412"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.416",
+      "en": "Two-handed Mace",
+      "zh": "双手钉头锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:416"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.429",
+      "en": "Leather Coat",
+      "zh": "皮外套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:429",
+        "objstrings.rdb:449"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.431",
+      "en": "Buff Leather Coat",
+      "zh": "厚牛皮外套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:431"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.433",
+      "en": "Dagger",
+      "zh": "匕首",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:433"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.434",
+      "en": "Large Mallet",
+      "zh": "大木槌",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:434"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.441",
+      "en": "Bowl",
+      "zh": "碗",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:441",
+        "objstrings.rdb:482",
+        "objstrings.rdb:484",
+        "objstrings.rdb:486",
+        "objstrings.rdb:487",
+        "objstrings.rdb:550",
+        "objstrings.rdb:619",
+        "objstrings.rdb:647"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.443",
+      "en": "Quarterstaff",
+      "zh": "长棍",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:443"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.446",
+      "en": "Arming Cap",
+      "zh": "武装衬帽",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:446"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.453",
+      "en": "Fireplace Shovel",
+      "zh": "壁炉铲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:453"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.454",
+      "en": "Fire Poker",
+      "zh": "拨火棍",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:454"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.455",
+      "en": "Fireplace Tongs",
+      "zh": "壁炉火钳",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:455"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.456",
+      "en": "Tongs",
+      "zh": "钳子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:456",
+        "objstrings.rdb:458",
+        "objstrings.rdb:460"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.457",
+      "en": "PickAxe",
+      "zh": "鹤嘴锄",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:457"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.459",
+      "en": "Throwing Axe",
+      "zh": "投斧",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:459"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.461",
+      "en": "Shears",
+      "zh": "剪刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:461"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.462",
+      "en": "Saw",
+      "zh": "锯子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:462"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.463",
+      "en": "Funnel",
+      "zh": "漏斗",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:463"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.464",
+      "en": "Chisel",
+      "zh": "凿子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:464",
+        "objstrings.rdb:465",
+        "objstrings.rdb:772",
+        "objstrings.rdb:774"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.466",
+      "en": "Hammer",
+      "zh": "锤子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:466",
+        "objstrings.rdb:516",
+        "objstrings.rdb:932"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.470",
+      "en": "Spear",
+      "zh": "长矛",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:470",
+        "objstrings.rdb:1109",
+        "objstrings.rdb:1111",
+        "objstrings.rdb:1113"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.475",
+      "en": "Crystal",
+      "zh": "水晶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:475"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.479",
+      "en": "Die",
+      "zh": "骰子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:479",
+        "objstrings.rdb:480"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.483",
+      "en": "Dish",
+      "zh": "碟子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:483",
+        "objstrings.rdb:861"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.488",
+      "en": "Jug",
+      "zh": "壶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:488",
+        "objstrings.rdb:532",
+        "objstrings.rdb:536",
+        "objstrings.rdb:545",
+        "objstrings.rdb:551",
+        "objstrings.rdb:569",
+        "objstrings.rdb:570"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.489",
+      "en": "Cup",
+      "zh": "杯子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:489",
+        "objstrings.rdb:541",
+        "objstrings.rdb:542"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.490",
+      "en": "Fork",
+      "zh": "叉子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:490",
+        "objstrings.rdb:531",
+        "objstrings.rdb:739"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.491",
+      "en": "Drill",
+      "zh": "钻具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:491",
+        "objstrings.rdb:492"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.493",
+      "en": "Clamp",
+      "zh": "夹具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:493"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.498",
+      "en": "Token",
+      "zh": "徽记",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:498"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.511",
+      "en": "Mask",
+      "zh": "面具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:511",
+        "objstrings.rdb:629"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.513",
+      "en": "Plate Cuisses",
+      "zh": "板甲大腿甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:513"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.515",
+      "en": "Armour",
+      "zh": "护甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:515"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.520",
+      "en": "Splint Cuisses",
+      "zh": "条板大腿甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:520"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.522",
+      "en": "Gauntlets",
+      "zh": "护手",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:522"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.530",
+      "en": "Trowel",
+      "zh": "泥刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:530",
+        "objstrings.rdb:842"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.533",
+      "en": "Inkpot",
+      "zh": "墨水瓶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:533",
+        "objstrings.rdb:750"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.535",
+      "en": "Tankard",
+      "zh": "大酒杯",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:535",
+        "objstrings.rdb:549",
+        "objstrings.rdb:840"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.537",
+      "en": "Spoon",
+      "zh": "勺子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:537",
+        "objstrings.rdb:653",
+        "objstrings.rdb:741",
+        "objstrings.rdb:743"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.538",
+      "en": "Ladle",
+      "zh": "长柄勺",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:538"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.540",
+      "en": "Hourglass",
+      "zh": "沙漏",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:540"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.543",
+      "en": "Spatula",
+      "zh": "锅铲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:543"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.546",
+      "en": "Vase",
+      "zh": "花瓶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:546",
+        "objstrings.rdb:1078",
+        "objstrings.rdb:1086",
+        "objstrings.rdb:1087",
+        "objstrings.rdb:1089"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.547",
+      "en": "Candle",
+      "zh": "蜡烛",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:547",
+        "objstrings.rdb:657",
+        "objstrings.rdb:658"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.548",
+      "en": "Stone Chest",
+      "zh": "石箱",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:548"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.553",
+      "en": "Jacket",
+      "zh": "夹克",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:553"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.555",
+      "en": "Kite Shield",
+      "zh": "鸢形盾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:555"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.564",
+      "en": "Sandals",
+      "zh": "凉鞋",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:564"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.566",
+      "en": "Box",
+      "zh": "盒子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:566",
+        "objstrings.rdb:699",
+        "objstrings.rdb:701",
+        "objstrings.rdb:801"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.567",
+      "en": "Pouch",
+      "zh": "小袋",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:567",
+        "objstrings.rdb:634",
+        "objstrings.rdb:789",
+        "objstrings.rdb:791"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.568",
+      "en": "Rake",
+      "zh": "耙子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:568",
+        "objstrings.rdb:747"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.573",
+      "en": "Lamellar Vest",
+      "zh": "札甲背心",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:573"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.574",
+      "en": "Palette",
+      "zh": "调色板",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:574",
+        "objstrings.rdb:576",
+        "objstrings.rdb:577"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.578",
+      "en": "Paint Pot",
+      "zh": "颜料罐",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:578",
+        "objstrings.rdb:582",
+        "objstrings.rdb:583"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.581",
+      "en": "Urn",
+      "zh": "瓮",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:581",
+        "objstrings.rdb:601",
+        "objstrings.rdb:602",
+        "objstrings.rdb:603",
+        "objstrings.rdb:604",
+        "objstrings.rdb:1044"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.584",
+      "en": "Rolling Pin",
+      "zh": "擀面杖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:584"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.586",
+      "en": "Scraper",
+      "zh": "刮刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:586"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.587",
+      "en": "Pan ",
+      "zh": "锅 ",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:587"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.589",
+      "en": "Horn",
+      "zh": "号角",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:589"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.598",
+      "en": "Leather Helm",
+      "zh": "皮头盔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:598",
+        "objstrings.rdb:599",
+        "objstrings.rdb:993"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.609",
+      "en": "Cuisses",
+      "zh": "大腿甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:609"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.610",
+      "en": "Greaves",
+      "zh": "护胫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:610"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.614",
+      "en": "Bevor",
+      "zh": "护颔甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:614"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.626",
+      "en": "Hat",
+      "zh": "帽子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:626"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.628",
+      "en": "Bedpan",
+      "zh": "便盆",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:628"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.630",
+      "en": "Pestle",
+      "zh": "研杵",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:630",
+        "objstrings.rdb:799",
+        "objstrings.rdb:878"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.631",
+      "en": "Scoop",
+      "zh": "舀勺",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:631"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.632",
+      "en": "Purse",
+      "zh": "钱袋",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:632"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.633",
+      "en": "Carrier",
+      "zh": "提篮",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:633",
+        "objstrings.rdb:635",
+        "objstrings.rdb:792",
+        "objstrings.rdb:1063",
+        "objstrings.rdb:1064",
+        "objstrings.rdb:1065",
+        "objstrings.rdb:1066"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.636",
+      "en": "Brush",
+      "zh": "刷子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:636",
+        "objstrings.rdb:703"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.640",
+      "en": "Cobbler's Hammer",
+      "zh": "鞋匠锤",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:640",
+        "objstrings.rdb:977"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.641",
+      "en": "Clay Head",
+      "zh": "泥塑头像",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:641",
+        "objstrings.rdb:1067",
+        "objstrings.rdb:1068"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.642",
+      "en": "Tailoring Knife",
+      "zh": "裁缝刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:642"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.643",
+      "en": "Tailoring Tool",
+      "zh": "裁缝工具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:643",
+        "objstrings.rdb:644",
+        "objstrings.rdb:646"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.648",
+      "en": "Weight",
+      "zh": "砝码",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:648",
+        "objstrings.rdb:650",
+        "objstrings.rdb:654",
+        "objstrings.rdb:683",
+        "objstrings.rdb:684"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.649",
+      "en": "Powder Box",
+      "zh": "粉盒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:649"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.652",
+      "en": "Makeup Box",
+      "zh": "化妆盒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:652",
+        "objstrings.rdb:655"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.659",
+      "en": "Counter",
+      "zh": "筹码",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:659",
+        "objstrings.rdb:885",
+        "objstrings.rdb:886",
+        "objstrings.rdb:887",
+        "objstrings.rdb:1021"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.673",
+      "en": "Club",
+      "zh": "木棒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:673"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.675",
+      "en": "Doublet",
+      "zh": "紧身上衣",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:675"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.676",
+      "en": "Shield",
+      "zh": "盾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:676"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.677",
+      "en": "Thread",
+      "zh": "线",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:677",
+        "objstrings.rdb:678",
+        "objstrings.rdb:679",
+        "objstrings.rdb:729",
+        "objstrings.rdb:731",
+        "objstrings.rdb:732"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.680",
+      "en": "Juggling Club",
+      "zh": "杂耍棒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:680",
+        "objstrings.rdb:681",
+        "objstrings.rdb:682"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.685",
+      "en": "Journal",
+      "zh": "日志",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:685"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.700",
+      "en": "Sprayer",
+      "zh": "喷壶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:700"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.705",
+      "en": "Carpentry Tool",
+      "zh": "木工工具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:705",
+        "objstrings.rdb:717"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.706",
+      "en": "Quill Pen",
+      "zh": "羽毛笔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:706",
+        "objstrings.rdb:714",
+        "objstrings.rdb:744",
+        "objstrings.rdb:758",
+        "objstrings.rdb:768",
+        "objstrings.rdb:769",
+        "objstrings.rdb:771"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.709",
+      "en": "Drawknife",
+      "zh": "刨刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:709"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.715",
+      "en": "Plane",
+      "zh": "木刨",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:715"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.719",
+      "en": "Cartwright's Tool",
+      "zh": "车匠工具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:719"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.721",
+      "en": "Chalk",
+      "zh": "粉笔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:721"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.723",
+      "en": "Charcoal",
+      "zh": "木炭",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:723",
+        "objstrings.rdb:725"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.727",
+      "en": "Drawing Compass",
+      "zh": "圆规",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:727"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.728",
+      "en": "Scales",
+      "zh": "天平",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:728"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.737",
+      "en": "Surgical Caliper",
+      "zh": "外科卡钳",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:737"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.742",
+      "en": "Pick Axe",
+      "zh": "鹤嘴锄",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:742",
+        "objstrings.rdb:770"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.745",
+      "en": "Collar",
+      "zh": "项圈",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:745"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.748",
+      "en": "Rusty Metal Bar",
+      "zh": "生锈的金属棒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:748"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.749",
+      "en": "Figurine",
+      "zh": "小雕像",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:749",
+        "objstrings.rdb:751"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.752",
+      "en": "Rusty Mallet",
+      "zh": "生锈的锤子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:752"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.754",
+      "en": "Rusty Chisel",
+      "zh": "生锈的凿子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:754"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.756",
+      "en": "Rusty Pick Axe",
+      "zh": "生锈的鹤嘴锄",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:756"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.757",
+      "en": "Optics",
+      "zh": "光学器具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:757"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.760",
+      "en": "Rusty Rake",
+      "zh": "生锈的耙子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:760"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.761",
+      "en": "Dolly",
+      "zh": "铆钉顶铁",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:761"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.763",
+      "en": "Round Knife",
+      "zh": "圆头皮革刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:763"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.765",
+      "en": "Hole Puncher",
+      "zh": "打孔器",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:765"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.767",
+      "en": "Mallet",
+      "zh": "木槌",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:767"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.777",
+      "en": "Rusty Shovel",
+      "zh": "生锈的铲子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:777"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.778",
+      "en": "Tray",
+      "zh": "托盘",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:778"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.781",
+      "en": "Rusty Scraper",
+      "zh": "生锈的刮刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:781"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.782",
+      "en": "Mortar",
+      "zh": "研钵",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:782",
+        "objstrings.rdb:784"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.786",
+      "en": "Muzzle",
+      "zh": "嘴套",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:786"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.787",
+      "en": "Iron Ingot",
+      "zh": "铁锭",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:787"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.788",
+      "en": "Paint Brush",
+      "zh": "画笔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:788"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.793",
+      "en": "Peg",
+      "zh": "衣夹",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:793",
+        "objstrings.rdb:796"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.797",
+      "en": "Pen",
+      "zh": "笔",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:797"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.800",
+      "en": "Crutch",
+      "zh": "拐杖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:800"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.803",
+      "en": "Diamond",
+      "zh": "钻石",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:803"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.804",
+      "en": "Copper Ingot",
+      "zh": "铜锭",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:804"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.806",
+      "en": "Glass Bowl",
+      "zh": "玻璃碗",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:806"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.807",
+      "en": "Amethyst",
+      "zh": "紫水晶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:807"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.808",
+      "en": "Pan Lid",
+      "zh": "锅盖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:808"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.810",
+      "en": "Emerald",
+      "zh": "祖母绿",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:810"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.811",
+      "en": "Sapphire",
+      "zh": "蓝宝石",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:811"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.812",
+      "en": "Ruby",
+      "zh": "红宝石",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:812"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.813",
+      "en": "Retort",
+      "zh": "曲颈蒸馏瓶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:813",
+        "objstrings.rdb:814"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.816",
+      "en": "Topaz",
+      "zh": "黄玉",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:816"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.817",
+      "en": "Stage Crown",
+      "zh": "戏剧王冠",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:817"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.819",
+      "en": "Seal",
+      "zh": "印章",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:819",
+        "objstrings.rdb:822"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.820",
+      "en": "Nail",
+      "zh": "钉子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:820",
+        "objstrings.rdb:823",
+        "objstrings.rdb:825"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.821",
+      "en": "Rope",
+      "zh": "绳子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:821"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.824",
+      "en": "Slate",
+      "zh": "石板",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:824",
+        "objstrings.rdb:826"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.828",
+      "en": "Soap",
+      "zh": "肥皂",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:828",
+        "objstrings.rdb:830",
+        "objstrings.rdb:832"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.829",
+      "en": "Cobbler's Tool",
+      "zh": "鞋匠工具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:829"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.831",
+      "en": "Walking Stick",
+      "zh": "手杖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:831"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.834",
+      "en": "Spice Holder",
+      "zh": "香料盒",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:834"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.836",
+      "en": "String",
+      "zh": "细绳",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:836"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.839",
+      "en": "Stage Sword",
+      "zh": "道具剑",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:839"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.843",
+      "en": "Wax Tablet",
+      "zh": "蜡板",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:843"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.845",
+      "en": "Wool",
+      "zh": "羊毛",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:845",
+        "objstrings.rdb:847",
+        "objstrings.rdb:849"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.856",
+      "en": "Sack",
+      "zh": "麻袋",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:856",
+        "objstrings.rdb:944"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.858",
+      "en": "Pot",
+      "zh": "陶罐",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:858",
+        "objstrings.rdb:997"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.860",
+      "en": "Whetstone",
+      "zh": "磨刀石",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:860"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.864",
+      "en": "Pan",
+      "zh": "锅",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:864",
+        "objstrings.rdb:868"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.865",
+      "en": "Syringe",
+      "zh": "注射器",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:865"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.872",
+      "en": "Ladel",
+      "zh": "长柄勺",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:872"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.874",
+      "en": "Alchemy Apparatus",
+      "zh": "炼金器具",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:874"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.877",
+      "en": "Flask",
+      "zh": "长颈瓶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:877",
+        "objstrings.rdb:931",
+        "objstrings.rdb:934",
+        "objstrings.rdb:936"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.880",
+      "en": "Broken Disc",
+      "zh": "破碎圆盘",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:880"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.917",
+      "en": "Device",
+      "zh": "装置",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:917"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.919",
+      "en": "Decanter",
+      "zh": "分酒瓶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:919",
+        "objstrings.rdb:1076",
+        "objstrings.rdb:1080",
+        "objstrings.rdb:1081"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.924",
+      "en": "Vest",
+      "zh": "背心",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:924"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.926",
+      "en": "Skull",
+      "zh": "头骨",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:926"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.935",
+      "en": "Stand",
+      "zh": "支架",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:935"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.937",
+      "en": "Carpentry Knife",
+      "zh": "木工刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:937"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.939",
+      "en": "Diviner's Deck",
+      "zh": "占卜纸牌",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:939"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.943",
+      "en": "Wicker Chest",
+      "zh": "柳编箱",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:943"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.947",
+      "en": "Clay",
+      "zh": "黏土",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:947"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.949",
+      "en": "Ball",
+      "zh": "球",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:949"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.950",
+      "en": "Cushion",
+      "zh": "坐垫",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:950"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.951",
+      "en": "Bundle",
+      "zh": "包裹",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:951"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.955",
+      "en": "Satchel",
+      "zh": "挎包",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:955"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.956",
+      "en": "Kerchief",
+      "zh": "方巾",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:956"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.960",
+      "en": "Sash",
+      "zh": "腰带",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:960"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.961",
+      "en": "Orb",
+      "zh": "宝珠",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:961"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.963",
+      "en": "Case",
+      "zh": "匣子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:963"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.965",
+      "en": "Longsword",
+      "zh": "长剑",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:965"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.969",
+      "en": "Sceptre",
+      "zh": "权杖",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:969"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.974",
+      "en": "Leather Cap",
+      "zh": "皮帽",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:974"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.975",
+      "en": "Short Spear",
+      "zh": "短矛",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:975"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.989",
+      "en": "Leather Armour",
+      "zh": "皮甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:989"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.991",
+      "en": "Leather Leggings",
+      "zh": "皮护腿",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:991"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.995",
+      "en": "Glaive",
+      "zh": "长柄偃月刀",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:995"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.998",
+      "en": "Lid",
+      "zh": "盖子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:998"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1003",
+      "en": "Storage",
+      "zh": "储物柜",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1003"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1004",
+      "en": "Portrait",
+      "zh": "肖像画",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1004",
+        "objstrings.rdb:1042",
+        "objstrings.rdb:1043"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1005",
+      "en": "Prosthetic Leg",
+      "zh": "假腿",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1005"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1012",
+      "en": "Awl Pike",
+      "zh": "锥头长枪",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1012"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1020",
+      "en": "Silver Talin",
+      "zh": "塔林银币",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1020"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1024",
+      "en": "Game Piece",
+      "zh": "棋子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1024"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1029",
+      "en": "Cork Lid",
+      "zh": "软木塞",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1029"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1037",
+      "en": "Hand Mirror",
+      "zh": "手镜",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1037"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1038",
+      "en": "Glass Ornament",
+      "zh": "玻璃饰品",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1038",
+        "objstrings.rdb:1040"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1045",
+      "en": "Arm Harness",
+      "zh": "整臂甲",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1045",
+        "objstrings.rdb:1047",
+        "objstrings.rdb:1049"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1062",
+      "en": "Workbench",
+      "zh": "工作台",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1062"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1069",
+      "en": "Pourpoint",
+      "zh": "衬甲紧身衣",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1069"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1075",
+      "en": "Arming Jack",
+      "zh": "武装衬衣",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1075"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1077",
+      "en": "Rod",
+      "zh": "杆子",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1077"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1079",
+      "en": "Candle Stick",
+      "zh": "烛台",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1079"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1084",
+      "en": "Perfume Bottle",
+      "zh": "香水瓶",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1084",
+        "objstrings.rdb:1085",
+        "objstrings.rdb:1092",
+        "objstrings.rdb:1093"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1088",
+      "en": "Glass Goblet",
+      "zh": "玻璃高脚杯",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1088",
+        "objstrings.rdb:1090",
+        "objstrings.rdb:1091"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1094",
+      "en": "Brass Plate",
+      "zh": "黄铜盘",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1094",
+        "objstrings.rdb:1095"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1096",
+      "en": "Marble Urn",
+      "zh": "大理石瓮",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1096",
+        "objstrings.rdb:1097",
+        "objstrings.rdb:1098",
+        "objstrings.rdb:1099",
+        "objstrings.rdb:1100",
+        "objstrings.rdb:1101",
+        "objstrings.rdb:1102",
+        "objstrings.rdb:1103",
+        "objstrings.rdb:1104",
+        "objstrings.rdb:1105",
+        "objstrings.rdb:1106",
+        "objstrings.rdb:1107"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "item.1121",
+      "en": "Pendant",
+      "zh": "吊坠",
+      "source": "objstrings.rdb",
+      "source_ids": [
+        "objstrings.rdb:1121"
+      ],
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

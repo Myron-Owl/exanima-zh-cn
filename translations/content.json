@@ -1,0 +1,437 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "exe:0030de68",
+      "source": "Exanima.exe",
+      "offset": 3202664,
+      "en": "You are sworn to uphold the law of Ardent and you carry the king's authority over all. The king has been petitioned to stop a series of abductions occuring in the villages of Benston and Pirn. A proctor was sent before you, but she has not reported back and is considered missing.",
+      "zh": "你宣誓维护阿登的律法，代表国王行使权力。班斯顿和皮恩的村民向国王请愿，要求制止两地接连发生的绑架事件。在你之前曾有一位女执法官奉命调查，但她一直没有回报消息，现已被认定失踪。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0030dfa0",
+      "source": "Exanima.exe",
+      "offset": 3202976,
+      "en": "You are a cobbler of notable skill from the village of Pirn. From time to time you travel to nearby villages in an effort to expand your market. On the latest such occasion you were ambushed during your trip. Your assailants appear to have no interest in your goods, they abducted you without giving reason.",
+      "zh": "你是皮恩村一名手艺出众的鞋匠。为了招揽更多生意，你时常前往附近的村庄。最近一次出门时，你在途中遭到伏击。袭击者似乎对你的货物毫无兴趣，他们不由分说地绑走了你。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0030fe78",
+      "source": "Exanima.exe",
+      "offset": 3210872,
+      "en": "Do you wish to reset all progress after the portal?",
+      "zh": "是否重置通过传送门之后的全部进度？",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310c08",
+      "source": "Exanima.exe",
+      "offset": 3214344,
+      "en": "Augmenting strikes by swinging and moving your body can greatly increase damage.",
+      "zh": "挥动武器时配合身体的摆动和移动，可以大幅提高伤害。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310c78",
+      "source": "Exanima.exe",
+      "offset": 3214456,
+      "en": "Your character is subject to physics, your inputs must work in harmony with them.",
+      "zh": "角色的动作受物理规律支配，操作需要顺应身体的运动。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310ce8",
+      "source": "Exanima.exe",
+      "offset": 3214568,
+      "en": "Even when a parry is not successful, attempting to defend will reduce damage taken.",
+      "zh": "即便招架失败，尝试防御也能减少受到的伤害。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310d58",
+      "source": "Exanima.exe",
+      "offset": 3214680,
+      "en": "Let go of LMB at any time to perform a feint or abandon your attack to defend instead.",
+      "zh": "攻击过程中随时松开鼠标左键，即可虚晃一招，或放弃攻击转为防御。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310dc8",
+      "source": "Exanima.exe",
+      "offset": 3214792,
+      "en": "To successfully block or parry you must turn and position yourself to face the blow.",
+      "zh": "想成功格挡或招架，你必须调整朝向和站位，迎向来袭的攻击。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310e38",
+      "source": "Exanima.exe",
+      "offset": 3214904,
+      "en": "NPCs play by the same exact rules, make human errors and have slow reaction times.",
+      "zh": "非玩家角色遵循与你完全相同的规则，也会犯错，反应也需要时间。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310ea8",
+      "source": "Exanima.exe",
+      "offset": 3215016,
+      "en": "To attack from your left, move the cursor to your character's left before pressing LMB.",
+      "zh": "想从角色左侧发起攻击，先将光标移到角色左侧，再按鼠标左键。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310f18",
+      "source": "Exanima.exe",
+      "offset": 3215128,
+      "en": "To deliver significant damage you must land clean hits with the correct part of your weapon.",
+      "zh": "想造成可观的伤害，必须用武器的有效部位干净利落地命中目标。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00310f90",
+      "source": "Exanima.exe",
+      "offset": 3215248,
+      "en": "Use dashes to attack your opponents from unexpected angles and bypass their defences.",
+      "zh": "利用突进从意想不到的角度发起攻击，绕开对手的防御。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311000",
+      "source": "Exanima.exe",
+      "offset": 3215360,
+      "en": "Watch your opponent closely and land your attacks when they are most vulnerable.",
+      "zh": "仔细观察对手，在其最脆弱的时机发动攻击。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311070",
+      "source": "Exanima.exe",
+      "offset": 3215472,
+      "en": "Overhead attacks can deliver devastating head blows and hit prone opponents.",
+      "zh": "下劈能对头部造成重创，也能攻击倒地的对手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003110d8",
+      "source": "Exanima.exe",
+      "offset": 3215576,
+      "en": "Slash damage is effective on weak and slicing blows but easily mitigated by armour.",
+      "zh": "斩击在轻击和切割时也能造成伤害，但容易被护甲抵御。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311148",
+      "source": "Exanima.exe",
+      "offset": 3215688,
+      "en": "Piercing damage is better at finding potential gaps and weak spots in armour.",
+      "zh": "穿刺伤害更容易突破护甲的缝隙和薄弱部位。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003111b0",
+      "source": "Exanima.exe",
+      "offset": 3215792,
+      "en": "Crushing damage is reliant on strong blows but typically most effective against armour.",
+      "zh": "钝击伤害依赖有力的打击，但通常最适合对付护甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311220",
+      "source": "Exanima.exe",
+      "offset": 3215904,
+      "en": "Weapons with a higher balance are quicker and more responsive.",
+      "zh": "平衡值越高的武器，动作越快，响应也越灵敏。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311278",
+      "source": "Exanima.exe",
+      "offset": 3215992,
+      "en": "Impact mainly deals stamina damage but also affects all other damage types.",
+      "zh": "冲击主要造成体力损伤，同时也会影响其他类型的伤害。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003112e0",
+      "source": "Exanima.exe",
+      "offset": 3216096,
+      "en": "Armour can be worn in layers for even better protection.",
+      "zh": "护甲可以分层穿戴，以获得更好的防护。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311338",
+      "source": "Exanima.exe",
+      "offset": 3216184,
+      "en": "Higher coverage armour has fewer exposed parts and weaknesses.",
+      "zh": "覆盖率越高的护甲，暴露部位和防护弱点就越少。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311390",
+      "source": "Exanima.exe",
+      "offset": 3216272,
+      "en": "Press TAB to toggle combat mode or I to toggle the inventory. Double click bodies to loot them.",
+      "zh": "按 TAB 切换战斗状态，按 I 打开或关闭物品栏。双击尸体可搜取物品。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311460",
+      "source": "Exanima.exe",
+      "offset": 3216480,
+      "en": "Congratulations! You have defeated all ten opponents.",
+      "zh": "恭喜！你击败了全部十名对手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003114b0",
+      "source": "Exanima.exe",
+      "offset": 3216560,
+      "en": "Congratulations! You have defeated all opponents in the novice arena!",
+      "zh": "恭喜！你击败了新手竞技场的全部对手！",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00311510",
+      "source": "Exanima.exe",
+      "offset": 3216656,
+      "en": "Congratulations! You have defeated all opponents in the expert arena!",
+      "zh": "恭喜！你击败了专家竞技场的全部对手！",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00313658",
+      "source": "Exanima.exe",
+      "offset": 3225176,
+      "en": "Are you sure you want to forget this technique?",
+      "zh": "确定要遗忘这项技巧吗？",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00319dd8",
+      "source": "Exanima.exe",
+      "offset": 3251672,
+      "en": "[algn=2]Single combat between two fighters with no restrictions of rank.",
+      "zh": "[algn=2]两名斗士一对一交锋，不限制级别。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00319e40",
+      "source": "Exanima.exe",
+      "offset": 3251776,
+      "en": "[algn=2]A series of five duels, the victor continues to the next round.",
+      "zh": "[algn=2]连续进行五场决斗，胜者晋级下一轮。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00319ea0",
+      "source": "Exanima.exe",
+      "offset": 3251872,
+      "en": "[algn=2]One fighter faces two fighters of one rank lower.",
+      "zh": "[algn=2]一名斗士迎战两名比自己低一级的斗士。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00319ef8",
+      "source": "Exanima.exe",
+      "offset": 3251960,
+      "en": "[algn=2]One fighter faces three fighters of two ranks lower.",
+      "zh": "[algn=2]一名斗士迎战三名比自己低两级的斗士。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00319f50",
+      "source": "Exanima.exe",
+      "offset": 3252048,
+      "en": "[algn=2]One fighter leads two of lower rank against an equal team.",
+      "zh": "[algn=2]一名斗士率领两名较低级别的斗士，迎战同等配置的队伍。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00319fb0",
+      "source": "Exanima.exe",
+      "offset": 3252144,
+      "en": "[algn=2]Six fighters engage in unarmed combat until only one stands.\r\nWinners are chosen based on their performance.",
+      "zh": "[algn=2]六名斗士徒手混战，直至只剩一人站立。\r\n胜者根据比赛表现评定。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a040",
+      "source": "Exanima.exe",
+      "offset": 3252288,
+      "en": "[algn=2]Three fighters attempt the feat of bringing down a mighty ogre.",
+      "zh": "[algn=2]三名斗士合力挑战强大的食人魔。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a0a0",
+      "source": "Exanima.exe",
+      "offset": 3252384,
+      "en": "[algn=2]Single combat between two equally matched fighters.",
+      "zh": "[algn=2]两名实力相当的斗士一对一交锋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a0f8",
+      "source": "Exanima.exe",
+      "offset": 3252472,
+      "en": "[algn=2]A team of two faces an equal team on the opposing side.",
+      "zh": "[algn=2]两人一队，迎战同等配置的对手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a150",
+      "source": "Exanima.exe",
+      "offset": 3252560,
+      "en": "[algn=2]A team of three faces an equal team on the opposing side.",
+      "zh": "[algn=2]三人一队，迎战同等配置的对手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a1b0",
+      "source": "Exanima.exe",
+      "offset": 3252656,
+      "en": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+      "zh": "[algn=2]六名斗士混战，直至只剩一人站立。\r\n胜者根据比赛表现评定。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a240",
+      "source": "Exanima.exe",
+      "offset": 3252800,
+      "en": "[algn=2]Three fighters per side duel until one team has no more reserves.\r\nEach round lost reduces the prize.",
+      "zh": "[algn=2]双方各有三名斗士轮流决斗，直至一方无人可战。\r\n每输一轮，奖金都会减少。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a2c8",
+      "source": "Exanima.exe",
+      "offset": 3252936,
+      "en": "[algn=2]Single combat between fighters using only their bare hands.",
+      "zh": "[algn=2]斗士只用双拳进行一对一决斗。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a328",
+      "source": "Exanima.exe",
+      "offset": 3253032,
+      "en": "[algn=2]Four rounds of duels, victors face each other until one remains.",
+      "zh": "[algn=2]进行四轮决斗，胜者继续交锋，直至决出最后一人。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a390",
+      "source": "Exanima.exe",
+      "offset": 3253136,
+      "en": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+      "zh": "[algn=2]六名斗士混战，直至只剩一人站立。\r\n胜者根据比赛表现评定。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a420",
+      "source": "Exanima.exe",
+      "offset": 3253280,
+      "en": "[algn=2]Four rounds of duels using a weapon chosen for the event.\r\nVictors face each other until one remains.",
+      "zh": "[algn=2]使用本项目指定的武器，进行四轮决斗。\r\n胜者继续交锋，直至决出最后一人。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a4a8",
+      "source": "Exanima.exe",
+      "offset": 3253416,
+      "en": "[algn=2]Six fighters engage in combat using a weapon chosen for the event.\r\nWinners are chosen based on their performance.",
+      "zh": "[algn=2]六名斗士使用本项目指定的武器混战。\r\n胜者根据比赛表现评定。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031a540",
+      "source": "Exanima.exe",
+      "offset": 3253568,
+      "en": "[algn=2]Teams of two face each other in three rounds. \r\nDefeated fighters do not continue to the next round.",
+      "zh": "[algn=2]两人一队，进行三轮交锋。 \r\n落败的斗士无法参加下一轮。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:0031ada0",
+      "source": "Exanima.exe",
+      "offset": 3255712,
+      "en": "[algn=2]There are no more matches running this day.\r\nEnd the day to participate in more matches.",
+      "zh": "[algn=2]今天已没有其他比赛。\r\n结束当天后，即可参加新的比赛。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00323640",
+      "source": "Exanima.exe",
+      "offset": 3290688,
+      "en": "\rThis is your base of operations and living space.\r\r[tcol=FFE399]Manage[/tcol] your company by clicking on the board on our left.\r\rDirectly ahead is a [tcol=FFE399]Shop[/tcol] where you can buy and sell equipment.\r\r[tcol=FFE399]Matches[/tcol] that you can participate in are accessed from the board on your right.",
+      "zh": "\r这里是你的行动基地，也是你的住处。\r\r点击左侧的告示板，即可[tcol=FFE399]管理[/tcol]战队。\r\r正前方是[tcol=FFE399]商店[/tcol]，可以买卖装备。\r\r点击右侧的告示板，即可查看能够参加的[tcol=FFE399]比赛[/tcol]。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003237c0",
+      "source": "Exanima.exe",
+      "offset": 3291072,
+      "en": "\rThe inventory shows items you are currently wearing and carrying.\r\rItems you wear while outside of a match are not carried into matches. To equip items for combat you must use the management screen.",
+      "zh": "\r物品栏显示你当前穿戴和携带的物品。\r\r你在比赛之外穿戴的装备不会带入赛场。要配置比赛装备，请使用管理界面。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003238c0",
+      "source": "Exanima.exe",
+      "offset": 3291328,
+      "en": "\rMatches are split into three main categories.\r\r[tcol=FFE399]Standard[/tcol] matches can be run at any time and configured to your preference.\r\r[tcol=FFEF99]Specials[/tcol] change daily and can only be run when and as available.\r\r[tcol=FFE399]Tournaments[/tcol] are weekly multiple match events where fighting companies compete for important prizes.\r\rSelect a match and then enter your fighters by dragging them to the right. Some matches require multiple participants.\r\r[tcol=FFE399]Rank[/tcol] is a requirement, your fighter must attain this rank before they can participate.\r\r[tcol=FFE399]Tier[/tcol] indicates the level of equipment used in the match. This corresponds to your loadouts in the manage screen.",
+      "zh": "\r比赛分为三大类。\r\r[tcol=FFE399]常规赛[/tcol]随时可以参加，也可按你的喜好设置。\r\r[tcol=FFEF99]特别赛[/tcol]每天更换，只能在开放时参加。\r\r[tcol=FFE399]锦标赛[/tcol]每周举办，包含多个比赛项目，各战队将争夺丰厚奖励。\r\r选定比赛后，将斗士拖到右侧即可报名。有些比赛需要多名参赛者。\r\r[tcol=FFE399]级别[/tcol]是参赛要求，斗士达到该级别后才能报名。\r\r[tcol=FFE399]装备级别[/tcol]表示本场使用哪一级装备，对应管理界面中的装备方案。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00323bc0",
+      "source": "Exanima.exe",
+      "offset": 3292096,
+      "en": "\rThis is where you can buy and sell items.\r\rDrag items you want to buy from the shop's stock to the right pane, items you want to sell go in the left pane.\r\rYou can try items on before you buy them by dragging them on to the paperdoll.\r\rNote that rank restrictions are applied to some items. You must achieve that rank and participate in appropriate matches to use these.\r\rInvest early and invest wisely, even a few basic layers of clothing can offer great protection from injury.",
+      "zh": "\r你可以在这里买卖物品。\r\r将想买的货品拖到右侧栏，将想卖的物品放入左侧栏。\r\r购买前，可以将装备拖到角色模型上试穿。\r\r部分物品有级别限制。你必须达到相应级别，并参加符合条件的比赛，才能使用这些物品。\r\r尽早添置装备，明智地花钱；哪怕只是几层普通衣物，也能有效减少受伤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00323de8",
+      "source": "Exanima.exe",
+      "offset": 3292648,
+      "en": "\r[tcol=FFE399]Manage[/tcol] equipment and training for your roster.\r\rThe [tcol=FFE399]Arsenal[/tcol] allows you to organise your equipment.\r\r[tcol=FFE399]Recruit[/tcol] new fighters to control in battle.\r\r[tcol=FFE399]Hire[/tcol] combatants for team matches and other staff.\r\rDaily [tcol=FFE399]report[/tcol] items can be double clicked to take action.",
+      "zh": "\r为名册中的斗士[tcol=FFE399]管理[/tcol]装备和训练。\r\r通过[tcol=FFE399]军械库[/tcol]整理你的装备。\r\r[tcol=FFE399]招募[/tcol]新的斗士，由你在战斗中操控。\r\r[tcol=FFE399]雇用[/tcol]团队赛斗士及其他工作人员。\r\r双击每日[tcol=FFE399]报告[/tcol]中的条目，可处理相关事项。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00323f88",
+      "source": "Exanima.exe",
+      "offset": 3293064,
+      "en": "\rFighters gain a [tcol=FFE399]rank[/tcol] every two skill techniques learnt.\r\rEach rank has a corresponding loadout. Which loadout is used depends on the tier of the match. Use the slider to select a ranked loadout.\r\r[tcol=FFE399]Point[/tcol] limits are also applied to each rank. Every item carries a point cost.",
+      "zh": "\r斗士每学会两项技能技巧，就会提升一个[tcol=FFE399]级别[/tcol]。\r\r每个级别都有对应的装备方案。比赛的装备级别决定使用哪套方案。拖动滑块可选择相应级别的方案。\r\r各级别还有[tcol=FFE399]点数[/tcol]上限，每件物品都占用一定点数。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00324100",
+      "source": "Exanima.exe",
+      "offset": 3293440,
+      "en": "\r[tcol=FF0000C0]You are about to enter your manager into a match. If your manager is killed you will lose all progress![/tcol]\r\rConsider recruiting fighters to avoid unnecessary risks.",
+      "zh": "\r[tcol=FF0000C0]你即将让经理参赛。如果经理死亡，你将失去全部进度！[/tcol]\r\r建议招募斗士代为出战，避免不必要的风险。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:00324200",
+      "source": "Exanima.exe",
+      "offset": 3293696,
+      "en": "\rThe items you have purchased can be found in your Arsenal, accessible through the Roster.",
+      "zh": "\r你购买的物品存放在军械库中，可通过人员名册进入。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "exe:003242a0",
+      "source": "Exanima.exe",
+      "offset": 3293856,
+      "en": "\rTournaments are held weekly. Fighting companies compete in each tournament for a prize. If a company wins all four tournaments in a season they are awarded an exclusive suit of armour.\r\rYou must enter fighters in advance of the tournament day; once the tournament is in progress you will not be able to enter or remove fighters. Only master rank fighters are eligible to participate in tournaments.\r\rTo win a tournament you must win at least three of the six events. It is advisable to enter different fighters in as many events as you can to improve your chances of winning.",
+      "zh": "\r锦标赛每周举行，各战队争夺每场锦标赛的奖励。若一支战队赢下同一赛季的全部四场锦标赛，就能获得一套专属护甲。\r\r必须在比赛日之前为斗士报名；锦标赛开始后，将无法增加或移除参赛斗士。只有大师级斗士才能参赛。\r\r赢得六个项目中的至少三个，即可夺得锦标赛冠军。建议派不同的斗士参加尽可能多的项目，以增加获胜机会。",
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

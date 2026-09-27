@@ -1,0 +1,3056 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "objstrings.rdb:4",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A solid iron stake.",
+      "zh": "一根结实的铁桩。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:12",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "bardiche",
+      "zh": "长柄大斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:15",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A simple shirt.",
+      "zh": "一件朴素的衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:31",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-maul",
+      "zh": "-重锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:33",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An old and rusted short sword.",
+      "zh": "一把陈旧生锈的短剑。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:34",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "battle axe",
+      "zh": "战斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:36",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "mace",
+      "zh": "钉头锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:39",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-cudgel",
+      "zh": "-短棍",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:40",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "war hammer",
+      "zh": "战锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:41",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-billhook",
+      "zh": "-钩镰",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:42",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-sickle",
+      "zh": "-镰刀",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:43",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A primitive looking and oddly proportioned sword with a needlessly thick blade. [sq]",
+      "zh": "这把剑外形粗陋，比例古怪，剑身厚得毫无必要。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:44",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "pole hammer",
+      "zh": "长柄战锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:46",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "pole axe",
+      "zh": "长柄战斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:47",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "halberd",
+      "zh": "戟",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:50",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "@WEAR75:The thick substance in this jar emits a faint glow and has a pungent but somehow inviting odour.\r\n\r\n@WEAR00:There is a faintly glowing residue in this jar.",
+      "zh": "@WEAR75:罐内的黏稠物质散发着微光，气味刺鼻，却莫名地令人想要靠近。\r\n\r\n@WEAR00:罐里残留着一些微微发光的物质。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:53",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "shortsword",
+      "zh": "短剑",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:54",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A simple iron key.",
+      "zh": "一把普通的铁钥匙。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:56",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This book presents itself as nothing more than a collection of absurd theories on the existence of ghosts, however there are parts written in a different tone.\r\n\r\n\"There is an innate power in the ghost realm, unlike the physical world it is not governed by the constraints of matter or the laws of physics. A ghost can conjure anything, any object or power they can simply call into being, much as we do when we dream. This however requires keen awareness of their condition, an understanding of their realm and their place within it. Most ghosts wander in a state of confusion, at the mercy of twisted thoughts and perceptions, but not all. There are those that have awakened, or perhaps never slept, never were in a dream like state. These wield great power, they can shape things not only in the ghost realm but within our own.\"",
+      "zh": "这本书看起来不过是一些关于幽灵存在的荒诞理论的汇编，但有些段落的语气却截然不同。\r\n\r\n“幽灵的领域中蕴藏着一种与生俱来的力量。它不同于物质世界，不受物质的束缚，也不遵循物理法则。幽灵可以凭空造出任何东西，无论是物体还是力量，只要一念便能使其存在，正如我们在梦中所做的那样。然而，这要求它们清楚地认识自身的处境，理解自己的领域及自身在其中的位置。大多数幽灵都在迷惘中游荡，任由扭曲的思想和感知摆布，但并非全部如此。有些已经醒来，或许它们从未沉睡，也从未陷入梦一般的状态。它们拥有强大的力量，不仅能够塑造幽灵领域中的事物，也能塑造我们世界中的事物。”",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:64",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of leather trousers.",
+      "zh": "一条皮裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:65",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A worn pair of leather shoes.",
+      "zh": "一双磨损的皮鞋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:92",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An ornate iron key.",
+      "zh": "一把装饰精美的铁钥匙。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:95",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather cap.",
+      "zh": "皮帽。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:96",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 5,
+      "en": "The contents of this bottle have long ago evaporated.",
+      "zh": "瓶中的东西早已蒸发殆尽。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:97",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "The contents of this large jar seem to have turned to dust.",
+      "zh": "这个大罐子里的东西似乎已经化成了灰。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:98",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "Only a hard residue remains at the bottom of this jar.",
+      "zh": "罐底只剩下一层坚硬的残渣。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:103",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A thick leather tunic, reasonably well made and in average condition.",
+      "zh": "一件厚皮短袍，做工尚好，保存状况一般。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:111",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A dusty old logbook.",
+      "zh": "一本布满灰尘的旧记录簿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:128",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An average pair of hard leather greaves.",
+      "zh": "一对普通的硬皮护胫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:131",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A worn long sleeved chain shirt.",
+      "zh": "一件磨损的长袖锁子甲衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:133",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "Binding of the Dead by Linus Fendrick.\r\n\r\nThe pages of this book are stuck together and ruined by copious amounts of blood.",
+      "zh": "《亡者的束缚》，莱纳斯·芬德里克著。\r\n\r\n大量鲜血浸透了书页，使它们黏结在一起，难以辨读。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:136",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "Life of Linus Fendrick by Anonymous.\r\n\r\nA famous book with an even more famous story surrounding it, often told by mothers to their young children, a cautionary tale on the dark and sinister trappings of thaumaturgy. Fendrick was a gifted thaumaturge who lost his young wife and three children in some gruesome accident. He was thus driven to necromancy in the hope of resurrecting them, not the traditional crude raising of the dead, but with full sentience and cognizance. His practices and experiments were most vile in nature. Kidnappings, torture, murder, keeping his family's bodies in a state between life and death for some forty years; his crimes were plentiful and led to nothing save failure and despair.",
+      "zh": "《莱纳斯·芬德里克传》，佚名著。\r\n\r\n这本书很有名，书中的故事更是家喻户晓。母亲们常用它告诫年幼的孩子：异能之术潜藏着黑暗而险恶的诱惑。芬德里克是位天赋卓绝的异能术士，却在一场惨烈的意外中失去了年轻的妻子和三个孩子。为了让他们复活，他开始钻研死灵术。他追求的不是传统而粗陋的唤起死者，而是让他们带着完整的意识和认知归来。他的行径与实验极为邪恶：绑架、折磨、谋杀，让家人的尸身在生死之间维持了约四十年。他罪行累累，最终却只得到了失败与绝望。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:138",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "Deconstructing Humanity by Aldair Hanks.\r\n\r\nA medical book on human anatomy. Mostly complex diagrams and surgical terminology. There are many underlined passages and circled diagrams in the section that deals with the brain.",
+      "zh": "《解构人类》，阿尔代尔·汉克斯著。\r\n\r\n一本研究人体解剖的医学著作，内容大多是复杂的图解和外科术语。论述大脑的部分，有许多段落被划了线，插图也被圈了出来。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:139",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sturdy leather vest, clearly designed for women.",
+      "zh": "一件结实的皮背心，显然是为女性设计的。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:141",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "The Forgotten Power by Anonymous\r\n\r\nAccording to this book humans are powerful, immortal beings that have forgotten their true nature. That, by living your life by a certain moral code, performing certain rituals and eating a certain diet, you can achieve great power and ultimately unlock your dormant immortality.",
+      "zh": "《被遗忘的力量》，佚名著。\r\n\r\n这本书声称，人类原本是强大而不朽的存在，只是忘记了自己的本性。只要遵循某种道德准则生活，举行特定的仪式，并采用特定的饮食，就能获得巨大的力量，最终唤醒沉睡的不朽之身。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:143",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather vambraces.",
+      "zh": "一对\u0010皮前臂甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:144",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "Forgotten by Aime Koren.\r\n\r\nA scholarly book about memory and cognizance. What we forget and why we forget it, how we choose to make a history for ourselves regardless of the facts, how we are defined by the wholly unreliable and subjective thing we call memory.",
+      "zh": "《遗忘》，艾梅·科伦著。\r\n\r\n一本研究记忆与认知的学术著作。书中探讨我们会忘记什么、为何会忘记，如何罔顾事实为自己编织过往，以及我们如何被记忆这种极不可靠、充满主观性的东西所定义。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:145",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather spaulders.",
+      "zh": "一对\u0010皮肩甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:147",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "layered gambeson.",
+      "zh": "多层衬甲衣。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:150",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "hose",
+      "zh": "紧身袜裤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:152",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 layered cloth leggings.",
+      "zh": "一对\u0010多层布护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:153",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sturdy pair of leather boots in poor condition.",
+      "zh": "一双结实但破旧的皮靴。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:155",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An average pair of leather shoes in excellent condition.",
+      "zh": "一双普通的皮鞋，保存得很好。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:157",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "spiked mace",
+      "zh": "尖刺钉头锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:158",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A light, well crafted sword.",
+      "zh": "一把轻巧、做工精良的剑。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:159",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "great axe",
+      "zh": "巨斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:160",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "voulge",
+      "zh": "长柄砍刀",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:163",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large metal buckler.",
+      "zh": "一面大号金属小圆盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:164",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A basic wood buckler.",
+      "zh": "一面简易木制小圆盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:167",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sturdy wooden round shield.",
+      "zh": "一面结实的木圆盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:168",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A small wooden square shield.",
+      "zh": "一面小型木方盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:170",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A well made heater shield.",
+      "zh": "一面做工精良的熨斗形盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:171",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-spiked club",
+      "zh": "-尖刺木棒",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:175",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 9,
+      "en": "A pair of \u0010 plate vambraces.",
+      "zh": "一对\u0010板甲前臂甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:176",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "two-handed sword",
+      "zh": "双手剑",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:178",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A very well balanced and sharp two-handed sword.",
+      "zh": "一把锋利的双手剑，平衡极佳。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:179",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "arming jack",
+      "zh": "武装衬衣",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:181",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A simple torch.",
+      "zh": "一支普通的火把。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:190",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "plate helm.",
+      "zh": "板甲头盔。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:194",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "plate armour.",
+      "zh": "板甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:195",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "mail vest.",
+      "zh": "锁甲背心。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:196",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 lamellar vambraces.",
+      "zh": "一对\u0010札甲前臂甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:198",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather vest. Clearly this was designed for women.",
+      "zh": "皮背心，显然是为女性设计的。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:199",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "plate armour. It is made from a metal similar to brass, but while heavy, it serves its purpose well.",
+      "zh": "板甲。它由一种类似黄铜的金属制成，虽重，却能提供良好的防护。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:200",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "long-sleeved mail shirt.",
+      "zh": "长袖锁子甲衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:203",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 mail gauntlets.",
+      "zh": "一对\u0010锁甲护手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:205",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 5,
+      "en": "A pair of \u0010 plate gauntlets",
+      "zh": "一对\u0010板甲护手",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:206",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather thigh boots.",
+      "zh": "一双\u0010过膝皮靴。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:209",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 mail leggings.",
+      "zh": "一对\u0010锁甲护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:210",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 plate leggings.",
+      "zh": "一对\u0010板甲护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:214",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 lamellar greaves.",
+      "zh": "一对\u0010札甲护胫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:215",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather greaves.",
+      "zh": "一对\u0010皮护胫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:217",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-hammer",
+      "zh": "-锤子",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:219",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 5,
+      "en": "A pair of \u0010 plate sabatons.",
+      "zh": "一双\u0010板甲铁靴。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:221",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-long knife",
+      "zh": "-长刀",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:223",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "simple tunic.",
+      "zh": "朴素的短袍。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:224",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather tunic.",
+      "zh": "皮短袍。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:226",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "velvet tunic.",
+      "zh": "天鹅绒短袍。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:228",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "suede leather tunic.",
+      "zh": "绒面皮短袍。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:229",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "leather belt",
+      "zh": "皮腰带",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:232",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "simple shirt.",
+      "zh": "朴素的衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:235",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "velvet shirt.",
+      "zh": "天鹅绒衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:237",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A suede leather shirt.",
+      "zh": "一件绒面皮衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:238",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of thick leather gauntlets.",
+      "zh": "一对厚皮护手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:244",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 cloth trousers.",
+      "zh": "一条\u0010布裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:245",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather trousers.",
+      "zh": "一条\u0010皮裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:246",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 silk trousers.",
+      "zh": "一条\u0010丝绸长裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:248",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 suede trousers.",
+      "zh": "一条\u0010绒面皮裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:249",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "simple cloth shirt.",
+      "zh": "朴素的布衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:251",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 5,
+      "en": "A pair of \u0010 leather shoes.",
+      "zh": "一双\u0010皮鞋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:253",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 suede shoes.",
+      "zh": "一双\u0010绒面皮鞋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:254",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A pair of \u0010 leather boots.",
+      "zh": "一双\u0010皮靴。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:256",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-iron bar",
+      "zh": "-铁棒",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:257",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-hand saw",
+      "zh": "-手锯",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:259",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A piece of a crate with protruding nails.",
+      "zh": "一块木箱碎板，上面露着钉子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:260",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large wooden stake.",
+      "zh": "一根大木桩。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:261",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-pitchfork",
+      "zh": "-草叉",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:263",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-sledgehammer",
+      "zh": "-大锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:265",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A piece of a broken chair.",
+      "zh": "一块断椅残片。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:268",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A metal crutch.",
+      "zh": "一根金属拐杖。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:272",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "A simple broom.\r\n",
+      "zh": "一把普通的扫帚。\r\n",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:274",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A metal hook attached to a long wooden pole.",
+      "zh": "一根长木杆，末端装着金属钩。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:275",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A solid metal candle holder.",
+      "zh": "一只坚实的金属烛台。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:279",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "two-handed falchion.",
+      "zh": "双手弯刃刀。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:283",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A well made heater shield with an unknown insignia.",
+      "zh": "一面做工精良的熨斗形盾，带有不明徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:296",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A brass compass.",
+      "zh": "一只黄铜指南针。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:298",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather vest.",
+      "zh": "皮背心。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:302",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 8,
+      "en": "A pair of \u0010 plate spaulders.",
+      "zh": "一对\u0010板甲肩甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:303",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 rerebraces.",
+      "zh": "一对\u0010上臂甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:305",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-hatchet",
+      "zh": "-手斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:309",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "The lid of a barrel, could be used as a crude shield.",
+      "zh": "一个木桶盖，可以充作简陋的盾牌。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:314",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 4,
+      "en": "waistcoat.",
+      "zh": "马甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:317",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "short-sleeved mail shirt.",
+      "zh": "短袖锁子甲衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:318",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "steel breastplate.",
+      "zh": "钢制胸甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:319",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 6,
+      "en": "A pair of \u0010 plate greaves.",
+      "zh": "一对\u0010板甲护胫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:320",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 44,
+      "en": "helmet",
+      "zh": "头盔",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:323",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This book explores various myths surrounding the Guardian but does so in what seems like a tendentious manner, casting him in a more positive light than he is commonly viewed in. You suspect it is tied to some cult dedicated to the worship of the Guardian.\r\n\r\nThe Guardian of the Underworld, known also as the Keeper of the Dead, is the most prominent figure in our mythology. As with most our myths it differs depending on whom you ask, the Guardian's role in particular is an ambivalent one. There is fear of what he represents and of his dark and dangerous realm but there is also a feeling of deference and a belief that he will watch over our loved ones once they pass away. We inter our dead to consign them to the Guardian's care and we believe that he will grant them a life beyond this one. Behind the intimidating titles and malicious curses the Guardian is also a giver of life. He is said to restore life to those that have fallen in his service, or that some become beholden to him owing to their resurrection. Perhaps the most notable myth is that in a time of dire need the Guardian will raise an army of those given into his care to defend us. What is it then that he guards? Does he simply watch over our dead and his dreadful realm or might it be that he is in fact our protector?",
+      "zh": "这本书探讨了关于守护者的种种传说，但似乎刻意将他描绘得比世人通常认为的更加正面。你怀疑它与某个崇拜守护者的教派有关。\r\n\r\n冥界守护者，也被称作亡者看守，是我们神话中最显赫的存在。和大多数传说一样，不同的人有不同的说法，而守护者的身份尤其矛盾。人们畏惧他所象征的事物，畏惧他那黑暗而危险的领域，却又心怀敬意，相信他会照看逝去的亲人。我们将死者埋入地下，把他们托付给守护者，相信他会赐予他们此生之后的另一段生命。在令人畏惧的名号和恶毒的诅咒背后，守护者也是生命的赐予者。据说他会使那些为他效力而死的人重获生命，也有人因复活之恩而臣服于他。最广为人知的传说或许是：危难之际，守护者会唤起那些托付于他的亡者，组成军队保卫我们。那么，他究竟守护着什么？他只是在看守我们的亡者和他那可怕的领域，还是说，他其实是我们的保护者？",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:325",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "The Earth on which we walk is our mother, she provides for us all that we may need. Our ancestors, in their mad lust for power sought more, they began to dig deep into our Earth, in search of her lifeblood. And so by digging they uncovered the Underworld and its fearsome Guardian. He sent forth terrible demons to drive them out and hunt them down. Before all could be slain, our ancient kin sealed the entrances to the Underworld and swore never to return. Thus are we allowed to live upon this Earth, but ever under the watchful eye of the Guardian.",
+      "zh": "我们脚下的大地是母亲，她赐予我们生活所需的一切。先祖却疯狂地渴望力量，不肯知足。他们向大地深处挖掘，寻找母亲的生命之血。于是，他们挖开了冥界，也惊动了可怖的守护者。他派出骇人的恶魔，驱逐并追猎他们。在所有人惨遭杀戮之前，古老的先民封住了冥界的入口，发誓永不返回。我们因而获准继续生活在大地上，却永远处于守护者的注视之下。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:328",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This appears to be the final page of a letter.\r\n\r\n\"... and assist him in whatever way you can. If all else fails then recover any information he has gathered and bring it to me. There is potential in you, succeed here and we will find a place for you.\r\n\r\nBadly scribbled across the back of the page are the following words:\r\n\r\n\"There is another way out\"",
+      "zh": "这似乎是一封信的最后一页。\r\n\r\n“……并尽你所能协助他。若一切努力都失败了，就取回他收集的所有情报，带来给我。你颇有潜力；办成此事，我们自会给你安排一席之地。\r\n\r\n纸页背面潦草地写着：\r\n\r\n“还有另一条出路”",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:329",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This sword feels lighter than it looks and its balance shifts as you move it. This feels strange at first but you can see how it could be used to great effect. [sq]",
+      "zh": "这把剑比看上去更轻，而且在挥动时，平衡点也会随之变化。起初感觉很奇怪，但你能看出这种特性能发挥很大作用。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:332",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "When you wear this helm you are able to make out your surroundings even in complete darkness. [sc]",
+      "zh": "戴上这顶头盔后，即使身处完全的黑暗，你也能辨认周围的事物。[sc]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:347",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "mail coif.",
+      "zh": "锁甲头罩。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:348",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "padded shirt",
+      "zh": "衬垫衬衫",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:349",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "quilted cloth waistcoat.",
+      "zh": "绗缝布马甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:351",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather gloves.",
+      "zh": "一双\u0010皮手套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:352",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of thick cloth trousers.",
+      "zh": "一条厚布长裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:353",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 quilted cloth trousers.",
+      "zh": "一条\u0010绗缝布裤。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:354",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "hardened leather breastplate.",
+      "zh": "硬化皮革胸甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:355",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sturdy pair of leather gauntlets.",
+      "zh": "一对结实的皮护手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:356",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of rusty plate vambraces.",
+      "zh": "一对生锈的板甲前臂甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:357",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of rusty plate rerebraces.",
+      "zh": "一对生锈的板甲上臂甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:358",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of rusty plate spaulders.",
+      "zh": "一对生锈的板甲肩甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:360",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A rusty pair of chain leggings.",
+      "zh": "一对生锈的锁甲护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:361",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An old and rusty long sleeved chain shirt.",
+      "zh": "一件陈旧生锈的长袖锁子甲衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:362",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "If you find this item please report it.",
+      "zh": "如果发现这件物品，请反馈给开发者。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:364",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of layered cloth leggings.",
+      "zh": "一对多层布护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:365",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of quilted cloth leggings.",
+      "zh": "一对绗缝布护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:370",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "guisarme",
+      "zh": "钩镰枪",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:372",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-blacksmith's hammer",
+      "zh": "-铁匠锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:374",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A seal carried by Proctors representing the law of Ardent. It can only be unlocked by turning the rings along its length in a particular combination known only to the Proctor who carries it.",
+      "zh": "执法官随身携带的印信，代表阿登的律法。只有将印信上的环转到特定组合才能开启；这个组合只有持有它的执法官知道。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:376",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "pair of padded cloth mitts.",
+      "zh": "一对衬垫布连指手套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:378",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 7,
+      "en": "A pair of \u0010 plate gauntlets.",
+      "zh": "一对\u0010板甲护手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:379",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "long sleeved tunic.",
+      "zh": "长袖短袍。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:380",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "long coat.",
+      "zh": "长外套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:384",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A metal bar used in the construction of cages.",
+      "zh": "一根用于制作笼子的金属栏杆。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:387",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A tool for scraping ashes from a furnace.",
+      "zh": "一种用来清刮炉灰的工具。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:391",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 5,
+      "en": "A pair of \u0010 plate couters.",
+      "zh": "一对\u0010板甲护肘。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:392",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "padded long coat.",
+      "zh": "衬垫长外套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:398",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A silver Talin coin. Commonly used as payment for a fortnight of work.",
+      "zh": "一枚塔林银币，通常相当于两周的工钱。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:400",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "wide bracelet that clamps tightly about the wrist. You feel a strange tingling sensation when you wear it.",
+      "zh": "宽手镯，紧紧箍住手腕。戴上时，你会感到一种奇异的麻刺感。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:403",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A plate cuirass made from a strange brassy metal that's heavier than normal, but still effective. [sq]",
+      "zh": "一副由奇异黄铜色金属制成的板甲躯干甲，比普通护甲更重，但防护依然可靠。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:404",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A \u0010 plate cuirass made from a strange brassy metal that's heavier than normal, but still effective. [sq]",
+      "zh": "一副\u0010板甲躯干甲，由奇异的黄铜色金属制成，比普通护甲更重，但防护依然可靠。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:405",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A heavy ornate helm made from a brass like metal. When worn it provides vision in darkness. [sq]",
+      "zh": "一顶沉重而华丽的头盔，由类似黄铜的金属制成，戴上后可以在黑暗中视物。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:406",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 plate gauntlets made from a brassy metal. [pq]",
+      "zh": "一对\u0010板甲护手，由黄铜色金属制成。[pq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:413",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This sword has a very unusual and intricate construction, and yet appears to still make an effective weapon. [sq]",
+      "zh": "这把剑的构造极其独特而复杂，却似乎仍是一件实用的武器。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:414",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An ornate mace made entirely of some metal similar to brass. [sq]",
+      "zh": "一把华丽的钉头锤，通体由某种类似黄铜的金属制成。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:415",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This ornate battle axe is seemingly made largely of a brassy metal, but it's not as heavy as it looks. [sq]",
+      "zh": "这把华丽的战斧似乎主要由黄铜色金属制成，却没有看上去那么重。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:417",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This large two-handed mace looks to be made of brass, but is deceptively light and features a fairly keen spike. [sq]",
+      "zh": "这把大型双手钉头锤看似黄铜制成，却出奇地轻巧，还带有一根相当锋利的尖刺。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:418",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A very peculiar two-handed sword that would seem ornamental, and yet quite functional. [sq]",
+      "zh": "一把十分奇特的双手剑，看似装饰品，却颇为实用。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:419",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A decorated pole axe of unusual design. [sq]",
+      "zh": "一把设计独特、带有装饰的长柄战斧。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:420",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A buckler made from a strange brassy metal.",
+      "zh": "一面由奇异黄铜色金属制成的小圆盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:421",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "pair of \u0010 plate spaulders.",
+      "zh": "一对\u0010板甲肩甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:428",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 10,
+      "en": "plate armour",
+      "zh": "板甲",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:430",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather coat.",
+      "zh": "皮外套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:432",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "buff leather coat.",
+      "zh": "厚牛皮外套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:435",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-large mallet",
+      "zh": "-大木槌",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:436",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "dagger",
+      "zh": "匕首",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:437",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sharp short sword.",
+      "zh": "一把锋利的短剑。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:439",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "falchion",
+      "zh": "弯刃刀",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:440",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "spetum",
+      "zh": "三尖枪",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:442",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-quarterstaff",
+      "zh": "-长棍",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:444",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-iron shod quarterstaff",
+      "zh": "-铁箍长棍",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:445",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "layered cloth arming cap.",
+      "zh": "多层布制武装衬帽。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:447",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "padded cap.",
+      "zh": "衬垫帽。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:448",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "pair of pugilist's gloves.",
+      "zh": "一双拳手手套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:451",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "padded coat.",
+      "zh": "衬垫外套。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:469",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "two-handed war hammer",
+      "zh": "双手战锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:471",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "spear",
+      "zh": "长矛",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:472",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "short spear",
+      "zh": "短矛",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:473",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "two-handed spiked mace",
+      "zh": "双手尖刺钉头锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:474",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "two-handed mace",
+      "zh": "双手钉头锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:476",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "@WEAR33:A crystal emitting an intense blue glow.\r\n\r\n@WEAR66:A crystal emitting a blue glow.\r\n\r\n@WEAR99:A crystal emitting a faint blue glow.\r\n\r\n@WEAR00:A black crystal.",
+      "zh": "@WEAR33:一块散发强烈蓝光的水晶。\r\n\r\n@WEAR66:一块散发蓝光的水晶。\r\n\r\n@WEAR99:一块散发微弱蓝光的水晶。\r\n\r\n@WEAR00:一块黑色水晶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:477",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A strange metal mask. [sq]",
+      "zh": "一副奇异的金属面具。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:478",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "silk shirt.",
+      "zh": "丝绸衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:496",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "@WEAR33:A crystal emitting an intense green glow.\r\n\r\n@WEAR66:A crystal emitting a green glow.\r\n\r\n@WEAR99:A crystal emitting a faint green glow.\r\n\r\n@WEAR00:A black crystal.",
+      "zh": "@WEAR33:一块散发强烈绿光的水晶。\r\n\r\n@WEAR66:一块散发绿光的水晶。\r\n\r\n@WEAR99:一块散发微弱绿光的水晶。\r\n\r\n@WEAR00:一块黑色水晶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:497",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "@WEAR33:A crystal emitting an intense amber glow.\r\n\r\n@WEAR66:A crystal emitting a amber glow.\r\n\r\n@WEAR99:A crystal emitting a faint amber glow.\r\n\r\n@WEAR00:A black crystal.",
+      "zh": "@WEAR33:一块散发强烈琥珀色光芒的水晶。\r\n\r\n@WEAR66:一块散发琥珀色光芒的水晶。\r\n\r\n@WEAR99:一块散发微弱琥珀色光芒的水晶。\r\n\r\n@WEAR00:一块黑色水晶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:500",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An enormous halberd made from solid metal. It is too big and heavy to wield as a weapon.",
+      "zh": "一柄由实心金属制成的巨大长戟。它过于庞大沉重，无法作为武器挥舞。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:502",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A token engraved with a round shield.",
+      "zh": "一枚刻有圆盾图案的徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:503",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A token engraved with a heater shield.",
+      "zh": "一枚刻有熨斗形盾图案的徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:504",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A token engraved with an eye.",
+      "zh": "一枚刻有眼睛图案的徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:505",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A token engraved with two ribbons.",
+      "zh": "一枚刻有两条绶带图案的徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:506",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A token engraved with three ribbons.",
+      "zh": "一枚刻有三条绶带图案的徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:507",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A token engraved with a spider.",
+      "zh": "一枚刻有蜘蛛图案的徽记。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:508",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 4,
+      "en": "plate cuirass.",
+      "zh": "板甲躯干甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:512",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 4,
+      "en": "A pair of \u0010 plate cuisses.",
+      "zh": "一对\u0010板甲大腿甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:514",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "extremely solid looking suit of armour that completely encases the body. It seems as though it should make movement extremely difficult.",
+      "zh": "一套看起来极为坚固的护甲，将全身严密包裹。穿着它行动似乎会非常困难。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:518",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "@WEAR33:An encased crystal emitting an intense blue glow.\r\n\r\n@WEAR66:An encased crystal emitting a blue glow.\r\n\r\n@WEAR99:An encased crystal emitting a faint blue glow.\r\n\r\n@WEAR00:An encased black crystal.",
+      "zh": "@WEAR33:一块装在外壳中、散发强烈蓝光的水晶。\r\n\r\n@WEAR66:一块装在外壳中、散发蓝光的水晶。\r\n\r\n@WEAR99:一块装在外壳中、散发微弱蓝光的水晶。\r\n\r\n@WEAR00:一块装在外壳中的黑色水晶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:519",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large blue glowing crystal in an elaborate casing.",
+      "zh": "一块嵌在精巧外壳中的大型水晶，散发着蓝光。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:521",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "A pair of \u0010 splint cuisses.",
+      "zh": "一对\u0010条板大腿甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:525",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "splint cuirass.",
+      "zh": "条板躯干甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:529",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "brigandine.",
+      "zh": "布面甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:552",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "leather jacket.",
+      "zh": "皮夹克。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:554",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A heavy heater shield.",
+      "zh": "一面沉重的熨斗形盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:556",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sturdy kite shield.",
+      "zh": "一面结实的鸢形盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:557",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A banded kite shield.",
+      "zh": "一面用箍带加固的鸢形盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:558",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A round shield faced with steel.",
+      "zh": "一面覆有钢板的圆盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:559",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "jacket.",
+      "zh": "夹克。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:565",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 4,
+      "en": "A pair of \u0010 sandals.",
+      "zh": "一双\u0010凉鞋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:571",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large metal bar with an angular head.",
+      "zh": "一根带有棱角状端头的大金属棒。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:572",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A single-edged two-handed sword with a slightly curved blade.",
+      "zh": "一把单刃双手剑，剑身略微弯曲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:575",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "lamellar vest.",
+      "zh": "札甲背心。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:585",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pan for collecting ashes from a furnace.",
+      "zh": "一个用于收集炉灰的盘子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:588",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A prosthetic arm.",
+      "zh": "一条假臂。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:590",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "laminar cuirass.",
+      "zh": "环片躯干甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:591",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "leather cuirass.",
+      "zh": "皮制躯干甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:593",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "laminar breastplate.",
+      "zh": "环片胸甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:596",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An ornate dagger. [sq]",
+      "zh": "一把华丽的匕首。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:597",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An ornate sword. [sq]",
+      "zh": "一把华丽的剑。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:605",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 splint spaulders.",
+      "zh": "一对\u0010条板肩甲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:607",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A pair of \u0010 plate boots.",
+      "zh": "一双\u0010板甲靴。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:611",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 splint greaves.",
+      "zh": "一对\u0010条板护胫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:613",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "plate bevor",
+      "zh": "板甲护颔",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:615",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A pair of \u0010 leather gauntlets.",
+      "zh": "一对\u0010皮护手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:616",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "REPORT THIS",
+      "zh": "请反馈此物品",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:617",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "greatsword",
+      "zh": "巨剑",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:618",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "bar mace",
+      "zh": "条形钉头锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:623",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 steel capped shoes.",
+      "zh": "一双\u0010包钢鞋头的鞋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:627",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 10,
+      "en": "hat.",
+      "zh": "帽子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:637",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-cobbler's hammer",
+      "zh": "-鞋匠锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:638",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "A spool of thread.",
+      "zh": "一卷缝线。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:651",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A component of a set of shackles.",
+      "zh": "一套镣铐的部件。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:656",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "elegant shirt.",
+      "zh": "雅致的衬衫。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:660",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A cuirass made from a very tough and light material. [sq]",
+      "zh": "一副由极其坚韧轻巧的材料制成的躯干甲。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:661",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "breastplate. Metal bands cover a tough and light material.",
+      "zh": "胸甲。金属带覆盖着一种坚韧而轻巧的材料。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:662",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A cuirass combining metal and a tough, light material. [sq]",
+      "zh": "一副将金属与坚韧轻巧的材料结合而成的躯干甲。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:663",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A pair of \u0010 spaulders. Metal bands cover a tough and light material.",
+      "zh": "一对\u0010肩甲。金属带覆盖着一种坚韧而轻巧的材料。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:666",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A pair of \u0010 vambraces. Metal bands cover a tough and light material.",
+      "zh": "一对\u0010前臂甲。金属带覆盖着一种坚韧而轻巧的材料。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:668",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A pair of \u0010 couters. Metal bands cover a tough and light material.",
+      "zh": "一对\u0010护肘。金属带覆盖着一种坚韧而轻巧的材料。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:669",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "A pair of gauntlets made with metal and a softer but very tough material. [pq]",
+      "zh": "一对由金属和较柔软但极其坚韧的材料制成的护手。[pq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:670",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "A pair of \u0010 cuisses. Metal bands cover a tough and light material.",
+      "zh": "一对\u0010大腿甲。金属带覆盖着一种坚韧而轻巧的材料。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:671",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 3,
+      "en": "A pair of \u0010 boots. Metal bands cover a tough and light material.",
+      "zh": "一双\u0010靴子。金属带覆盖着一种坚韧而轻巧的材料。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:672",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A spiked mace with a large hollow head. [sq]",
+      "zh": "一把带有大型中空锤头的尖刺钉头锤。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:674",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "elegant doublet.",
+      "zh": "雅致的紧身上衣。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:686",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "short-sleeved vest.",
+      "zh": "短袖背心。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:688",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-woodcutter's axe",
+      "zh": "-伐木斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:702",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 splint boots.",
+      "zh": "一双\u0010条板靴。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:704",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A small brush for scrubbing dirt.",
+      "zh": "一把用于刷洗污垢的小刷子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:707",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A tool for cutting fabric.",
+      "zh": "一种裁剪布料的工具。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:718",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 splint gauntlets.",
+      "zh": "一对\u0010条板护手。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:722",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A piece of chalk.",
+      "zh": "一块粉笔。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:724",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A piece of charcoal.",
+      "zh": "一块木炭。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:730",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A reel of thread.",
+      "zh": "一轴缝线。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:764",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A leather working tool.",
+      "zh": "一种皮革加工工具。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:773",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A mason's chisel.",
+      "zh": "一把石匠用的凿子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:783",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A bowl for crushing and mixing ingredients.",
+      "zh": "一个用于捣碎并混合材料的钵。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:790",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This helmet when worn grants vision even in complete darkness. [sq]",
+      "zh": "戴上这顶头盔，即使在完全的黑暗中也能视物。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:794",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A clothes peg.",
+      "zh": "一只衣夹。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:798",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A reed pen.",
+      "zh": "一支芦苇笔。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:802",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A simple wooden crutch.",
+      "zh": "一根普通的木拐杖。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:809",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large pan lid. It could be used as a crude buckler.",
+      "zh": "一个大锅盖，可以充作简陋的小圆盾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:818",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A bundle of rope.",
+      "zh": "一捆绳子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:827",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "fake crown such as is used in the production of plays.",
+      "zh": "用于戏剧演出的假王冠。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:835",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A small metal spice holder.",
+      "zh": "一个小金属香料盒。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:841",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A strange sword, seemingly made of bone. The edge looks very fragile.",
+      "zh": "一把奇怪的剑，似乎由骨头制成，刃口看起来非常脆弱。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:852",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A sealed clay bottle.",
+      "zh": "一只密封的陶瓶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:867",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A well balanced, finely crafted sword.",
+      "zh": "一把平衡良好、做工精细的剑。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:881",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "A fragment of a painted ceramic disc.",
+      "zh": "一块彩绘陶瓷圆盘的碎片。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:882",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A glass counter.",
+      "zh": "一枚玻璃筹码。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:888",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden pipe.",
+      "zh": "一支木烟斗。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:889",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden die.",
+      "zh": "一枚木骰子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:891",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A glass pipe.",
+      "zh": "一支玻璃烟斗。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:892",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A copper bowl.",
+      "zh": "一只铜碗。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:893",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A clay bowl.",
+      "zh": "一只陶碗。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:894",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A clay plate.",
+      "zh": "一只陶盘。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:897",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A clay jug.",
+      "zh": "一只陶壶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:898",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A clay cup.",
+      "zh": "一只陶杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:899",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An eating utensil.",
+      "zh": "一件餐具。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:901",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A brass plate.",
+      "zh": "一只黄铜盘。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:902",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A brass goblet.",
+      "zh": "一只黄铜高脚杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:904",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A goblet.",
+      "zh": "一只高脚杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:906",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A metal plate.",
+      "zh": "一只金属盘。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:908",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden tankard.",
+      "zh": "一只木制大酒杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:909",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden spoon.",
+      "zh": "一把木勺。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:910",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden ladle.",
+      "zh": "一把木长柄勺。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:911",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A metal goblet.",
+      "zh": "一只金属高脚杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:912",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden cup.",
+      "zh": "一只木杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:913",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden mug.",
+      "zh": "一只木马克杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:914",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large fork.",
+      "zh": "一把大叉子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:915",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A wooden spatula.",
+      "zh": "一把木锅铲。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:916",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A brass tankard.",
+      "zh": "一只黄铜大酒杯。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:918",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A brass spoon.",
+      "zh": "一把黄铜勺。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:920",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An ink pot.",
+      "zh": "一只墨水瓶。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:923",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A bottle with a candle in it.",
+      "zh": "一只插着蜡烛的瓶子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:925",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "two-handed battle axe",
+      "zh": "双手战斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:928",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A clay pot, once used to hold paint.",
+      "zh": "一只曾用来盛颜料的陶罐。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:940",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "These cards are commonly believed to give insights and guidance for the future. Some believe the diviner decides the path through the many branching roads of fate.",
+      "zh": "人们普遍相信，这些牌能揭示未来，指点迷津。也有人认为，占卜者是在命运交错分岔的道路中，亲自选定前行的方向。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:941",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A one and a half handed sword that bears a decoration resembling a sun on the guard. [sq]",
+      "zh": "一把手半剑，护手上带有形似太阳的装饰。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:945",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A small sack with a face painted on it.",
+      "zh": "一个画着人脸的小麻袋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:946",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A small sack with a target painted on it.",
+      "zh": "一个画着靶子的小麻袋。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:948",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A hardened lump of clay.",
+      "zh": "一块已经硬化的黏土。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:954",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "The label on this bottle reads:\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\nNephil's Elixir of Warding\r\n[/tcol]\r\nWards against and soothes pain, whether it be of tooth, of joint or any ailment or injury. It may cause a mild drowsiness.\r\n[scrp=n][algn=0]\r\n\r\n@WEAR75:The cork is sealed with wax and an oily liquid appears to be inside.\r\n\r\n@WEAR00:The bottle is empty.",
+      "zh": "瓶上的标签写着：\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\n奈菲尔护佑灵药\r\n[/tcol]\r\n预防并缓解疼痛，无论牙痛、关节痛，还是疾病与外伤引起的疼痛。服用后可能略感困倦。\r\n[scrp=n][algn=0]\r\n\r\n@WEAR75:瓶塞以蜡封住，里面似乎装着油状液体。\r\n\r\n@WEAR00:瓶子是空的。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:957",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "kerchief.",
+      "zh": "方巾。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:958",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "sash",
+      "zh": "腰带",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:962",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "@WEAR75:A sphere with a strange pattern within. Its surface seems to shift when you press against it.\r\n\r\n@WEAR00:A smooth black sphere.",
+      "zh": "@WEAR75:一颗内部带有奇异纹路的球体。按压它时，表面似乎会流动。\r\n\r\n@WEAR00:一颗光滑的黑色球体。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:964",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "sword",
+      "zh": "剑",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:966",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "longsword",
+      "zh": "长剑",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:967",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "flanged mace",
+      "zh": "凸缘钉头锤",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:972",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-cleaver",
+      "zh": "-切肉刀",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:973",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "glaive",
+      "zh": "长柄偃月刀",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:976",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "-mallet",
+      "zh": "-木槌",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:987",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 fingerless gloves",
+      "zh": "一双\u0010露指手套",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:988",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "brigandine",
+      "zh": "布面甲",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:990",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather armour",
+      "zh": "皮甲",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:992",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A pair of \u0010 leather leggings.",
+      "zh": "一对\u0010皮护腿。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:994",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "leather helm",
+      "zh": "皮头盔",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:999",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This mace has large flanges that form a hollow space lined with strange decorative elements. [sc]",
+      "zh": "这把钉头锤的大型凸缘围成了一个中空空间，内壁饰有奇异的装饰。[sc]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1008",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "axe",
+      "zh": "斧",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1013",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "awl pike",
+      "zh": "锥头长枪",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1023",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 8,
+      "en": "A small decorated game piece",
+      "zh": "一枚带有装饰的小棋子",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1026",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An empty jar.",
+      "zh": "一个空罐子。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1028",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 6,
+      "en": "A bottle with a protective wicker casing",
+      "zh": "一只套有柳编护套的瓶子",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1030",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A cork lid",
+      "zh": "一个软木塞",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1033",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 2,
+      "en": "cuirass",
+      "zh": "躯干甲",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1036",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An ornate sceptre holding what seem to be very large gemstones. When you hold it you feel as though your mind can focus on more things at once. [sc]",
+      "zh": "一柄华丽的权杖，上面镶着似乎极为硕大的宝石。握住它时，你觉得自己的心神仿佛能同时专注于更多事物。[sc]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1039",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A small glass flower.",
+      "zh": "一朵小玻璃花。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1046",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "arm harness",
+      "zh": "整臂甲",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1050",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "This intricately designed and articulated arm harness looks cumbersome, but undoubtedly effective. [sq]",
+      "zh": "这套整臂甲设计精巧，关节结构复杂。看起来十分笨重，但防护无疑可靠。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1056",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "club",
+      "zh": "木棒",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1058",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "When you wear this strange helmet you feel a strong sense of quiet and isolation. [sc]",
+      "zh": "戴上这顶奇异的头盔时，你会感到强烈的宁静，仿佛与世隔绝。[sc]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1060",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A simple iron key attached to a collar.",
+      "zh": "一把挂在项圈上的普通铁钥匙。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1070",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "pourpoint\r\n",
+      "zh": "衬甲紧身衣\r\n",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1108",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An extremely large and heavy sword of unusual design. Its weight and grip make it impossible to use.",
+      "zh": "一把设计独特、极其巨大沉重的剑。它的重量和握柄都让人无法使用。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1110",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "An enormous and heavy spear with a large bladed head.",
+      "zh": "一柄庞大而沉重的长矛，带有宽大的刃状矛头。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1115",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A heavy ornate armour made from a brass like metal. Various shield like elements appear to float and move with the armour without being attached to it. [sq]",
+      "zh": "一套沉重华丽的护甲，由类似黄铜的金属制成。许多盾状部件并未与护甲连接，却仿佛悬浮在周围，随护甲一同移动。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1116",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A large ornate spear set with gemstones. [sq]",
+      "zh": "一柄镶嵌着宝石的大型华丽长矛。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1117",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A prickling sensation washes over your body.",
+      "zh": "一阵麻刺感掠过你的全身。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1119",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "A visored helm made from a metal similar to brass, but not as heavy as you expect. [sq]",
+      "zh": "一顶带面甲的头盔，由类似黄铜的金属制成，却没有想象中那么重。[sq]",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1122",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "As you touch the pendant a soothing sensation washes over you.",
+      "zh": "触碰吊坠时，一阵舒缓的感觉传遍你的全身。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "objstrings.rdb:1123",
+      "source": "objstrings.rdb",
+      "key": 0,
+      "flags": 1,
+      "en": "@WEAR50:The crystal is tightly clamped in the device, but can removed.\r\n\r\n@WEAR00:The crystal seems to be fused to the device and cannot be removed.",
+      "zh": "@WEAR50:水晶被牢牢夹在装置中，但可以取出。\r\n\r\n@WEAR00:水晶似乎已与装置融为一体，无法取出。",
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "narrator.rcd:136",
+      "source": "narrator.rcd",
+      "offset": 136,
+      "length": 332,
+      "en": "\tHere lies the body of Corlian.\r\n\r\n\tA flood of memories overcomes you, and you understand that Corlian is not truly dead, but resides somewhere inside you, sharing your consciousness with your former self.\r\n\r\n\tA conflict rages inside you, you feel you must choose which is your true self, or perhaps to make peace with this duality.",
+      "extraction": "u32_length_prefixed",
+      "zh": "\t这里躺着科利安的遗体。\r\n\r\n\t记忆如潮水般涌来，你明白科利安并未真正死去，而是存在于你体内的某个地方，与你原本的自我共享意识。\r\n\r\n\t你的内心激烈交战。你觉得必须决定谁才是真正的自己，或许，也可以学会接受这双重存在。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:500",
+      "source": "narrator.rcd",
+      "offset": 500,
+      "length": 39,
+      "en": "I am {Actor[1].Name}, master of forces.",
+      "extraction": "u32_length_prefixed",
+      "zh": "我是{Actor[1].Name}，力之主宰。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:589",
+      "source": "narrator.rcd",
+      "offset": 589,
+      "length": 63,
+      "en": "You feel strongly attuned to forces and the motions of objects.",
+      "extraction": "u32_length_prefixed",
+      "zh": "你感到自己与力及物体的运动产生了强烈的共鸣。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:684",
+      "source": "narrator.rcd",
+      "offset": 684,
+      "length": 30,
+      "en": "I am Corlian, master of minds.",
+      "extraction": "u32_length_prefixed",
+      "zh": "我是科利安，心智之主宰。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:764",
+      "source": "narrator.rcd",
+      "offset": 764,
+      "length": 66,
+      "en": "You feel your connection to the minds of others flow effortlessly.",
+      "extraction": "u32_length_prefixed",
+      "zh": "你感到自己与他人心智的联系变得流畅而自然。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:862",
+      "source": "narrator.rcd",
+      "offset": 862,
+      "length": 28,
+      "en": "I am neither, and I am both.",
+      "extraction": "u32_length_prefixed",
+      "zh": "我谁也不是，又同时是两个人。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:940",
+      "source": "narrator.rcd",
+      "offset": 940,
+      "length": 69,
+      "en": "You feel that control over forces and minds comes to you more easily.",
+      "extraction": "u32_length_prefixed",
+      "zh": "你感到操纵力与心智都变得更加轻松。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:1085",
+      "source": "narrator.rcd",
+      "offset": 1085,
+      "length": 99,
+      "en": "Confused memories surface, but you fight them down in fear.\r\n\r\nNevertheless something was restored.",
+      "extraction": "u32_length_prefixed",
+      "zh": "混乱的记忆浮现出来，但你出于恐惧，竭力将它们压了回去。\r\n\r\n尽管如此，仍有某些东西恢复了。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:1260",
+      "source": "narrator.rcd",
+      "offset": 1260,
+      "length": 197,
+      "en": "These notes describe a raising of the dead that doesn't require a bond to be held by the necromancer.\r\n\r\nWith this knowledge revealed to you, you think you would be able to replicate these methods.",
+      "extraction": "u32_length_prefixed",
+      "zh": "这些笔记描述了一种唤起亡者的方法，无需死灵术士维持与亡者的联系。\r\n\r\n领悟了这些知识后，你觉得自己应当能够重现这种方法。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:1533",
+      "source": "narrator.rcd",
+      "offset": 1533,
+      "length": 178,
+      "en": "These notes describe a raising of the dead that doesn't require a bond to be held by the necromancer.\r\n\r\nYou lack the knowledge or the insight to understand how it might be done.",
+      "extraction": "u32_length_prefixed",
+      "zh": "这些笔记描述了一种唤起亡者的方法，无需死灵术士维持与亡者的联系。\r\n\r\n你缺乏足够的知识或洞察，尚不能理解其中的奥秘。",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "narrator.rcd:1787",
+      "source": "narrator.rcd",
+      "offset": 1787,
+      "length": 70,
+      "en": "As a shaper's mind dissipates you glean some knowledge of their power.",
+      "extraction": "u32_length_prefixed",
+      "zh": "一位塑形者的心智消散之际，你从中汲取到了些许有关其异能的知识。",
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

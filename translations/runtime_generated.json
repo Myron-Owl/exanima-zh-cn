@@ -1,0 +1,4779 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "generated.runtime.0",
+      "en": "@format:A {i0} here, if you want it.",
+      "zh": "这里有{i0}，想要就拿去。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.1",
+      "en": "@format:Also found a {i0}.",
+      "zh": "还找到了{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.2",
+      "en": "@format:Also found an {i0}.",
+      "zh": "还找到了{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.3",
+      "en": "@format:Also found some {i0}.",
+      "zh": "还找到了一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.4",
+      "en": "@format:An {i0} here, if you want it.",
+      "zh": "这里有{i0}，想要就拿去。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.5",
+      "en": "@format:And a {i0}.",
+      "zh": "还有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.6",
+      "en": "@format:And an {i0}.",
+      "zh": "还有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.7",
+      "en": "@format:And some {i0}.",
+      "zh": "还有一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.8",
+      "en": "@format:Are you sure you want to delete {s0}?",
+      "zh": "确定要删除{s0}吗？",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.9",
+      "en": "@format:Are you sure you want to dismiss {s0}?",
+      "zh": "确定要解雇{s0}吗？",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.10",
+      "en": "@format:Day {n0}",
+      "zh": "第{n0}天",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.11",
+      "en": "@format:Entered {n0}/{n1}",
+      "zh": "已报名 {n0}/{n1}",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.12",
+      "en": "@format:Found a {i0} here.",
+      "zh": "在这里找到{i0}了。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.13",
+      "en": "@format:Found a {i0} too.",
+      "zh": "还找到了{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.14",
+      "en": "@format:Found an {i0} here.",
+      "zh": "在这里找到{i0}了。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.15",
+      "en": "@format:Found an {i0} too.",
+      "zh": "还找到了{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.16",
+      "en": "@format:Found some {i0} here.",
+      "zh": "在这里找到一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.17",
+      "en": "@format:Found some {i0} too.",
+      "zh": "还找到了一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.18",
+      "en": "@format:Got a {i0} here.",
+      "zh": "这里有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.19",
+      "en": "@format:Got an {i0} here.",
+      "zh": "这里有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.20",
+      "en": "@format:Got some {i0} here.",
+      "zh": "这里有一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.21",
+      "en": "@format:I found a {i0}.",
+      "zh": "我找到{i0}了。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.22",
+      "en": "@format:I found an {i0}.",
+      "zh": "我找到{i0}了。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.23",
+      "en": "@format:I found some {i0}.",
+      "zh": "我找到一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.24",
+      "en": "@format:Some {i0} here, if you want them.",
+      "zh": "这里有一些{i0}，想要就拿去。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.25",
+      "en": "@format:The tournament begins in {n0} days.",
+      "zh": "锦标赛将在{n0}天后开始。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.26",
+      "en": "@format:There's a {i0} here.",
+      "zh": "这里有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.27",
+      "en": "@format:There's a {i0} too.",
+      "zh": "还有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.28",
+      "en": "@format:There's an {i0} here.",
+      "zh": "这里有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.29",
+      "en": "@format:There's an {i0} too.",
+      "zh": "还有{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.30",
+      "en": "@format:There's some {i0} here.",
+      "zh": "这里有一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.31",
+      "en": "@format:There's some {i0} too.",
+      "zh": "还有一些{i0}。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.32",
+      "en": "@format:These {i0} could be useful.",
+      "zh": "这些{i0}也许用得上。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.33",
+      "en": "@format:This {i0} could be useful.",
+      "zh": "{i0}也许用得上。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.34",
+      "en": "@format:Tournament begins in {n0} days.",
+      "zh": "锦标赛将在{n0}天后开始。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.35",
+      "en": "@format:Week {n0} Day {n1}",
+      "zh": "第{n0}周 第{n1}天",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.36",
+      "en": "@format:You forfeited a {m0} match.",
+      "zh": "你弃权了一场{m0}比赛。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.37",
+      "en": "@format:You forfeited an {m0} match.",
+      "zh": "你弃权了一场{m0}比赛。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.38",
+      "en": "@format:You have lost a {m0} match.",
+      "zh": "你输掉了一场{m0}比赛。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.39",
+      "en": "@format:You have lost an {m0} match.",
+      "zh": "你输掉了一场{m0}比赛。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.40",
+      "en": "@format:You have won a {m0} match.",
+      "zh": "你赢得了一场{m0}比赛。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.41",
+      "en": "@format:You have won an {m0} match.",
+      "zh": "你赢得了一场{m0}比赛。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.42",
+      "en": "@format:{n0} merchants are available for hire.",
+      "zh": "有{n0}名商人可供雇用。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.43",
+      "en": "@format:{n0} physicians are available for hire.",
+      "zh": "有{n0}名医师可供雇用。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.44",
+      "en": "@format:{n0} trainers are available for hire.",
+      "zh": "有{n0}名教练可供雇用。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.45",
+      "en": "@format:{s0} ({r1})",
+      "zh": "{s0}（{r1}）",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.46",
+      "en": "@format:{s0} has been dismissed.",
+      "zh": "{s0}已被解雇。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.47",
+      "en": "@format:{s0} has died.",
+      "zh": "{s0}已经死亡。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.48",
+      "en": "@format:{s0} has joined the company.",
+      "zh": "{s0}已加入战队。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.49",
+      "en": "@format:{s0} has left the company.",
+      "zh": "{s0}已离开战队。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.50",
+      "en": "@format:{s0} has reached {r1} rank.",
+      "zh": "{s0}已晋升为{r1}段位。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.51",
+      "en": "@format:{s0} has trained a new technique.",
+      "zh": "{s0}学会了一项新技巧。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.52",
+      "en": "@format:{s0} was saved from lethal injury.",
+      "zh": "{s0}的致命伤已获救治。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.53",
+      "en": "@item.base:This helmet when worn grants vision even in complete darkness",
+      "zh": "戴上这顶头盔，即使在完全的黑暗中也能视物",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.54",
+      "en": "@item.base:This intricately designed and articulated arm harness looks cumbersome, but undoubtedly effective",
+      "zh": "这套整臂甲设计精巧，关节结构复杂。看起来十分笨重，但防护无疑可靠",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.55",
+      "en": "@item.base:This large two-handed mace looks to be made of brass, but is deceptively light and features a fairly keen spike",
+      "zh": "这把大型双手钉头锤看似黄铜制成，却出奇地轻巧，还带有一根相当锋利的尖刺",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.56",
+      "en": "@item.base:This mace has large flanges that form a hollow space lined with strange decorative elements",
+      "zh": "这把钉头锤的大型凸缘围成了一个中空空间，内壁饰有奇异的装饰",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.57",
+      "en": "@item.base:This ornate battle axe is seemingly made largely of a brassy metal, but it's not as heavy as it looks",
+      "zh": "这把华丽的战斧似乎主要由黄铜色金属制成，却没有看上去那么重",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.58",
+      "en": "@item.base:This sword feels lighter than it looks and its balance shifts as you move it. This feels strange at first but you can see how it could be used to great effect",
+      "zh": "这把剑比看上去更轻，而且在挥动时，平衡点也会随之变化。起初感觉很奇怪，但你能看出这种特性能发挥很大作用",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.59",
+      "en": "@item.base:This sword has a very unusual and intricate construction, and yet appears to still make an effective weapon",
+      "zh": "这把剑的构造极其独特而复杂，却似乎仍是一件实用的武器",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.60",
+      "en": "@item.base:When you wear this helm you are able to make out your surroundings even in complete darkness",
+      "zh": "戴上这顶头盔后，即使身处完全的黑暗，你也能辨认周围的事物",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.61",
+      "en": "@item.base:When you wear this strange helmet you feel a strong sense of quiet and isolation",
+      "zh": "戴上这顶奇异的头盔时，你会感到强烈的宁静，仿佛与世隔绝",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.62",
+      "en": "@item.base:arm harness",
+      "zh": "整臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.63",
+      "en": "@item.base:arming jack",
+      "zh": "武装衬衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.64",
+      "en": "@item.base:awl pike",
+      "zh": "锥头长枪",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.65",
+      "en": "@item.base:axe",
+      "zh": "斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.66",
+      "en": "@item.base:bar mace",
+      "zh": "条形钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.67",
+      "en": "@item.base:bardiche",
+      "zh": "长柄大斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.68",
+      "en": "@item.base:battle axe",
+      "zh": "战斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.69",
+      "en": "@item.base:billhook",
+      "zh": "钩镰",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.70",
+      "en": "@item.base:blacksmith's hammer",
+      "zh": "铁匠锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.71",
+      "en": "@item.base:breastplate. Metal bands cover a tough and light material",
+      "zh": "胸甲。金属带覆盖着一种坚韧而轻巧的材料",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.72",
+      "en": "@item.base:brigandine",
+      "zh": "布面甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.73",
+      "en": "@item.base:buff leather coat",
+      "zh": "厚牛皮外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.74",
+      "en": "@item.base:cleaver",
+      "zh": "切肉刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.75",
+      "en": "@item.base:club",
+      "zh": "木棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.76",
+      "en": "@item.base:cobbler's hammer",
+      "zh": "鞋匠锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.77",
+      "en": "@item.base:cudgel",
+      "zh": "短棍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.78",
+      "en": "@item.base:cuirass",
+      "zh": "躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.79",
+      "en": "@item.base:cuirass combining metal and a tough, light material",
+      "zh": "一副将金属与坚韧轻巧的材料结合而成的躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.80",
+      "en": "@item.base:cuirass made from a very tough and light material",
+      "zh": "一副由极其坚韧轻巧的材料制成的躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.81",
+      "en": "@item.base:dagger",
+      "zh": "匕首",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.82",
+      "en": "@item.base:decorated pole axe of unusual design",
+      "zh": "一把设计独特、带有装饰的长柄战斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.83",
+      "en": "@item.base:elegant doublet",
+      "zh": "雅致的紧身上衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.84",
+      "en": "@item.base:elegant shirt",
+      "zh": "雅致的衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.85",
+      "en": "@item.base:extremely solid looking suit of armour that completely encases the body. It seems as though it should make movement extremely difficult",
+      "zh": "一套看起来极为坚固的护甲，将全身严密包裹。穿着它行动似乎会非常困难",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.86",
+      "en": "@item.base:fake crown such as is used in the production of plays",
+      "zh": "用于戏剧演出的假王冠",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.87",
+      "en": "@item.base:falchion",
+      "zh": "弯刃刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.88",
+      "en": "@item.base:flanged mace",
+      "zh": "凸缘钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.89",
+      "en": "@item.base:glaive",
+      "zh": "长柄偃月刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.90",
+      "en": "@item.base:great axe",
+      "zh": "巨斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.91",
+      "en": "@item.base:greatsword",
+      "zh": "巨剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.92",
+      "en": "@item.base:guisarme",
+      "zh": "钩镰枪",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.93",
+      "en": "@item.base:halberd",
+      "zh": "戟",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.94",
+      "en": "@item.base:hammer",
+      "zh": "锤子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.95",
+      "en": "@item.base:hand saw",
+      "zh": "手锯",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.96",
+      "en": "@item.base:hardened leather breastplate",
+      "zh": "硬化皮革胸甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.97",
+      "en": "@item.base:hat",
+      "zh": "帽子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.98",
+      "en": "@item.base:hatchet",
+      "zh": "手斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.99",
+      "en": "@item.base:heavy ornate armour made from a brass like metal. Various shield like elements appear to float and move with the armour without being attached to it",
+      "zh": "一套沉重华丽的护甲，由类似黄铜的金属制成。许多盾状部件并未与护甲连接，却仿佛悬浮在周围，随护甲一同移动",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.100",
+      "en": "@item.base:heavy ornate helm made from a brass like metal. When worn it provides vision in darkness",
+      "zh": "一顶沉重而华丽的头盔，由类似黄铜的金属制成，戴上后可以在黑暗中视物",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.101",
+      "en": "@item.base:helmet",
+      "zh": "头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.102",
+      "en": "@item.base:hose",
+      "zh": "紧身袜裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.103",
+      "en": "@item.base:iron bar",
+      "zh": "铁棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.104",
+      "en": "@item.base:iron shod quarterstaff",
+      "zh": "铁箍长棍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.105",
+      "en": "@item.base:jacket",
+      "zh": "夹克",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.106",
+      "en": "@item.base:kerchief",
+      "zh": "方巾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.107",
+      "en": "@item.base:lamellar vest",
+      "zh": "札甲背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.108",
+      "en": "@item.base:laminar breastplate",
+      "zh": "环片胸甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.109",
+      "en": "@item.base:laminar cuirass",
+      "zh": "环片躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.110",
+      "en": "@item.base:large mallet",
+      "zh": "大木槌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.111",
+      "en": "@item.base:large ornate spear set with gemstones",
+      "zh": "一柄镶嵌着宝石的大型华丽长矛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.112",
+      "en": "@item.base:layered cloth arming cap",
+      "zh": "多层布制武装衬帽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.113",
+      "en": "@item.base:layered gambeson",
+      "zh": "多层衬甲衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.114",
+      "en": "@item.base:leather armour",
+      "zh": "皮甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.115",
+      "en": "@item.base:leather belt",
+      "zh": "皮腰带",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.116",
+      "en": "@item.base:leather cap",
+      "zh": "皮帽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.117",
+      "en": "@item.base:leather coat",
+      "zh": "皮外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.118",
+      "en": "@item.base:leather cuirass",
+      "zh": "皮制躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.119",
+      "en": "@item.base:leather helm",
+      "zh": "皮头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.120",
+      "en": "@item.base:leather jacket",
+      "zh": "皮夹克",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.121",
+      "en": "@item.base:leather tunic",
+      "zh": "皮短袍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.122",
+      "en": "@item.base:leather vest",
+      "zh": "皮背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.123",
+      "en": "@item.base:leather vest. Clearly this was designed for women",
+      "zh": "皮背心，显然是为女性设计的",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.124",
+      "en": "@item.base:long coat",
+      "zh": "长外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.125",
+      "en": "@item.base:long knife",
+      "zh": "长刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.126",
+      "en": "@item.base:long sleeved tunic",
+      "zh": "长袖短袍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.127",
+      "en": "@item.base:long-sleeved mail shirt",
+      "zh": "长袖锁子甲衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.128",
+      "en": "@item.base:longsword",
+      "zh": "长剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.129",
+      "en": "@item.base:mace",
+      "zh": "钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.130",
+      "en": "@item.base:mail coif",
+      "zh": "锁甲头罩",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.131",
+      "en": "@item.base:mail vest",
+      "zh": "锁甲背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.132",
+      "en": "@item.base:mallet",
+      "zh": "木槌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.133",
+      "en": "@item.base:maul",
+      "zh": "重锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.134",
+      "en": "@item.base:one and a half handed sword that bears a decoration resembling a sun on the guard",
+      "zh": "一把手半剑，护手上带有形似太阳的装饰",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.135",
+      "en": "@item.base:ornate dagger",
+      "zh": "一把华丽的匕首",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.136",
+      "en": "@item.base:ornate mace made entirely of some metal similar to brass",
+      "zh": "一把华丽的钉头锤，通体由某种类似黄铜的金属制成",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.137",
+      "en": "@item.base:ornate sceptre holding what seem to be very large gemstones. When you hold it you feel as though your mind can focus on more things at once",
+      "zh": "一柄华丽的权杖，上面镶着似乎极为硕大的宝石。握住它时，你觉得自己的心神仿佛能同时专注于更多事物",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.138",
+      "en": "@item.base:ornate sword",
+      "zh": "一把华丽的剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.139",
+      "en": "@item.base:padded cap",
+      "zh": "衬垫帽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.140",
+      "en": "@item.base:padded coat",
+      "zh": "衬垫外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.141",
+      "en": "@item.base:padded long coat",
+      "zh": "衬垫长外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.142",
+      "en": "@item.base:padded shirt",
+      "zh": "衬垫衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.143",
+      "en": "@item.base:pair of boots. Metal bands cover a tough and light material",
+      "zh": "一双靴子。金属带覆盖着一种坚韧而轻巧的材料",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.144",
+      "en": "@item.base:pair of cloth trousers",
+      "zh": "一条布裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.145",
+      "en": "@item.base:pair of couters. Metal bands cover a tough and light material",
+      "zh": "一对护肘。金属带覆盖着一种坚韧而轻巧的材料",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.146",
+      "en": "@item.base:pair of cuisses. Metal bands cover a tough and light material",
+      "zh": "一对大腿甲。金属带覆盖着一种坚韧而轻巧的材料",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.147",
+      "en": "@item.base:pair of fingerless gloves",
+      "zh": "一双露指手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.148",
+      "en": "@item.base:pair of gauntlets made with metal and a softer but very tough material",
+      "zh": "一对由金属和较柔软但极其坚韧的材料制成的护手",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.149",
+      "en": "@item.base:pair of lamellar greaves",
+      "zh": "一对札甲护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.150",
+      "en": "@item.base:pair of lamellar vambraces",
+      "zh": "一对札甲前臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.151",
+      "en": "@item.base:pair of layered cloth leggings",
+      "zh": "一对多层布护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.152",
+      "en": "@item.base:pair of leather boots",
+      "zh": "一双皮靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.153",
+      "en": "@item.base:pair of leather gauntlets",
+      "zh": "一对皮护手",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.154",
+      "en": "@item.base:pair of leather gloves",
+      "zh": "一双皮手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.155",
+      "en": "@item.base:pair of leather greaves",
+      "zh": "一对皮护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.156",
+      "en": "@item.base:pair of leather leggings",
+      "zh": "一对皮护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.157",
+      "en": "@item.base:pair of leather shoes",
+      "zh": "一双皮鞋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.158",
+      "en": "@item.base:pair of leather spaulders",
+      "zh": "一对皮肩甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.159",
+      "en": "@item.base:pair of leather thigh boots",
+      "zh": "一双过膝皮靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.160",
+      "en": "@item.base:pair of leather trousers",
+      "zh": "一条皮裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.161",
+      "en": "@item.base:pair of leather vambraces",
+      "zh": "一对皮前臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.162",
+      "en": "@item.base:pair of mail gauntlets",
+      "zh": "一对锁甲护手",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.163",
+      "en": "@item.base:pair of mail leggings",
+      "zh": "一对锁甲护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.164",
+      "en": "@item.base:pair of padded cloth mitts",
+      "zh": "一对衬垫布连指手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.165",
+      "en": "@item.base:pair of plate boots",
+      "zh": "一双板甲靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.166",
+      "en": "@item.base:pair of plate couters",
+      "zh": "一对板甲护肘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.167",
+      "en": "@item.base:pair of plate cuisses",
+      "zh": "一对板甲大腿甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.168",
+      "en": "@item.base:pair of plate gauntlets",
+      "zh": "一对板甲护手",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.169",
+      "en": "@item.base:pair of plate gauntlets made from a brassy metal",
+      "zh": "一对板甲护手，由黄铜色金属制成",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.170",
+      "en": "@item.base:pair of plate greaves",
+      "zh": "一对板甲护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.171",
+      "en": "@item.base:pair of plate leggings",
+      "zh": "一对板甲护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.172",
+      "en": "@item.base:pair of plate sabatons",
+      "zh": "一双板甲铁靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.173",
+      "en": "@item.base:pair of plate spaulders",
+      "zh": "一对板甲肩甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.174",
+      "en": "@item.base:pair of plate vambraces",
+      "zh": "一对板甲前臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.175",
+      "en": "@item.base:pair of pugilist's gloves",
+      "zh": "一双拳手手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.176",
+      "en": "@item.base:pair of quilted cloth trousers",
+      "zh": "一条绗缝布裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.177",
+      "en": "@item.base:pair of rerebraces",
+      "zh": "一对上臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.178",
+      "en": "@item.base:pair of sandals",
+      "zh": "一双凉鞋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.179",
+      "en": "@item.base:pair of silk trousers",
+      "zh": "一条丝绸长裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.180",
+      "en": "@item.base:pair of spaulders. Metal bands cover a tough and light material",
+      "zh": "一对肩甲。金属带覆盖着一种坚韧而轻巧的材料",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.181",
+      "en": "@item.base:pair of splint boots",
+      "zh": "一双条板靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.182",
+      "en": "@item.base:pair of splint cuisses",
+      "zh": "一对条板大腿甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.183",
+      "en": "@item.base:pair of splint gauntlets",
+      "zh": "一对条板护手",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.184",
+      "en": "@item.base:pair of splint greaves",
+      "zh": "一对条板护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.185",
+      "en": "@item.base:pair of splint spaulders",
+      "zh": "一对条板肩甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.186",
+      "en": "@item.base:pair of steel capped shoes",
+      "zh": "一双包钢鞋头的鞋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.187",
+      "en": "@item.base:pair of suede shoes",
+      "zh": "一双绒面皮鞋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.188",
+      "en": "@item.base:pair of suede trousers",
+      "zh": "一条绒面皮裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.189",
+      "en": "@item.base:pair of vambraces. Metal bands cover a tough and light material",
+      "zh": "一对前臂甲。金属带覆盖着一种坚韧而轻巧的材料",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.190",
+      "en": "@item.base:pitchfork",
+      "zh": "草叉",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.191",
+      "en": "@item.base:plate armour",
+      "zh": "板甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.192",
+      "en": "@item.base:plate armour. It is made from a metal similar to brass, but while heavy, it serves its purpose well",
+      "zh": "板甲。它由一种类似黄铜的金属制成，虽重，却能提供良好的防护",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.193",
+      "en": "@item.base:plate bevor",
+      "zh": "板甲护颔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.194",
+      "en": "@item.base:plate cuirass",
+      "zh": "板甲躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.195",
+      "en": "@item.base:plate cuirass made from a strange brassy metal that's heavier than normal, but still effective",
+      "zh": "一副由奇异黄铜色金属制成的板甲躯干甲，比普通护甲更重，但防护依然可靠",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.196",
+      "en": "@item.base:plate helm",
+      "zh": "板甲头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.197",
+      "en": "@item.base:pole axe",
+      "zh": "长柄战斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.198",
+      "en": "@item.base:pole hammer",
+      "zh": "长柄战锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.199",
+      "en": "@item.base:pourpoint",
+      "zh": "衬甲紧身衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.200",
+      "en": "@item.base:primitive looking and oddly proportioned sword with a needlessly thick blade",
+      "zh": "这把剑外形粗陋，比例古怪，剑身厚得毫无必要",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.201",
+      "en": "@item.base:quarterstaff",
+      "zh": "长棍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.202",
+      "en": "@item.base:quilted cloth waistcoat",
+      "zh": "绗缝布马甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.203",
+      "en": "@item.base:sash",
+      "zh": "腰带",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.204",
+      "en": "@item.base:short spear",
+      "zh": "短矛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.205",
+      "en": "@item.base:short-sleeved mail shirt",
+      "zh": "短袖锁子甲衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.206",
+      "en": "@item.base:short-sleeved vest",
+      "zh": "短袖背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.207",
+      "en": "@item.base:shortsword",
+      "zh": "短剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.208",
+      "en": "@item.base:sickle",
+      "zh": "镰刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.209",
+      "en": "@item.base:silk shirt",
+      "zh": "丝绸衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.210",
+      "en": "@item.base:simple cloth shirt",
+      "zh": "朴素的布衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.211",
+      "en": "@item.base:simple shirt",
+      "zh": "朴素的衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.212",
+      "en": "@item.base:simple tunic",
+      "zh": "朴素的短袍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.213",
+      "en": "@item.base:sledgehammer",
+      "zh": "大锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.214",
+      "en": "@item.base:spear",
+      "zh": "长矛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.215",
+      "en": "@item.base:spetum",
+      "zh": "三尖枪",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.216",
+      "en": "@item.base:spiked club",
+      "zh": "尖刺木棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.217",
+      "en": "@item.base:spiked mace",
+      "zh": "尖刺钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.218",
+      "en": "@item.base:spiked mace with a large hollow head",
+      "zh": "一把带有大型中空锤头的尖刺钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.219",
+      "en": "@item.base:splint cuirass",
+      "zh": "条板躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.220",
+      "en": "@item.base:steel breastplate",
+      "zh": "钢制胸甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.221",
+      "en": "@item.base:strange metal mask",
+      "zh": "一副奇异的金属面具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.222",
+      "en": "@item.base:suede leather tunic",
+      "zh": "绒面皮短袍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.223",
+      "en": "@item.base:sword",
+      "zh": "剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.224",
+      "en": "@item.base:two-handed battle axe",
+      "zh": "双手战斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.225",
+      "en": "@item.base:two-handed falchion",
+      "zh": "双手弯刃刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.226",
+      "en": "@item.base:two-handed mace",
+      "zh": "双手钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.227",
+      "en": "@item.base:two-handed spiked mace",
+      "zh": "双手尖刺钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.228",
+      "en": "@item.base:two-handed sword",
+      "zh": "双手剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.229",
+      "en": "@item.base:two-handed war hammer",
+      "zh": "双手战锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.230",
+      "en": "@item.base:velvet shirt",
+      "zh": "天鹅绒衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.231",
+      "en": "@item.base:velvet tunic",
+      "zh": "天鹅绒短袍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.232",
+      "en": "@item.base:very peculiar two-handed sword that would seem ornamental, and yet quite functional",
+      "zh": "一把十分奇特的双手剑，看似装饰品，却颇为实用",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.233",
+      "en": "@item.base:visored helm made from a metal similar to brass, but not as heavy as you expect",
+      "zh": "一顶带面甲的头盔，由类似黄铜的金属制成，却没有想象中那么重",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.234",
+      "en": "@item.base:voulge",
+      "zh": "长柄砍刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.235",
+      "en": "@item.base:waistcoat",
+      "zh": "马甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.236",
+      "en": "@item.base:war hammer",
+      "zh": "战锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.237",
+      "en": "@item.base:wide bracelet that clamps tightly about the wrist. You feel a strange tingling sensation when you wear it",
+      "zh": "宽手镯，紧紧箍住手腕。戴上时，你会感到一种奇异的麻刺感",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.238",
+      "en": "@item.base:woodcutter's axe",
+      "zh": "伐木斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.239",
+      "en": "@item.condition:in above average condition",
+      "zh": "状态好于一般",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.240",
+      "en": "@item.condition:in almost perfect condition",
+      "zh": "状态近乎完好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.241",
+      "en": "@item.condition:in average condition",
+      "zh": "状态一般",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.242",
+      "en": "@item.condition:in below average condition",
+      "zh": "状态欠佳",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.243",
+      "en": "@item.condition:in extremely good condition",
+      "zh": "状态极佳",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.244",
+      "en": "@item.condition:in extremely worn condition",
+      "zh": "磨损极其严重",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.245",
+      "en": "@item.condition:in fair condition",
+      "zh": "状态尚可",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.246",
+      "en": "@item.condition:in fairly good condition",
+      "zh": "状态较好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.247",
+      "en": "@item.condition:in fairly poor condition",
+      "zh": "状态较差",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.248",
+      "en": "@item.condition:in fairly worn condition",
+      "zh": "有些磨损",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.249",
+      "en": "@item.condition:in fine condition",
+      "zh": "状态优良",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.250",
+      "en": "@item.condition:in flawless condition",
+      "zh": "状态完好无瑕",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.251",
+      "en": "@item.condition:in good condition",
+      "zh": "状态良好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.252",
+      "en": "@item.condition:in great condition",
+      "zh": "状态极好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.253",
+      "en": "@item.condition:in perfect condition",
+      "zh": "状态完好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.254",
+      "en": "@item.condition:in poor condition",
+      "zh": "状态很差",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.255",
+      "en": "@item.condition:in reasonable condition",
+      "zh": "状态尚可",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.256",
+      "en": "@item.condition:in relatively poor condition",
+      "zh": "状态较差",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.257",
+      "en": "@item.condition:in somewhat worn condition",
+      "zh": "略有磨损",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.258",
+      "en": "@item.condition:in terrible condition",
+      "zh": "状态极差",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.259",
+      "en": "@item.condition:in very good condition",
+      "zh": "状态很好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.260",
+      "en": "@item.condition:in very worn condition",
+      "zh": "磨损严重",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.261",
+      "en": "@item.condition:in worn condition",
+      "zh": "已有磨损",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.262",
+      "en": "@item.modifier:blackened",
+      "zh": "发黑处理",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.263",
+      "en": "@item.modifier:blued",
+      "zh": "烤蓝",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.264",
+      "en": "@item.modifier:hardened",
+      "zh": "硬化",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.265",
+      "en": "@item.modifier:heavy",
+      "zh": "重型",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.266",
+      "en": "@item.modifier:light",
+      "zh": "轻型",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.267",
+      "en": "@item.modifier:reinforced",
+      "zh": "加固",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.268",
+      "en": "@item.modifier:thick",
+      "zh": "厚实",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.269",
+      "en": "@item.modifier:tough",
+      "zh": "坚韧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.270",
+      "en": "@item.name:alchemy apparatus",
+      "zh": "炼金器具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.271",
+      "en": "@item.name:amethyst",
+      "zh": "紫水晶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.272",
+      "en": "@item.name:arm harness",
+      "zh": "整臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.273",
+      "en": "@item.name:arming cap",
+      "zh": "武装衬帽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.274",
+      "en": "@item.name:arming jack",
+      "zh": "武装衬衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.275",
+      "en": "@item.name:armour",
+      "zh": "护甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.276",
+      "en": "@item.name:awl pike",
+      "zh": "锥头长枪",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.277",
+      "en": "@item.name:axe",
+      "zh": "斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.278",
+      "en": "@item.name:ball",
+      "zh": "球",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.279",
+      "en": "@item.name:bar mace",
+      "zh": "条形钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.280",
+      "en": "@item.name:bardiche",
+      "zh": "长柄大斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.281",
+      "en": "@item.name:barrel lid",
+      "zh": "桶盖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.282",
+      "en": "@item.name:baton",
+      "zh": "短棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.283",
+      "en": "@item.name:battle axe",
+      "zh": "战斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.284",
+      "en": "@item.name:bedpan",
+      "zh": "便盆",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.285",
+      "en": "@item.name:bevor",
+      "zh": "护颔甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.286",
+      "en": "@item.name:billhook",
+      "zh": "钩镰刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.287",
+      "en": "@item.name:binding of the dead",
+      "zh": "亡者束缚",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.288",
+      "en": "@item.name:blacksmith's hammer",
+      "zh": "铁匠锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.289",
+      "en": "@item.name:book",
+      "zh": "书",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.290",
+      "en": "@item.name:boots",
+      "zh": "靴子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.291",
+      "en": "@item.name:bottle",
+      "zh": "瓶子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.292",
+      "en": "@item.name:bowl",
+      "zh": "碗",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.293",
+      "en": "@item.name:box",
+      "zh": "盒子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.294",
+      "en": "@item.name:bracelet",
+      "zh": "手镯",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.295",
+      "en": "@item.name:brass ingot",
+      "zh": "黄铜锭",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.296",
+      "en": "@item.name:brass plate",
+      "zh": "黄铜盘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.297",
+      "en": "@item.name:breastplate",
+      "zh": "胸甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.298",
+      "en": "@item.name:brigandine",
+      "zh": "布面甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.299",
+      "en": "@item.name:broken disc",
+      "zh": "破碎圆盘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.300",
+      "en": "@item.name:broom",
+      "zh": "扫帚",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.301",
+      "en": "@item.name:brush",
+      "zh": "刷子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.302",
+      "en": "@item.name:buckler",
+      "zh": "小圆盾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.303",
+      "en": "@item.name:buff leather coat",
+      "zh": "厚牛皮外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.304",
+      "en": "@item.name:bundle",
+      "zh": "包裹",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.305",
+      "en": "@item.name:cabinet",
+      "zh": "柜子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.306",
+      "en": "@item.name:cage bar",
+      "zh": "笼栏铁条",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.307",
+      "en": "@item.name:candle",
+      "zh": "蜡烛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.308",
+      "en": "@item.name:candle holder",
+      "zh": "烛台",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.309",
+      "en": "@item.name:candle stick",
+      "zh": "烛台",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.310",
+      "en": "@item.name:carpentry knife",
+      "zh": "木工刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.311",
+      "en": "@item.name:carpentry tool",
+      "zh": "木工工具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.312",
+      "en": "@item.name:carrier",
+      "zh": "提篮",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.313",
+      "en": "@item.name:cartwright's tool",
+      "zh": "车匠工具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.314",
+      "en": "@item.name:case",
+      "zh": "匣子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.315",
+      "en": "@item.name:chain shirt",
+      "zh": "锁子甲衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.316",
+      "en": "@item.name:chalk",
+      "zh": "粉笔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.317",
+      "en": "@item.name:charcoal",
+      "zh": "木炭",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.318",
+      "en": "@item.name:chest",
+      "zh": "箱子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.319",
+      "en": "@item.name:chest of drawers",
+      "zh": "斗柜",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.320",
+      "en": "@item.name:chisel",
+      "zh": "凿子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.321",
+      "en": "@item.name:clamp",
+      "zh": "夹具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.322",
+      "en": "@item.name:clay",
+      "zh": "黏土",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.323",
+      "en": "@item.name:clay head",
+      "zh": "泥塑头像",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.324",
+      "en": "@item.name:cleaver",
+      "zh": "劈肉刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.325",
+      "en": "@item.name:cloth leggings",
+      "zh": "布护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.326",
+      "en": "@item.name:cloth shirt",
+      "zh": "布衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.327",
+      "en": "@item.name:cloth trousers",
+      "zh": "布裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.328",
+      "en": "@item.name:club",
+      "zh": "木棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.329",
+      "en": "@item.name:coat",
+      "zh": "外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.330",
+      "en": "@item.name:cobbler's hammer",
+      "zh": "鞋匠锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.331",
+      "en": "@item.name:cobbler's tool",
+      "zh": "鞋匠工具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.332",
+      "en": "@item.name:collar",
+      "zh": "项圈",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.333",
+      "en": "@item.name:comb",
+      "zh": "梳子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.334",
+      "en": "@item.name:compass",
+      "zh": "指南针",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.335",
+      "en": "@item.name:copper ingot",
+      "zh": "铜锭",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.336",
+      "en": "@item.name:cork lid",
+      "zh": "软木塞",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.337",
+      "en": "@item.name:counter",
+      "zh": "筹码",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.338",
+      "en": "@item.name:couters",
+      "zh": "护肘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.339",
+      "en": "@item.name:crutch",
+      "zh": "拐杖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.340",
+      "en": "@item.name:crystal",
+      "zh": "水晶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.341",
+      "en": "@item.name:cudgel",
+      "zh": "短棍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.342",
+      "en": "@item.name:cuirass",
+      "zh": "躯干甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.343",
+      "en": "@item.name:cuisses",
+      "zh": "大腿甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.344",
+      "en": "@item.name:cup",
+      "zh": "杯子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.345",
+      "en": "@item.name:cupboard",
+      "zh": "橱柜",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.346",
+      "en": "@item.name:cushion",
+      "zh": "坐垫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.347",
+      "en": "@item.name:dagger",
+      "zh": "匕首",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.348",
+      "en": "@item.name:decanter",
+      "zh": "分酒瓶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.349",
+      "en": "@item.name:deconstructing humanity",
+      "zh": "解构人体",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.350",
+      "en": "@item.name:desk",
+      "zh": "书桌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.351",
+      "en": "@item.name:device",
+      "zh": "装置",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.352",
+      "en": "@item.name:diamond",
+      "zh": "钻石",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.353",
+      "en": "@item.name:die",
+      "zh": "骰子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.354",
+      "en": "@item.name:dish",
+      "zh": "碟子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.355",
+      "en": "@item.name:diviner's deck",
+      "zh": "占卜纸牌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.356",
+      "en": "@item.name:dolly",
+      "zh": "铆钉顶铁",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.357",
+      "en": "@item.name:doublet",
+      "zh": "紧身上衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.358",
+      "en": "@item.name:drawer",
+      "zh": "抽屉",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.359",
+      "en": "@item.name:drawing compass",
+      "zh": "圆规",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.360",
+      "en": "@item.name:drawknife",
+      "zh": "刨刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.361",
+      "en": "@item.name:drill",
+      "zh": "钻具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.362",
+      "en": "@item.name:emerald",
+      "zh": "祖母绿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.363",
+      "en": "@item.name:falchion",
+      "zh": "弯刃刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.364",
+      "en": "@item.name:figurine",
+      "zh": "小雕像",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.365",
+      "en": "@item.name:fire poker",
+      "zh": "拨火棍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.366",
+      "en": "@item.name:fireplace shovel",
+      "zh": "壁炉铲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.367",
+      "en": "@item.name:fireplace tongs",
+      "zh": "壁炉火钳",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.368",
+      "en": "@item.name:flail",
+      "zh": "链枷",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.369",
+      "en": "@item.name:flanged mace",
+      "zh": "凸缘钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.370",
+      "en": "@item.name:flask",
+      "zh": "长颈瓶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.371",
+      "en": "@item.name:forgotten",
+      "zh": "遗忘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.372",
+      "en": "@item.name:fork",
+      "zh": "叉子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.373",
+      "en": "@item.name:funnel",
+      "zh": "漏斗",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.374",
+      "en": "@item.name:gambeson",
+      "zh": "厚棉甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.375",
+      "en": "@item.name:game piece",
+      "zh": "棋子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.376",
+      "en": "@item.name:gauntlets",
+      "zh": "护手",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.377",
+      "en": "@item.name:ghosts",
+      "zh": "幽灵",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.378",
+      "en": "@item.name:glaive",
+      "zh": "长柄偃月刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.379",
+      "en": "@item.name:glass bowl",
+      "zh": "玻璃碗",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.380",
+      "en": "@item.name:glass goblet",
+      "zh": "玻璃高脚杯",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.381",
+      "en": "@item.name:glass ornament",
+      "zh": "玻璃饰品",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.382",
+      "en": "@item.name:gloves",
+      "zh": "手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.383",
+      "en": "@item.name:goblet",
+      "zh": "高脚杯",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.384",
+      "en": "@item.name:grand falchion",
+      "zh": "大型弯刃刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.385",
+      "en": "@item.name:great axe",
+      "zh": "巨斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.386",
+      "en": "@item.name:greatsword",
+      "zh": "巨剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.387",
+      "en": "@item.name:greaves",
+      "zh": "护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.388",
+      "en": "@item.name:guisarme",
+      "zh": "钩镰枪",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.389",
+      "en": "@item.name:hair brush",
+      "zh": "发刷",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.390",
+      "en": "@item.name:halberd",
+      "zh": "戟",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.391",
+      "en": "@item.name:hammer",
+      "zh": "锤子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.392",
+      "en": "@item.name:hand mirror",
+      "zh": "手镜",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.393",
+      "en": "@item.name:hand saw",
+      "zh": "手锯",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.394",
+      "en": "@item.name:hat",
+      "zh": "帽子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.395",
+      "en": "@item.name:hatchet",
+      "zh": "手斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.396",
+      "en": "@item.name:heater shield",
+      "zh": "熨斗形盾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.397",
+      "en": "@item.name:helm",
+      "zh": "头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.398",
+      "en": "@item.name:helmet",
+      "zh": "头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.399",
+      "en": "@item.name:hole puncher",
+      "zh": "打孔器",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.400",
+      "en": "@item.name:hook",
+      "zh": "钩子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.401",
+      "en": "@item.name:horn",
+      "zh": "号角",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.402",
+      "en": "@item.name:hose",
+      "zh": "紧身长袜",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.403",
+      "en": "@item.name:hourglass",
+      "zh": "沙漏",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.404",
+      "en": "@item.name:inkpot",
+      "zh": "墨水瓶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.405",
+      "en": "@item.name:iron ingot",
+      "zh": "铁锭",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.406",
+      "en": "@item.name:jacket",
+      "zh": "夹克",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.407",
+      "en": "@item.name:jar",
+      "zh": "罐子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.408",
+      "en": "@item.name:journal",
+      "zh": "日志",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.409",
+      "en": "@item.name:jug",
+      "zh": "壶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.410",
+      "en": "@item.name:juggling club",
+      "zh": "杂耍棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.411",
+      "en": "@item.name:kerchief",
+      "zh": "方巾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.412",
+      "en": "@item.name:key",
+      "zh": "钥匙",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.413",
+      "en": "@item.name:kite shield",
+      "zh": "鸢形盾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.414",
+      "en": "@item.name:knife",
+      "zh": "小刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.415",
+      "en": "@item.name:ladel",
+      "zh": "长柄勺",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.416",
+      "en": "@item.name:ladle",
+      "zh": "长柄勺",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.417",
+      "en": "@item.name:lamellar greaves",
+      "zh": "札甲护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.418",
+      "en": "@item.name:lamellar vest",
+      "zh": "札甲背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.419",
+      "en": "@item.name:large mallet",
+      "zh": "大木槌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.420",
+      "en": "@item.name:large pan",
+      "zh": "大锅",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.421",
+      "en": "@item.name:latrine",
+      "zh": "便器",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.422",
+      "en": "@item.name:leather armour",
+      "zh": "皮甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.423",
+      "en": "@item.name:leather belt",
+      "zh": "皮带",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.424",
+      "en": "@item.name:leather boots",
+      "zh": "皮靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.425",
+      "en": "@item.name:leather cap",
+      "zh": "皮帽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.426",
+      "en": "@item.name:leather coat",
+      "zh": "皮外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.427",
+      "en": "@item.name:leather gloves",
+      "zh": "皮手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.428",
+      "en": "@item.name:leather greaves",
+      "zh": "皮护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.429",
+      "en": "@item.name:leather helm",
+      "zh": "皮头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.430",
+      "en": "@item.name:leather leggings",
+      "zh": "皮护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.431",
+      "en": "@item.name:leather shoes",
+      "zh": "皮鞋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.432",
+      "en": "@item.name:leather trousers",
+      "zh": "皮裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.433",
+      "en": "@item.name:leather tunic",
+      "zh": "皮束腰衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.434",
+      "en": "@item.name:leather vest",
+      "zh": "皮背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.435",
+      "en": "@item.name:lid",
+      "zh": "盖子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.436",
+      "en": "@item.name:life of linus fendrick",
+      "zh": "莱纳斯·芬德里克传",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.437",
+      "en": "@item.name:long knife",
+      "zh": "长刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.438",
+      "en": "@item.name:longsword",
+      "zh": "长剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.439",
+      "en": "@item.name:mace",
+      "zh": "钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.440",
+      "en": "@item.name:mail coif",
+      "zh": "锁甲头套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.441",
+      "en": "@item.name:mail gauntlets",
+      "zh": "锁甲手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.442",
+      "en": "@item.name:mail leggings",
+      "zh": "锁甲护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.443",
+      "en": "@item.name:mail shirt",
+      "zh": "锁子甲衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.444",
+      "en": "@item.name:mail vest",
+      "zh": "锁甲背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.445",
+      "en": "@item.name:makeup box",
+      "zh": "化妆盒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.446",
+      "en": "@item.name:mallet",
+      "zh": "木槌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.447",
+      "en": "@item.name:marble urn",
+      "zh": "大理石瓮",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.448",
+      "en": "@item.name:mask",
+      "zh": "面具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.449",
+      "en": "@item.name:maul",
+      "zh": "重锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.450",
+      "en": "@item.name:metal bar",
+      "zh": "金属棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.451",
+      "en": "@item.name:metal crutch",
+      "zh": "金属拐杖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.452",
+      "en": "@item.name:metal stake",
+      "zh": "金属尖桩",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.453",
+      "en": "@item.name:mitts",
+      "zh": "连指手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.454",
+      "en": "@item.name:mortar",
+      "zh": "研钵",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.455",
+      "en": "@item.name:musical instrument",
+      "zh": "乐器",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.456",
+      "en": "@item.name:muzzle",
+      "zh": "嘴套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.457",
+      "en": "@item.name:nail",
+      "zh": "钉子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.458",
+      "en": "@item.name:old parchment",
+      "zh": "旧羊皮纸",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.459",
+      "en": "@item.name:optics",
+      "zh": "光学器具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.460",
+      "en": "@item.name:orb",
+      "zh": "宝珠",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.461",
+      "en": "@item.name:padded cap",
+      "zh": "衬垫帽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.462",
+      "en": "@item.name:padded coat",
+      "zh": "衬垫外套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.463",
+      "en": "@item.name:padded shirt",
+      "zh": "衬垫衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.464",
+      "en": "@item.name:paint brush",
+      "zh": "画笔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.465",
+      "en": "@item.name:paint pot",
+      "zh": "颜料罐",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.466",
+      "en": "@item.name:palette",
+      "zh": "调色板",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.467",
+      "en": "@item.name:pan",
+      "zh": "锅",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.468",
+      "en": "@item.name:pan ",
+      "zh": "锅 ",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.469",
+      "en": "@item.name:pan lid",
+      "zh": "锅盖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.470",
+      "en": "@item.name:parchment",
+      "zh": "羊皮纸",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.471",
+      "en": "@item.name:peg",
+      "zh": "衣夹",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.472",
+      "en": "@item.name:pen",
+      "zh": "笔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.473",
+      "en": "@item.name:pendant",
+      "zh": "吊坠",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.474",
+      "en": "@item.name:perfume bottle",
+      "zh": "香水瓶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.475",
+      "en": "@item.name:pestle",
+      "zh": "研杵",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.476",
+      "en": "@item.name:pick axe",
+      "zh": "鹤嘴锄",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.477",
+      "en": "@item.name:pickaxe",
+      "zh": "鹤嘴锄",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.478",
+      "en": "@item.name:pipe",
+      "zh": "烟斗",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.479",
+      "en": "@item.name:pitchfork",
+      "zh": "干草叉",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.480",
+      "en": "@item.name:plane",
+      "zh": "木刨",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.481",
+      "en": "@item.name:plate",
+      "zh": "盘子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.482",
+      "en": "@item.name:plate armour",
+      "zh": "板甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.483",
+      "en": "@item.name:plate cuisses",
+      "zh": "板甲大腿甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.484",
+      "en": "@item.name:plate gauntlets",
+      "zh": "板甲手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.485",
+      "en": "@item.name:plate greaves",
+      "zh": "板甲护胫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.486",
+      "en": "@item.name:plate helm",
+      "zh": "板甲头盔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.487",
+      "en": "@item.name:plate leggings",
+      "zh": "板甲护腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.488",
+      "en": "@item.name:plate sabatons",
+      "zh": "板甲铁靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.489",
+      "en": "@item.name:playing card",
+      "zh": "纸牌",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.490",
+      "en": "@item.name:pole axe",
+      "zh": "长柄斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.491",
+      "en": "@item.name:pole hammer",
+      "zh": "长柄战锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.492",
+      "en": "@item.name:portrait",
+      "zh": "肖像画",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.493",
+      "en": "@item.name:pot",
+      "zh": "陶罐",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.494",
+      "en": "@item.name:pouch",
+      "zh": "小袋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.495",
+      "en": "@item.name:pourpoint",
+      "zh": "衬甲紧身衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.496",
+      "en": "@item.name:powder box",
+      "zh": "粉盒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.497",
+      "en": "@item.name:proctor's seal",
+      "zh": "执法官印信",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.498",
+      "en": "@item.name:prosthesis",
+      "zh": "假肢",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.499",
+      "en": "@item.name:prosthetic leg",
+      "zh": "假腿",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.500",
+      "en": "@item.name:pugilist's gloves",
+      "zh": "拳手手套",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.501",
+      "en": "@item.name:purse",
+      "zh": "钱袋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.502",
+      "en": "@item.name:quarterstaff",
+      "zh": "长棍",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.503",
+      "en": "@item.name:quill pen",
+      "zh": "羽毛笔",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.504",
+      "en": "@item.name:quilted trousers",
+      "zh": "绗缝长裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.505",
+      "en": "@item.name:rake",
+      "zh": "耙子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.506",
+      "en": "@item.name:reinforced chest",
+      "zh": "加固箱",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.507",
+      "en": "@item.name:rerebraces",
+      "zh": "上臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.508",
+      "en": "@item.name:retort",
+      "zh": "曲颈蒸馏瓶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.509",
+      "en": "@item.name:rod",
+      "zh": "杆子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.510",
+      "en": "@item.name:rolling pin",
+      "zh": "擀面杖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.511",
+      "en": "@item.name:rope",
+      "zh": "绳子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.512",
+      "en": "@item.name:round knife",
+      "zh": "圆头皮革刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.513",
+      "en": "@item.name:round shield",
+      "zh": "圆盾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.514",
+      "en": "@item.name:ruby",
+      "zh": "红宝石",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.515",
+      "en": "@item.name:rusty chisel",
+      "zh": "生锈的凿子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.516",
+      "en": "@item.name:rusty mallet",
+      "zh": "生锈的锤子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.517",
+      "en": "@item.name:rusty metal bar",
+      "zh": "生锈的金属棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.518",
+      "en": "@item.name:rusty pick axe",
+      "zh": "生锈的鹤嘴锄",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.519",
+      "en": "@item.name:rusty rake",
+      "zh": "生锈的耙子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.520",
+      "en": "@item.name:rusty scraper",
+      "zh": "生锈的刮刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.521",
+      "en": "@item.name:rusty shovel",
+      "zh": "生锈的铲子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.522",
+      "en": "@item.name:sabatons",
+      "zh": "铁靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.523",
+      "en": "@item.name:sack",
+      "zh": "麻袋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.524",
+      "en": "@item.name:sandals",
+      "zh": "凉鞋",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.525",
+      "en": "@item.name:sapphire",
+      "zh": "蓝宝石",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.526",
+      "en": "@item.name:sash",
+      "zh": "腰带",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.527",
+      "en": "@item.name:satchel",
+      "zh": "挎包",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.528",
+      "en": "@item.name:saw",
+      "zh": "锯子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.529",
+      "en": "@item.name:scales",
+      "zh": "天平",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.530",
+      "en": "@item.name:sceptre",
+      "zh": "权杖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.531",
+      "en": "@item.name:scoop",
+      "zh": "舀勺",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.532",
+      "en": "@item.name:scraper",
+      "zh": "刮刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.533",
+      "en": "@item.name:seal",
+      "zh": "印章",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.534",
+      "en": "@item.name:shackles",
+      "zh": "镣铐",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.535",
+      "en": "@item.name:shears",
+      "zh": "剪刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.536",
+      "en": "@item.name:shield",
+      "zh": "盾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.537",
+      "en": "@item.name:shirt",
+      "zh": "衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.538",
+      "en": "@item.name:shoes",
+      "zh": "鞋子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.539",
+      "en": "@item.name:short spear",
+      "zh": "短矛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.540",
+      "en": "@item.name:shortsword",
+      "zh": "短剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.541",
+      "en": "@item.name:shovel",
+      "zh": "铲子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.542",
+      "en": "@item.name:sickle",
+      "zh": "镰刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.543",
+      "en": "@item.name:silk shirt",
+      "zh": "丝绸衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.544",
+      "en": "@item.name:silk trousers",
+      "zh": "丝绸长裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.545",
+      "en": "@item.name:silver talin",
+      "zh": "塔林银币",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.546",
+      "en": "@item.name:skull",
+      "zh": "头骨",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.547",
+      "en": "@item.name:slate",
+      "zh": "石板",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.548",
+      "en": "@item.name:sledgehammer",
+      "zh": "大锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.549",
+      "en": "@item.name:soap",
+      "zh": "肥皂",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.550",
+      "en": "@item.name:spatula",
+      "zh": "锅铲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.551",
+      "en": "@item.name:spaulders",
+      "zh": "肩甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.552",
+      "en": "@item.name:spear",
+      "zh": "长矛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.553",
+      "en": "@item.name:spetum",
+      "zh": "三尖枪",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.554",
+      "en": "@item.name:spice holder",
+      "zh": "香料盒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.555",
+      "en": "@item.name:spiked club",
+      "zh": "带刺木棒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.556",
+      "en": "@item.name:spiked mace",
+      "zh": "尖刺钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.557",
+      "en": "@item.name:splint cuisses",
+      "zh": "条板大腿甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.558",
+      "en": "@item.name:spoon",
+      "zh": "勺子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.559",
+      "en": "@item.name:sprayer",
+      "zh": "喷壶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.560",
+      "en": "@item.name:square shield",
+      "zh": "方盾",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.561",
+      "en": "@item.name:stage crown",
+      "zh": "戏剧王冠",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.562",
+      "en": "@item.name:stage sword",
+      "zh": "道具剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.563",
+      "en": "@item.name:stand",
+      "zh": "支架",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.564",
+      "en": "@item.name:stone chest",
+      "zh": "石箱",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.565",
+      "en": "@item.name:storage",
+      "zh": "储物柜",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.566",
+      "en": "@item.name:string",
+      "zh": "细绳",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.567",
+      "en": "@item.name:strongbox",
+      "zh": "保险箱",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.568",
+      "en": "@item.name:suede shirt",
+      "zh": "绒面革衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.569",
+      "en": "@item.name:suede trousers",
+      "zh": "绒面革长裤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.570",
+      "en": "@item.name:surgical caliper",
+      "zh": "外科卡钳",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.571",
+      "en": "@item.name:surgical tool",
+      "zh": "外科器械",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.572",
+      "en": "@item.name:sword",
+      "zh": "剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.573",
+      "en": "@item.name:syringe",
+      "zh": "注射器",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.574",
+      "en": "@item.name:tailoring knife",
+      "zh": "裁缝刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.575",
+      "en": "@item.name:tailoring tool",
+      "zh": "裁缝工具",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.576",
+      "en": "@item.name:tankard",
+      "zh": "大酒杯",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.577",
+      "en": "@item.name:the forgotten power",
+      "zh": "被遗忘的力量",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.578",
+      "en": "@item.name:the guardian of the underworld",
+      "zh": "冥界守护者",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.579",
+      "en": "@item.name:the guardian's wrath",
+      "zh": "守护者之怒",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.580",
+      "en": "@item.name:thigh boots",
+      "zh": "过膝长靴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.581",
+      "en": "@item.name:thread",
+      "zh": "线",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.582",
+      "en": "@item.name:throwing axe",
+      "zh": "投斧",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.583",
+      "en": "@item.name:token",
+      "zh": "徽记",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.584",
+      "en": "@item.name:tongs",
+      "zh": "钳子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.585",
+      "en": "@item.name:topaz",
+      "zh": "黄玉",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.586",
+      "en": "@item.name:torch",
+      "zh": "火把",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.587",
+      "en": "@item.name:tray",
+      "zh": "托盘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.588",
+      "en": "@item.name:trowel",
+      "zh": "泥刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.589",
+      "en": "@item.name:trunk",
+      "zh": "大箱子",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.590",
+      "en": "@item.name:tunic",
+      "zh": "束腰衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.591",
+      "en": "@item.name:two-handed mace",
+      "zh": "双手钉头锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.592",
+      "en": "@item.name:two-handed sword",
+      "zh": "双手剑",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.593",
+      "en": "@item.name:urn",
+      "zh": "瓮",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.594",
+      "en": "@item.name:vambraces",
+      "zh": "前臂甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.595",
+      "en": "@item.name:vase",
+      "zh": "花瓶",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.596",
+      "en": "@item.name:velvet shirt",
+      "zh": "天鹅绒衬衫",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.597",
+      "en": "@item.name:velvet tunic",
+      "zh": "天鹅绒束腰衣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.598",
+      "en": "@item.name:vest",
+      "zh": "背心",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.599",
+      "en": "@item.name:voulge",
+      "zh": "长柄砍刀",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.600",
+      "en": "@item.name:waistcoat",
+      "zh": "马甲",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.601",
+      "en": "@item.name:walking stick",
+      "zh": "手杖",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.602",
+      "en": "@item.name:war hammer",
+      "zh": "战锤",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.603",
+      "en": "@item.name:wardrobe",
+      "zh": "衣柜",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.604",
+      "en": "@item.name:wax tablet",
+      "zh": "蜡板",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.605",
+      "en": "@item.name:weight",
+      "zh": "砝码",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.606",
+      "en": "@item.name:whetstone",
+      "zh": "磨刀石",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.607",
+      "en": "@item.name:wicker chest",
+      "zh": "柳编箱",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.608",
+      "en": "@item.name:wood debris",
+      "zh": "木头残片",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.609",
+      "en": "@item.name:wooden stake",
+      "zh": "木尖桩",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.610",
+      "en": "@item.name:wool",
+      "zh": "羊毛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.611",
+      "en": "@item.name:workbench",
+      "zh": "工作台",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.612",
+      "en": "@item.quality:coarse",
+      "zh": "做工粗糙",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.613",
+      "en": "@item.quality:coarsely made",
+      "zh": "做工粗糙",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.614",
+      "en": "@item.quality:crude",
+      "zh": "做工粗劣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.615",
+      "en": "@item.quality:crudely made",
+      "zh": "做工粗劣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.616",
+      "en": "@item.quality:decent",
+      "zh": "品质尚可",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.617",
+      "en": "@item.quality:exceptionally well made",
+      "zh": "做工极其精湛",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.618",
+      "en": "@item.quality:extremely crude",
+      "zh": "做工极其粗劣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.619",
+      "en": "@item.quality:extremely well made",
+      "zh": "做工极为精良",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.620",
+      "en": "@item.quality:fairly coarse",
+      "zh": "做工较粗糙",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.621",
+      "en": "@item.quality:fairly well made",
+      "zh": "做工较好",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.622",
+      "en": "@item.quality:high quality",
+      "zh": "品质上乘",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.623",
+      "en": "@item.quality:mediocre",
+      "zh": "做工平庸",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.624",
+      "en": "@item.quality:simple",
+      "zh": "做工简单",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.625",
+      "en": "@item.quality:somewhat crude",
+      "zh": "做工有些粗劣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.626",
+      "en": "@item.quality:very coarse",
+      "zh": "做工十分粗糙",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.627",
+      "en": "@item.quality:very crude",
+      "zh": "做工十分粗劣",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.628",
+      "en": "@item.quality:very high quality",
+      "zh": "品质极佳",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.629",
+      "en": "@item.quality:very well made",
+      "zh": "做工十分精良",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.630",
+      "en": "@item.quality:well made",
+      "zh": "做工精良",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.631",
+      "en": "@match.type:beast",
+      "zh": "巨兽",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.632",
+      "en": "@match.type:brawl",
+      "zh": "斗殴",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.633",
+      "en": "@match.type:captain",
+      "zh": "队长",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.634",
+      "en": "@match.type:challenger",
+      "zh": "挑战者",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.635",
+      "en": "@match.type:doubles",
+      "zh": "双人",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.636",
+      "en": "@match.type:duel",
+      "zh": "决斗",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.637",
+      "en": "@match.type:elimination",
+      "zh": "淘汰",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.638",
+      "en": "@match.type:fray",
+      "zh": "混战",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.639",
+      "en": "@match.type:pugilism",
+      "zh": "拳斗",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.640",
+      "en": "@match.type:reserve",
+      "zh": "替补战",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.641",
+      "en": "@match.type:skirmish",
+      "zh": "小队战",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.642",
+      "en": "@match.type:valiance",
+      "zh": "勇战",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.643",
+      "en": "@match.type:valour",
+      "zh": "英勇",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.644",
+      "en": "A black crystal.",
+      "zh": "一块黑色水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.645",
+      "en": "A crystal emitting a amber glow.",
+      "zh": "一块散发琥珀色光芒的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.646",
+      "en": "A crystal emitting a amber glow.\r\n\r\n",
+      "zh": "一块散发琥珀色光芒的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.647",
+      "en": "A crystal emitting a blue glow.",
+      "zh": "一块散发蓝光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.648",
+      "en": "A crystal emitting a blue glow.\r\n\r\n",
+      "zh": "一块散发蓝光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.649",
+      "en": "A crystal emitting a faint amber glow.",
+      "zh": "一块散发微弱琥珀色光芒的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.650",
+      "en": "A crystal emitting a faint amber glow.\r\n\r\n",
+      "zh": "一块散发微弱琥珀色光芒的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.651",
+      "en": "A crystal emitting a faint blue glow.",
+      "zh": "一块散发微弱蓝光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.652",
+      "en": "A crystal emitting a faint blue glow.\r\n\r\n",
+      "zh": "一块散发微弱蓝光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.653",
+      "en": "A crystal emitting a faint green glow.",
+      "zh": "一块散发微弱绿光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.654",
+      "en": "A crystal emitting a faint green glow.\r\n\r\n",
+      "zh": "一块散发微弱绿光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.655",
+      "en": "A crystal emitting a green glow.",
+      "zh": "一块散发绿光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.656",
+      "en": "A crystal emitting a green glow.\r\n\r\n",
+      "zh": "一块散发绿光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.657",
+      "en": "A crystal emitting an intense amber glow.",
+      "zh": "一块散发强烈琥珀色光芒的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.658",
+      "en": "A crystal emitting an intense amber glow.\r\n\r\n",
+      "zh": "一块散发强烈琥珀色光芒的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.659",
+      "en": "A crystal emitting an intense blue glow.",
+      "zh": "一块散发强烈蓝光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.660",
+      "en": "A crystal emitting an intense blue glow.\r\n\r\n",
+      "zh": "一块散发强烈蓝光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.661",
+      "en": "A crystal emitting an intense green glow.",
+      "zh": "一块散发强烈绿光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.662",
+      "en": "A crystal emitting an intense green glow.\r\n\r\n",
+      "zh": "一块散发强烈绿光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.663",
+      "en": "A smooth black sphere.",
+      "zh": "一颗光滑的黑色球体。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.664",
+      "en": "A sphere with a strange pattern within. Its surface seems to shift when you press against it.",
+      "zh": "一颗内部带有奇异纹路的球体。按压它时，表面似乎会流动。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.665",
+      "en": "A sphere with a strange pattern within. Its surface seems to shift when you press against it.\r\n\r\n",
+      "zh": "一颗内部带有奇异纹路的球体。按压它时，表面似乎会流动。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.666",
+      "en": "An encased black crystal.",
+      "zh": "一块装在外壳中的黑色水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.667",
+      "en": "An encased crystal emitting a blue glow.",
+      "zh": "一块装在外壳中、散发蓝光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.668",
+      "en": "An encased crystal emitting a blue glow.\r\n\r\n",
+      "zh": "一块装在外壳中、散发蓝光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.669",
+      "en": "An encased crystal emitting a faint blue glow.",
+      "zh": "一块装在外壳中、散发微弱蓝光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.670",
+      "en": "An encased crystal emitting a faint blue glow.\r\n\r\n",
+      "zh": "一块装在外壳中、散发微弱蓝光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.671",
+      "en": "An encased crystal emitting an intense blue glow.",
+      "zh": "一块装在外壳中、散发强烈蓝光的水晶。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.672",
+      "en": "An encased crystal emitting an intense blue glow.\r\n\r\n",
+      "zh": "一块装在外壳中、散发强烈蓝光的水晶。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.673",
+      "en": "The crystal is tightly clamped in the device, but can removed.",
+      "zh": "水晶被牢牢夹在装置中，但可以取出。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.674",
+      "en": "The crystal is tightly clamped in the device, but can removed.\r\n\r\n",
+      "zh": "水晶被牢牢夹在装置中，但可以取出。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.675",
+      "en": "The crystal seems to be fused to the device and cannot be removed.",
+      "zh": "水晶似乎已与装置融为一体，无法取出。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.676",
+      "en": "The label on this bottle reads:\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\nNephil's Elixir of Warding\r\n[/tcol]\r\nWards against and soothes pain, whether it be of tooth, of joint or any ailment or injury. It may cause a mild drowsiness.\r\n[scrp=n][algn=0]\r\n\r\nThe bottle is empty.",
+      "zh": "瓶上的标签写着：\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\n奈菲尔护佑灵药\r\n[/tcol]\r\n预防并缓解疼痛，无论牙痛、关节痛，还是疾病与外伤引起的疼痛。服用后可能略感困倦。\r\n[scrp=n][algn=0]\r\n\r\n瓶子是空的。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.677",
+      "en": "The label on this bottle reads:\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\nNephil's Elixir of Warding\r\n[/tcol]\r\nWards against and soothes pain, whether it be of tooth, of joint or any ailment or injury. It may cause a mild drowsiness.\r\n[scrp=n][algn=0]\r\n\r\nThe cork is sealed with wax and an oily liquid appears to be inside.",
+      "zh": "瓶上的标签写着：\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\n奈菲尔护佑灵药\r\n[/tcol]\r\n预防并缓解疼痛，无论牙痛、关节痛，还是疾病与外伤引起的疼痛。服用后可能略感困倦。\r\n[scrp=n][algn=0]\r\n\r\n瓶塞以蜡封住，里面似乎装着油状液体。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.678",
+      "en": "The label on this bottle reads:\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\nNephil's Elixir of Warding\r\n[/tcol]\r\nWards against and soothes pain, whether it be of tooth, of joint or any ailment or injury. It may cause a mild drowsiness.\r\n[scrp=n][algn=0]\r\n\r\nThe cork is sealed with wax and an oily liquid appears to be inside.\r\n\r\n",
+      "zh": "瓶上的标签写着：\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\n奈菲尔护佑灵药\r\n[/tcol]\r\n预防并缓解疼痛，无论牙痛、关节痛，还是疾病与外伤引起的疼痛。服用后可能略感困倦。\r\n[scrp=n][algn=0]\r\n\r\n瓶塞以蜡封住，里面似乎装着油状液体。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.679",
+      "en": "The thick substance in this jar emits a faint glow and has a pungent but somehow inviting odour.",
+      "zh": "罐内的黏稠物质散发着微光，气味刺鼻，却莫名地令人想要靠近。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.680",
+      "en": "The thick substance in this jar emits a faint glow and has a pungent but somehow inviting odour.\r\n\r\n",
+      "zh": "罐内的黏稠物质散发着微光，气味刺鼻，却莫名地令人想要靠近。\r\n\r\n",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "generated.runtime.681",
+      "en": "There is a faintly glowing residue in this jar.",
+      "zh": "罐里残留着一些微微发光的物质。",
+      "source": "generated_runtime_rule",
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

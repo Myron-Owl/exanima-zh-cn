@@ -1,0 +1,11 @@
+{
+  "quality": {
+    "exceptionally well made":"做工极其精湛", "extremely well made":"做工极为精良", "very well made":"做工十分精良", "well made":"做工精良", "fairly well made":"做工较好",
+    "very high quality":"品质极佳", "high quality":"品质上乘", "decent":"品质尚可", "simple":"做工简单", "mediocre":"做工平庸", "fairly coarse":"做工较粗糙", "coarsely made":"做工粗糙", "coarse":"做工粗糙", "somewhat crude":"做工有些粗劣", "crudely made":"做工粗劣", "very coarse":"做工十分粗糙", "crude":"做工粗劣", "very crude":"做工十分粗劣", "extremely crude":"做工极其粗劣"
+  },
+  "condition": {
+    "in flawless condition":"状态完好无瑕", "in extremely good condition":"状态极佳", "in very good condition":"状态很好", "in good condition":"状态良好", "in fairly good condition":"状态较好", "in fair condition":"状态尚可", "in somewhat worn condition":"略有磨损", "in fairly worn condition":"有些磨损", "in worn condition":"已有磨损", "in very worn condition":"磨损严重", "in extremely worn condition":"磨损极其严重",
+    "in perfect condition":"状态完好", "in almost perfect condition":"状态近乎完好", "in great condition":"状态极好", "in fine condition":"状态优良", "in above average condition":"状态好于一般", "in average condition":"状态一般", "in below average condition":"状态欠佳", "in relatively poor condition":"状态较差", "in poor condition":"状态很差", "in terrible condition":"状态极差", "in reasonable condition":"状态尚可", "in fairly poor condition":"状态较差"
+  },
+  "modifier": {"light":"轻型", "heavy":"重型", "thick":"厚实", "tough":"坚韧", "reinforced":"加固", "hardened":"硬化", "blued":"烤蓝", "blackened":"发黑处理"}
+}

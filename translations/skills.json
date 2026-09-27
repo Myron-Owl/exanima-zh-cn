@@ -1,0 +1,775 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "skills.0",
+      "en": "Remise",
+      "zh": "连斩",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312558",
+        "exe:00333cd8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.1",
+      "en": "Feint",
+      "zh": "佯攻",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003125d8",
+        "exe:00333d58"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.2",
+      "en": "Fend",
+      "zh": "应架",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312640",
+        "exe:00333dc0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.3",
+      "en": "Riposte",
+      "zh": "还击",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003126a0",
+        "exe:00333e20"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.4",
+      "en": "Draw",
+      "zh": "拖刃",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312708",
+        "exe:00333e88"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.5",
+      "en": "Impel",
+      "zh": "催劲",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312778"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.6",
+      "en": "Brace",
+      "zh": "稳架",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003127d8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.7",
+      "en": "Dual Wield",
+      "zh": "双持",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312850",
+        "exe:00333f90"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.8",
+      "en": "Manoeuvring in Armour I",
+      "zh": "着甲机动 I",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003128c8",
+        "exe:00334008"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.9",
+      "en": "Manoeuvring in Armour II",
+      "zh": "着甲机动 II",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312948",
+        "exe:00334088"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.10",
+      "en": "Manoeuvring in Armour III",
+      "zh": "着甲机动 III",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003129d0",
+        "exe:00334110"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.11",
+      "en": "Deflection",
+      "zh": "偏转",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312a58",
+        "exe:00334198"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.12",
+      "en": "Security",
+      "zh": "倚甲",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312ad0",
+        "exe:00334210"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.13",
+      "en": "Absorption",
+      "zh": "卸力",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312b60"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.14",
+      "en": "Counter",
+      "zh": "反击",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312bf0",
+        "exe:003342a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.15",
+      "en": "Synchrony",
+      "zh": "攻防同步",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312c58",
+        "exe:00334308"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.16",
+      "en": "Ward",
+      "zh": "盾后攻击",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312cd0",
+        "exe:00334380"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.17",
+      "en": "Persist",
+      "zh": "坚持进攻",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312d40",
+        "exe:003343f0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.18",
+      "en": "Endure",
+      "zh": "持盾耐力",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312db0",
+        "exe:00334460"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.19",
+      "en": "Mobility",
+      "zh": "持盾机动",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312e20",
+        "exe:003344d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.20",
+      "en": "Inversion",
+      "zh": "反转",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312e98",
+        "exe:00334548"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.21",
+      "en": "Expansion",
+      "zh": "扩展",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312f00",
+        "exe:003345b0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.22",
+      "en": "Convergence",
+      "zh": "聚合",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312f70",
+        "exe:00334620"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.23",
+      "en": "Union",
+      "zh": "联合",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312fe8",
+        "exe:00334698"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.24",
+      "en": "Coherence",
+      "zh": "凝聚",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313060",
+        "exe:00334710"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.25",
+      "en": "Iteration",
+      "zh": "复施",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003130d0",
+        "exe:00334780"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.26",
+      "en": "Revelation",
+      "zh": "启悟",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313148",
+        "exe:003347f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.27",
+      "en": "Amalgamation",
+      "zh": "融合",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003131c8",
+        "exe:00334878"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.28",
+      "en": "Sustain",
+      "zh": "维系",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313230",
+        "exe:003348e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.29",
+      "en": "Continuity",
+      "zh": "持续",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003132a0",
+        "exe:00334950"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.30",
+      "en": "Continuity II",
+      "zh": "持续 II",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313318",
+        "exe:003349c8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.31",
+      "en": "Continuity III",
+      "zh": "持续 III",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313390",
+        "exe:00334a40"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.32",
+      "en": "Abstraction",
+      "zh": "抽离",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313408",
+        "exe:00334ab8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.33",
+      "en": "Clarity",
+      "zh": "澄明",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313478",
+        "exe:00334b28"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.34",
+      "en": "Resolve",
+      "zh": "定志",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003134e8",
+        "exe:00334b98"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.35",
+      "en": "Volition",
+      "zh": "意志",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313568",
+        "exe:00334c18"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.36",
+      "en": "Immediately follow a swing with another in the opposite direction.",
+      "zh": "挥击后，立即向相反方向再次挥击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312578",
+        "exe:00333cf8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.37",
+      "en": "Cease a feined attack to quickly renew it.",
+      "zh": "中止佯攻后，迅速重新发起攻击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003125f8",
+        "exe:00333d78"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.38",
+      "en": "Abandon your attack to quickly parry.",
+      "zh": "中止攻击，迅速转为招架。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312660",
+        "exe:00312798",
+        "exe:00333de0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.39",
+      "en": "After a parry, rapidly follow with an attack.",
+      "zh": "招架后迅速接续攻击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003126c0",
+        "exe:00333e40"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.40",
+      "en": "Cut or hook with your weapon after landing a blow.",
+      "zh": "击中后，继续用武器拖切或钩拉。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312728",
+        "exe:00333ea8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.41",
+      "en": "Use stronger bracing parries to stop more powerful blows.",
+      "zh": "以更稳固的招架抵挡强力攻击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003127f8",
+        "exe:00333f38"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.42",
+      "en": "Use two weapons to attack and defend simultaneously.",
+      "zh": "同时使用两件武器进行攻防。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312878",
+        "exe:00333fb8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.43",
+      "en": "Move more swiftly under the weight of your armour.",
+      "zh": "承受护甲重量时，仍能更灵活地移动。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003128f8",
+        "exe:00312980",
+        "exe:00312a08",
+        "exe:00334038",
+        "exe:003340c0",
+        "exe:00334148"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.44",
+      "en": "Actively protect gaps and weak areas in your armour.",
+      "zh": "主动保护护甲的缝隙与薄弱部位。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312a80",
+        "exe:003341c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.45",
+      "en": "Confidence in your armour allows you to continue attacks while receiving blows.",
+      "zh": "凭借对护甲的信心，在遭受打击时仍能继续攻击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312af8",
+        "exe:00334238"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.46",
+      "en": "Exploit the mobility of lighter armour to absorb more impact from blows.",
+      "zh": "利用轻型护甲的灵活性，卸去更多打击的冲力。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312b88"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.47",
+      "en": "Rapidly counter with an attack after a block.",
+      "zh": "格挡后迅速发起反击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312c10",
+        "exe:003342c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.48",
+      "en": "Continue to block even as you initiate an attack.",
+      "zh": "发起攻击时仍能保持格挡。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312c80",
+        "exe:00334330"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.49",
+      "en": "Perform attacks from behind the cover of your shield.",
+      "zh": "在盾牌的掩护下发动攻击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312cf0",
+        "exe:003343a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.50",
+      "en": "Continue attacks while receiving blows to the shield.",
+      "zh": "盾牌遭受打击时仍能继续攻击。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312d60",
+        "exe:00334410"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.51",
+      "en": "Withstand more blows before your shield arm tires.",
+      "zh": "持盾手臂能够承受更多打击而不疲劳。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312dd0",
+        "exe:00334480"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.52",
+      "en": "Wield cumbersome shields with greater ease and speed.",
+      "zh": "更轻松、迅速地使用笨重的盾牌。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312e48",
+        "exe:003344f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.53",
+      "en": "Produce an opposite or contrary effect.",
+      "zh": "产生相反或逆向的效果。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312ec0",
+        "exe:00334570"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.54",
+      "en": "Apply an effect in a broader area or target.",
+      "zh": "将效果施加于更大的区域或更广泛的目标。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312f28",
+        "exe:003345d8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.55",
+      "en": "Focus an effect to a more specific or narrow target.",
+      "zh": "将效果集中于更明确或更小的目标。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312f98",
+        "exe:00334648"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.56",
+      "en": "Combine elements of different effects to produce a new one.",
+      "zh": "结合不同效果的要素，创造新的效果。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313008",
+        "exe:003346b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.57",
+      "en": "Manipulate an effect into a more coherent form.",
+      "zh": "操控效果，使其形态更加凝聚。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313088",
+        "exe:00334738"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.58",
+      "en": "Become more efficient when repeating the same binding",
+      "zh": "重复施展同一缚术时更加高效",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003130f8",
+        "exe:003347a8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.59",
+      "en": "Learn from observation and external sources of knowledge.",
+      "zh": "通过观察和外界的知识学习。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313170",
+        "exe:00334820"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.60",
+      "en": "Combine effects from different domains.",
+      "zh": "结合不同领域的效果。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003131f0",
+        "exe:003348a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.61",
+      "en": "Sustained bindings require much less of your focus.",
+      "zh": "维持缚术所需的专注大幅减少。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313250",
+        "exe:00334900"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.62",
+      "en": "Maintain a binding while performing other tasks.",
+      "zh": "执行其他行动时，仍可维持一道缚术。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003132c8",
+        "exe:00334978"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.63",
+      "en": "Maintain two bindings while performing other tasks.",
+      "zh": "执行其他行动时，仍可维持两道缚术。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313340",
+        "exe:003349f0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.64",
+      "en": "Maintain three bindings while performing other tasks.",
+      "zh": "执行其他行动时，仍可维持三道缚术。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003133b8",
+        "exe:00334a68"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.65",
+      "en": "Continuous bindings require less of your focus.",
+      "zh": "持续生效的缚术所需的专注减少。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313430",
+        "exe:00334ae0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.66",
+      "en": "You are able to regain mental focus more quickly.",
+      "zh": "更快恢复精神专注。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313498",
+        "exe:00334b48"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.67",
+      "en": "You are less easily distracted or interrupted while shaping a binding.",
+      "zh": "构筑缚术时，更不容易分心或受到打断。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313508",
+        "exe:00334bb8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.68",
+      "en": "You are more resistant to mental intrusions and effects.",
+      "zh": "更能抵抗精神侵入及其影响。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313590",
+        "exe:00334c40"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "skills.69",
+      "en": "Are you sure you want to forget this technique?",
+      "zh": "确定要遗忘这项技巧吗？",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313658"
+      ],
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

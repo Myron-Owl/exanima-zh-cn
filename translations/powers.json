@@ -1,0 +1,912 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "powers.0",
+      "en": "Calm",
+      "zh": "安抚",
+      "source_ids": [
+        "pwr_displace.pwr:320",
+        "pwr_energy.pwr:320",
+        "pwr_mind.pwr:1232"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.1",
+      "en": "Enrage",
+      "zh": "激怒",
+      "source_ids": [
+        "pwr_displace.pwr:328",
+        "pwr_energy.pwr:328",
+        "pwr_force.pwr:1088",
+        "pwr_mind.pwr:1240"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.2",
+      "en": "Trust",
+      "zh": "信任",
+      "source_ids": [
+        "pwr_displace.pwr:338",
+        "pwr_energy.pwr:338",
+        "pwr_mind.pwr:1250"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.3",
+      "en": "Mask Mind",
+      "zh": "隐匿心智",
+      "source_ids": [
+        "pwr_displace.pwr:347",
+        "pwr_energy.pwr:347",
+        "pwr_mind.pwr:1259"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.4",
+      "en": "Mass Calm",
+      "zh": "群体安抚",
+      "source_ids": [
+        "pwr_displace.pwr:360",
+        "pwr_energy.pwr:360",
+        "pwr_force.pwr:1120",
+        "pwr_mind.pwr:1272"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.5",
+      "en": "Vanish",
+      "zh": "虚化",
+      "source_ids": [
+        "pwr_displace.pwr:373"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.6",
+      "en": "Suspicion",
+      "zh": "猜疑",
+      "source_ids": [
+        "pwr_displace.pwr:383",
+        "pwr_energy.pwr:382",
+        "pwr_mind.pwr:1300"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.7",
+      "en": "Possession",
+      "zh": "附身",
+      "source_ids": [
+        "pwr_displace.pwr:396",
+        "pwr_energy.pwr:395",
+        "pwr_mind.pwr:1313"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.8",
+      "en": "Fear",
+      "zh": "恐惧",
+      "source_ids": [
+        "pwr_displace.pwr:410",
+        "pwr_energy.pwr:409",
+        "pwr_mind.pwr:1327"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.9",
+      "en": "Confusion",
+      "zh": "迷乱",
+      "source_ids": [
+        "pwr_displace.pwr:418",
+        "pwr_energy.pwr:417",
+        "pwr_mind.pwr:1335"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.10",
+      "en": "Spirit Form",
+      "zh": "灵体形态",
+      "source_ids": [
+        "pwr_displace.pwr:431",
+        "pwr_displace.pwr:605",
+        "pwr_energy.pwr:430",
+        "pwr_energy.pwr:604",
+        "pwr_force.pwr:1337",
+        "pwr_mind.pwr:1348",
+        "pwr_mind.pwr:1522"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.11",
+      "en": "Embolden",
+      "zh": "鼓舞",
+      "source_ids": [
+        "pwr_displace.pwr:446",
+        "pwr_energy.pwr:445",
+        "pwr_mind.pwr:1363"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.12",
+      "en": "Command Dead",
+      "zh": "号令亡者",
+      "source_ids": [
+        "pwr_displace.pwr:458",
+        "pwr_energy.pwr:457",
+        "pwr_mind.pwr:1375"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.13",
+      "en": "Banish Dead",
+      "zh": "驱逐亡者",
+      "source_ids": [
+        "pwr_displace.pwr:474",
+        "pwr_energy.pwr:473",
+        "pwr_mind.pwr:1391"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.14",
+      "en": "Loyalty",
+      "zh": "忠诚",
+      "source_ids": [
+        "pwr_displace.pwr:489",
+        "pwr_energy.pwr:488",
+        "pwr_mind.pwr:1406"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.15",
+      "en": "Mass Enrage",
+      "zh": "群体激怒",
+      "source_ids": [
+        "pwr_displace.pwr:500",
+        "pwr_energy.pwr:499",
+        "pwr_force.pwr:1238",
+        "pwr_mind.pwr:1417"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.16",
+      "en": "Directed Trust",
+      "zh": "定向信任",
+      "source_ids": [
+        "pwr_displace.pwr:515",
+        "pwr_energy.pwr:514",
+        "pwr_force.pwr:1253",
+        "pwr_mind.pwr:1432"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.17",
+      "en": "Mind Mask",
+      "zh": "心智屏蔽",
+      "source_ids": [
+        "pwr_displace.pwr:533",
+        "pwr_energy.pwr:532",
+        "pwr_force.pwr:1271",
+        "pwr_mind.pwr:1450"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.18",
+      "en": "Mind Sense",
+      "zh": "心智感知",
+      "source_ids": [
+        "pwr_displace.pwr:546",
+        "pwr_energy.pwr:545",
+        "pwr_mind.pwr:1463"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.19",
+      "en": "Raise Dead",
+      "zh": "唤起亡者",
+      "source_ids": [
+        "pwr_displace.pwr:560",
+        "pwr_energy.pwr:559",
+        "pwr_force.pwr:1292",
+        "pwr_mind.pwr:1477"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.20",
+      "en": "Mass Fear",
+      "zh": "群体恐惧",
+      "source_ids": [
+        "pwr_displace.pwr:574",
+        "pwr_energy.pwr:573",
+        "pwr_force.pwr:1306",
+        "pwr_mind.pwr:1491"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.21",
+      "en": "Mass Confusion",
+      "zh": "群体迷乱",
+      "source_ids": [
+        "pwr_displace.pwr:587",
+        "pwr_energy.pwr:586",
+        "pwr_force.pwr:1319",
+        "pwr_mind.pwr:1504"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.22",
+      "en": "Shock",
+      "zh": "电击",
+      "source_ids": [
+        "pwr_energy.pwr:373"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.23",
+      "en": "Wave",
+      "zh": "力浪",
+      "source_ids": [
+        "pwr_force.pwr:1080"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.24",
+      "en": "Kinesis",
+      "zh": "念动力",
+      "source_ids": [
+        "pwr_force.pwr:1098"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.25",
+      "en": "Barrier",
+      "zh": "力场屏障",
+      "source_ids": [
+        "pwr_force.pwr:1109"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.26",
+      "en": "Blast",
+      "zh": "力爆",
+      "source_ids": [
+        "pwr_force.pwr:1133"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.27",
+      "en": "Strikes",
+      "zh": "强化打击",
+      "source_ids": [
+        "pwr_force.pwr:1142"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.28",
+      "en": "Bubble",
+      "zh": "力场泡",
+      "source_ids": [
+        "pwr_force.pwr:1153"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.29",
+      "en": "Momentum",
+      "zh": "动量",
+      "source_ids": [
+        "pwr_force.pwr:1163"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.30",
+      "en": "Torrent",
+      "zh": "力流",
+      "source_ids": [
+        "pwr_force.pwr:1175",
+        "pwr_force.pwr:2217"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.31",
+      "en": "Barricade",
+      "zh": "力场障壁",
+      "source_ids": [
+        "pwr_force.pwr:1186"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.32",
+      "en": "Crush",
+      "zh": "挤压",
+      "source_ids": [
+        "pwr_force.pwr:1199"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.33",
+      "en": "Retrieve",
+      "zh": "取回",
+      "source_ids": [
+        "pwr_force.pwr:1208"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.34",
+      "en": "Shell",
+      "zh": "力场外壳",
+      "source_ids": [
+        "pwr_force.pwr:1220"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.35",
+      "en": "Throw",
+      "zh": "投掷",
+      "source_ids": [
+        "pwr_force.pwr:1229"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.36",
+      "en": "Bolt",
+      "zh": "力矢",
+      "source_ids": [
+        "pwr_force.pwr:1284"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.37",
+      "en": "Shield",
+      "zh": "盾",
+      "source_ids": [
+        "pwr_force.pwr:2199"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.38",
+      "en": "Ward",
+      "zh": "力场护佑",
+      "source_ids": [
+        "pwr_force.pwr:2209"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.39",
+      "en": "Levitate",
+      "zh": "悬浮",
+      "source_ids": [
+        "pwr_force.pwr:2228"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.40",
+      "en": "Sense Minds",
+      "zh": "感知心智",
+      "source_ids": [
+        "pwr_mind.pwr:1285"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.41",
+      "en": "Your physical form enters another plane, becoming intangible.",
+      "zh": "使肉身进入另一个位面，化为无法触碰的形态。",
+      "source_ids": [
+        "pwr_displace.pwr:620"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.42",
+      "en": "Charge and release a powerful shock from your hand.",
+      "zh": "在手中蓄能，释放强力电击。",
+      "source_ids": [
+        "pwr_energy.pwr:619"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.43",
+      "en": "Conceal your mind, making it difficult to detect.\r\n\r\nRequires Inversion.",
+      "zh": "隐藏你的心智，使其难以被察觉。\r\n\r\n需要：反转。",
+      "source_ids": [
+        "pwr_displace.pwr:685",
+        "pwr_energy.pwr:674",
+        "pwr_mind.pwr:1603"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.44",
+      "en": "Continuously mask your mind from those that would sense it.\r\n\r\nRequires Continuity.",
+      "zh": "持续屏蔽你的心智，避开他人的感知。\r\n\r\n需要：持续。",
+      "source_ids": [
+        "pwr_displace.pwr:761",
+        "pwr_energy.pwr:750",
+        "pwr_force.pwr:1352",
+        "pwr_mind.pwr:1679"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.45",
+      "en": "Briefly confuse a target and cause them to not recognise others.",
+      "zh": "短暂扰乱目标的心智，使其无法辨认他人。",
+      "source_ids": [
+        "pwr_displace.pwr:848",
+        "pwr_energy.pwr:837",
+        "pwr_mind.pwr:1766"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.46",
+      "en": "Render target suspicious of those they would otherwise trust.\r\n\r\nRequires Inversion.",
+      "zh": "使目标对原本信任的人产生猜疑。\r\n\r\n需要：反转。",
+      "source_ids": [
+        "pwr_displace.pwr:916",
+        "pwr_energy.pwr:905",
+        "pwr_mind.pwr:1834"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.47",
+      "en": "Cause someone to trust you and follow your command.\r\n\r\nRequires Continuity.",
+      "zh": "使目标信任你，并服从你的命令。\r\n\r\n需要：持续。",
+      "source_ids": [
+        "pwr_displace.pwr:1004",
+        "pwr_energy.pwr:993",
+        "pwr_mind.pwr:1922"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.48",
+      "en": "Take direct control of a target's actions.\r\n\r\nRequires Union, Continuity.",
+      "zh": "直接控制目标的行动。\r\n\r\n需要：联合、持续。",
+      "source_ids": [
+        "pwr_displace.pwr:1083",
+        "pwr_energy.pwr:1072",
+        "pwr_mind.pwr:2001"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.49",
+      "en": "Cause a target to trust you for a short duration.",
+      "zh": "使目标在短时间内信任你。",
+      "source_ids": [
+        "pwr_displace.pwr:1160",
+        "pwr_energy.pwr:1149",
+        "pwr_mind.pwr:2078"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.50",
+      "en": "Command the dead to repossess their remains in your service.\r\n\r\nRequires Continuity.",
+      "zh": "命令亡者重返自己的遗骸，为你效力。\r\n\r\n需要：持续。",
+      "source_ids": [
+        "pwr_displace.pwr:1213",
+        "pwr_energy.pwr:1202",
+        "pwr_mind.pwr:2131"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.51",
+      "en": "Focus your mind to leave your body and enter the spirit realm.\r\n\r\nRequires Coherence.",
+      "zh": "集中心神，脱离肉身，进入灵界。\r\n\r\n需要：凝聚。",
+      "source_ids": [
+        "pwr_displace.pwr:1301",
+        "pwr_energy.pwr:1290",
+        "pwr_mind.pwr:2219"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.52",
+      "en": "Fully focus your mind to remain in spirit form indefinitely.\r\n\r\nRequires Revelation, Continuity.",
+      "zh": "全神贯注，无限期地维持灵体形态。\r\n\r\n需要：启悟、持续。",
+      "source_ids": [
+        "pwr_displace.pwr:1390",
+        "pwr_energy.pwr:1379",
+        "pwr_force.pwr:1653",
+        "pwr_mind.pwr:2308"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.53",
+      "en": "Cleanse a target's mind of concerns and aggression.",
+      "zh": "消除目标心中的忧虑与敌意。",
+      "source_ids": [
+        "pwr_displace.pwr:1490",
+        "pwr_energy.pwr:1479",
+        "pwr_mind.pwr:2408"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.54",
+      "en": "Cause the target to suffer an uncontrollable rage.\r\n\r\nRequires Inversion.",
+      "zh": "使目标陷入无法控制的愤怒。\r\n\r\n需要：反转。",
+      "source_ids": [
+        "pwr_displace.pwr:1545",
+        "pwr_energy.pwr:1534",
+        "pwr_force.pwr:1753",
+        "pwr_mind.pwr:2463"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.55",
+      "en": "Cause a target to be overcome with a feeling of dread.\r\n\r\nRequires Union.",
+      "zh": "使目标被恐惧淹没。\r\n\r\n需要：联合。",
+      "source_ids": [
+        "pwr_displace.pwr:1622",
+        "pwr_energy.pwr:1611",
+        "pwr_mind.pwr:2540"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.56",
+      "en": "Provide a target with a great surge in courage.\r\n\r\nRequires Inversion.",
+      "zh": "大幅激发目标的勇气。\r\n\r\n需要：反转。",
+      "source_ids": [
+        "pwr_displace.pwr:1699",
+        "pwr_energy.pwr:1688",
+        "pwr_mind.pwr:2617"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.57",
+      "en": "Damage the link that sustains the dead, eventually severing it.\r\n\r\n<UNAVAILABLE>",
+      "zh": "削弱维系亡者的联系，直至将其彻底切断。\r\n\r\n<暂不可用>",
+      "source_ids": [
+        "pwr_displace.pwr:1773",
+        "pwr_energy.pwr:1762",
+        "pwr_mind.pwr:2691"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.58",
+      "en": "Continuously sense minds in your vicinity.\r\n\r\nRequires Continuity.",
+      "zh": "持续感知周围的心智。\r\n\r\n需要：持续。",
+      "source_ids": [
+        "pwr_displace.pwr:1857",
+        "pwr_energy.pwr:1846",
+        "pwr_mind.pwr:2775"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.59",
+      "en": "Cause a target to trust another for a time.\r\n\r\n<UNAVAILABLE>",
+      "zh": "使目标在一段时间内信任另一个人。\r\n\r\n<暂不可用>",
+      "source_ids": [
+        "pwr_displace.pwr:1927",
+        "pwr_energy.pwr:1916",
+        "pwr_force.pwr:1855",
+        "pwr_mind.pwr:2845"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.60",
+      "en": "Confuse multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+      "zh": "以一道缚术使多个目标陷入迷乱。\r\n\r\n<暂不可用>",
+      "source_ids": [
+        "pwr_displace.pwr:1991",
+        "pwr_energy.pwr:1980",
+        "pwr_force.pwr:1919",
+        "pwr_mind.pwr:2909"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.61",
+      "en": "Cause fear in multiple targets with one binding.\r\n\r\n<UNAVAILABLE>",
+      "zh": "以一道缚术使多个目标陷入恐惧。\r\n\r\n<暂不可用>",
+      "source_ids": [
+        "pwr_displace.pwr:2059",
+        "pwr_energy.pwr:2048",
+        "pwr_force.pwr:1987",
+        "pwr_mind.pwr:2977"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.62",
+      "en": "Enrage multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+      "zh": "以一道缚术激怒多个目标。\r\n\r\n<暂不可用>",
+      "source_ids": [
+        "pwr_displace.pwr:2128",
+        "pwr_energy.pwr:2117",
+        "pwr_force.pwr:2056",
+        "pwr_mind.pwr:3046"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.63",
+      "en": "Instill calm on multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+      "zh": "以一道缚术安抚多个目标。\r\n\r\n<暂不可用>",
+      "source_ids": [
+        "pwr_displace.pwr:2195",
+        "pwr_energy.pwr:2184",
+        "pwr_force.pwr:2123",
+        "pwr_mind.pwr:3113"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.64",
+      "en": "Call the dead to repossess their remains, but without your binding.\r\n\r\nRequires Revelation.",
+      "zh": "唤来亡者，使其重返自己的遗骸，无需你的缚术维系。\r\n\r\n需要：启悟。",
+      "source_ids": [
+        "pwr_displace.pwr:2271",
+        "pwr_energy.pwr:2260",
+        "pwr_mind.pwr:3189"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.65",
+      "en": "Form a bubble of impenetrable force around yourself.\r\n\r\nRequires Union, Continuity.",
+      "zh": "在周身形成无法穿透的力场泡。\r\n\r\n需要：联合、持续。",
+      "source_ids": [
+        "pwr_force.pwr:1439"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.66",
+      "en": "\r\nRequires Continuity.",
+      "zh": "\r\n需要：持续。",
+      "source_ids": [
+        "pwr_force.pwr:1526"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.67",
+      "en": "Create a wall of force that prevents passage in one direction.\r\n\r\nRequires Expansion, Continuity.",
+      "zh": "形成一道力场墙，阻挡从一个方向穿过的物体。\r\n\r\n需要：扩展、持续。",
+      "source_ids": [
+        "pwr_force.pwr:1552"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.68",
+      "en": "\r\nRequires Inversion.",
+      "zh": "\r\n需要：反转。",
+      "source_ids": [
+        "pwr_force.pwr:1830"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.69",
+      "en": "Quickly form a barrier of dense force to protect you.\r\n\r\nRequires Coherence.",
+      "zh": "迅速形成一道密集的力场屏障，保护自己。\r\n\r\n需要：凝聚。",
+      "source_ids": [
+        "pwr_force.pwr:2240"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.70",
+      "en": "Release a wave of force pushing away anything surrounding you.\r\n\r\nRequires Expansion.",
+      "zh": "释放一道力浪，推开周围的一切。\r\n\r\n需要：扩展。",
+      "source_ids": [
+        "pwr_force.pwr:2320"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.71",
+      "en": "Release a blast pushing away anything in front of you.",
+      "zh": "释放一阵力爆，推开前方的一切。",
+      "source_ids": [
+        "pwr_force.pwr:2409"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.72",
+      "en": "Release a bolt of focused force able to hit distant targets.\r\n\r\nRequires Convergence.",
+      "zh": "发射一道凝聚的力矢，攻击远处的目标。\r\n\r\n需要：聚合。",
+      "source_ids": [
+        "pwr_force.pwr:2467"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.73",
+      "en": "Envelop your body in shaped force, partially absorbing impacts.",
+      "zh": "以塑形的力场包裹身体，吸收部分冲击。",
+      "source_ids": [
+        "pwr_force.pwr:2556"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.74",
+      "en": "Bubble can be formed around other targets.",
+      "zh": "可以在其他目标周围形成力场泡。",
+      "source_ids": [
+        "pwr_force.pwr:2623"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.75",
+      "en": "Move and manipulate distant objects.\r\n\r\nRequires Coherence.",
+      "zh": "移动并操纵远处的物体。\r\n\r\n需要：凝聚。",
+      "source_ids": [
+        "pwr_force.pwr:2669"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.76",
+      "en": "Lift and throw objects towards a desired target.",
+      "zh": "抬起物体，将其投向指定目标。",
+      "source_ids": [
+        "pwr_force.pwr:2732"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.77",
+      "en": "Empower your strikes to deliver stronger impacts.\r\n\r\nRequires Continuity.",
+      "zh": "强化你的攻击，造成更强的冲击。\r\n\r\n需要：持续。",
+      "source_ids": [
+        "pwr_force.pwr:2784"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.78",
+      "en": "Unleash a sustained stream of force in front of you.",
+      "zh": "向前方释放持续的力流。",
+      "source_ids": [
+        "pwr_force.pwr:2861"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "powers.79",
+      "en": "Sense minds in your vicinity and reveal their emotional state.",
+      "zh": "感知附近的心智，洞察其情绪状态。",
+      "source_ids": [
+        "pwr_mind.pwr:1537"
+      ],
+      "source": "powers",
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "runtime.item.light_tunic",
+      "en": "Light Tunic",
+      "zh": "轻型束腰衣",
+      "source": "runtime_capture",
+      "evidence": "build/audit-before-20260927.log:341",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.heavy_helmet",
+      "en": "Heavy Helmet",
+      "zh": "重型头盔",
+      "source": "runtime_capture",
+      "evidence": "build/audit-before-20260927.log:370",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.manual.movement",
+      "en": "Movement",
+      "zh": "移动",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.manual.interaction",
+      "en": "Interaction",
+      "zh": "交互",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.manual.encounters",
+      "en": "Encounters",
+      "zh": "遭遇",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.manual.combat",
+      "en": "Combat",
+      "zh": "战斗",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.manual.thaumaturgy",
+      "en": "Thaumaturgy",
+      "zh": "异能术",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.manual.saving",
+      "en": "Saving",
+      "zh": "保存进度",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.power.mind",
+      "en": "Mind",
+      "zh": "心智",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.power.force",
+      "en": "Force",
+      "zh": "力场",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.power.energy",
+      "en": "Energy",
+      "zh": "能量",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.power.light",
+      "en": "Light",
+      "zh": "光明",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.power.displacement",
+      "en": "Displacement",
+      "zh": "位移",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.background.unknown.description",
+      "en": "You don't know who you are, but there may be great potential in you",
+      "zh": "你不知道自己是谁，但你或许潜力非凡……",
+      "source": "runtime_capture",
+      "source_rva": 3211976,
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.quality.well_made",
+      "en": "@item.quality:well made",
+      "zh": "做工精良",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.condition.good",
+      "en": "@item.condition:in good condition",
+      "zh": "状态良好",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.letter_final_page",
+      "en": "This appears to be the final page of a letter.",
+      "zh": "这似乎是一封信的最后一页。",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.coarse_hand_saw",
+      "en": "A coarse hand saw in terrible condition.",
+      "zh": "一把做工粗糙、状况极差的手锯。",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.crude_hammer",
+      "en": "An extremely crude hammer in poor condition.",
+      "zh": "一把极其粗制滥造、状况不佳的锤子。",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "runtime.item.work_order_log",
+      "en": "A log of work orders, it seems as though many people were involved in completing them. Most of the names seem strange and many items are described with words you've never seen before.",
+      "zh": "一本工作单记录。看来许多人参与了这些工作的完成。大多数名字都很陌生，许多物品的描述中也用了你从未见过的词语。",
+      "source": "runtime_capture",
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

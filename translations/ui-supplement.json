@@ -1,0 +1,239 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "supplement.0",
+      "en": "Medium",
+      "zh": "中",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00302608",
+        "exe:00302658",
+        "exe:003026a8",
+        "exe:003026f0",
+        "exe:00302740"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.1",
+      "en": "Aim your swings at precise locations.",
+      "zh": "挥击时可精准瞄准特定部位。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00333ef8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.2",
+      "en": "Requirements not met.",
+      "zh": "未满足学习条件。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00334cd8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.3",
+      "en": "Unavailable.",
+      "zh": "暂不可用。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00334d08"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.4",
+      "en": "Already chosen.",
+      "zh": "已选择。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00334d30"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.5",
+      "en": "Points",
+      "zh": "点数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030bdb0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.6",
+      "en": "Ok",
+      "zh": "确定",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:002f4630"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.7",
+      "en": "Handsaw",
+      "zh": "手锯",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319338"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.8",
+      "en": "Two Handed Sword",
+      "zh": "双手剑",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319830"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.9",
+      "en": "Two Handed Battle Axe",
+      "zh": "双手战斧",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319888"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.10",
+      "en": "Two Handed Spiked Mace",
+      "zh": "双手尖刺锤",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003198b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.11",
+      "en": "Two Handed Mace",
+      "zh": "双手钉头锤",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003198e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.12",
+      "en": "Please name your company",
+      "zh": "请为战队命名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00346370"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.13",
+      "en": "Skin Tone",
+      "zh": "肤色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0034bf50"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.14",
+      "en": "Look in:",
+      "zh": "查找位置：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0034c198"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.15",
+      "en": "Up one level",
+      "zh": "上一级",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0034c1c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.16",
+      "en": "New folder",
+      "zh": "新建文件夹",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0034c208"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.17",
+      "en": "File name:",
+      "zh": "文件名：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0034c270"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.18",
+      "en": "File type:",
+      "zh": "文件类型：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0034c298"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.19",
+      "en": "Save game format no longer supported.",
+      "zh": "已不再支持此存档格式。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003181b0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.20",
+      "en": "Save Incompatibility",
+      "zh": "存档不兼容",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003181f0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.21",
+      "en": "Loadout corrupted, attempting save recovery.",
+      "zh": "装备配置损坏，正在尝试恢复存档。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b960"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "supplement.22",
+      "en": "Loadout corrupted",
+      "zh": "装备配置损坏",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b9a8"
+      ],
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

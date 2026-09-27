@@ -1,0 +1,1169 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "ui-expanded.0",
+      "en": "Weight",
+      "zh": "重量",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b650",
+        "exe:0030b848"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.1",
+      "en": "SETTINGS",
+      "zh": "设置",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00303138",
+        "exe:0030e218"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.2",
+      "en": "BACK",
+      "zh": "返回",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e2b8",
+        "exe:0030fe10",
+        "exe:00310060",
+        "exe:00327450",
+        "exe:00346260"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.3",
+      "en": "BEGIN",
+      "zh": "开始",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e190",
+        "exe:003104a0",
+        "exe:00327470"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.4",
+      "en": "CONTINUE",
+      "zh": "继续",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e1b0",
+        "exe:0030ff88",
+        "exe:003100b8",
+        "exe:003106e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.5",
+      "en": "NEW GAME",
+      "zh": "新游戏",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e2e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.6",
+      "en": "FORFEIT",
+      "zh": "弃权",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e308"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.7",
+      "en": "RESTART",
+      "zh": "重新开始",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e4d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.8",
+      "en": "NEXT FIGHT",
+      "zh": "下一场",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e510"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.9",
+      "en": "NEW CAREER",
+      "zh": "新生涯",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e268"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.10",
+      "en": "PRACTICE",
+      "zh": "练习",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e290"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.11",
+      "en": "NOVICE",
+      "zh": "新手",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e328"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.12",
+      "en": "EXPERT",
+      "zh": "专家",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e348"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.13",
+      "en": "Settings",
+      "zh": "设置",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00303a10"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.14",
+      "en": "CONTROLS",
+      "zh": "操作",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00303160"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.15",
+      "en": "Male",
+      "zh": "男性",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fc70",
+        "exe:0034bea8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.16",
+      "en": "Female",
+      "zh": "女性",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fc90",
+        "exe:0034bec8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.17",
+      "en": "PHYSIQUE",
+      "zh": "体格",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fcb0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.18",
+      "en": "Height",
+      "zh": "身高",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fcd8",
+        "exe:0034bf10"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.19",
+      "en": "Age  ",
+      "zh": "年龄  ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fcf8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.20",
+      "en": "SKIN TONE",
+      "zh": "肤色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fd18"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.21",
+      "en": "VOICE",
+      "zh": "声音",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fd40"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.22",
+      "en": "Pitch ",
+      "zh": "音调 ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fd80"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.23",
+      "en": "CREATE CHARACTER",
+      "zh": "创建角色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fda0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.24",
+      "en": "NAME",
+      "zh": "姓名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fdd0",
+        "exe:00310548"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.25",
+      "en": "HAIR",
+      "zh": "发型",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fdf0",
+        "exe:00310568"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.26",
+      "en": "NEXT",
+      "zh": "下一步",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fe30",
+        "exe:00310588",
+        "exe:00346280"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.27",
+      "en": "Recruitment:",
+      "zh": "招募：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fe50"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.28",
+      "en": "Yes",
+      "zh": "是",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fec8",
+        "exe:00313618",
+        "exe:0031a648"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.29",
+      "en": "No",
+      "zh": "否",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fee8",
+        "exe:00313638",
+        "exe:0031a668"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.30",
+      "en": "Delete",
+      "zh": "删除",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030ff48",
+        "exe:0030fff8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.31",
+      "en": "Previous",
+      "zh": "上一个",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030ffb0",
+        "exe:0031a6a8",
+        "exe:00345be8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.32",
+      "en": "Next",
+      "zh": "下一个",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030ffd8",
+        "exe:0031a6d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.33",
+      "en": "Straight",
+      "zh": "直发",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003100e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.34",
+      "en": "Wavy",
+      "zh": "卷发",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310108"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.35",
+      "en": "Facial hair",
+      "zh": "面部毛发",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310128"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.36",
+      "en": "Character Screen",
+      "zh": "角色界面",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e610",
+        "exe:003101a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.37",
+      "en": "APPAREL",
+      "zh": "衣装",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310330"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.38",
+      "en": "WEAPONS",
+      "zh": "武器",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310350"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.39",
+      "en": "SKILLS",
+      "zh": "技能",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310370"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.40",
+      "en": "Current skill progress",
+      "zh": "当前技能进度",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310390"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.41",
+      "en": "New global experience",
+      "zh": "新增全局经验",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003103c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.42",
+      "en": "Global experience",
+      "zh": "全局经验",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003103f0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.43",
+      "en": "Please name your character",
+      "zh": "请为角色命名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310420"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.44",
+      "en": "Character Name",
+      "zh": "角色姓名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310458"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.45",
+      "en": "RECRUIT",
+      "zh": "招募",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310480"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.46",
+      "en": "CREATE",
+      "zh": "创建",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003104c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.47",
+      "en": "Character creation",
+      "zh": "角色创建",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310518"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.48",
+      "en": "Reset to portal",
+      "zh": "重置到传送门",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003105a8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.49",
+      "en": "Continue from save",
+      "zh": "从存档继续",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003105d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.50",
+      "en": "Continue from checkpoint",
+      "zh": "从存档点继续",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310080",
+        "exe:00310600"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.51",
+      "en": "Delete Character",
+      "zh": "删除角色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00310638"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.52",
+      "en": "You have been defeated.",
+      "zh": "你被击败了。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00311408"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.53",
+      "en": "You have died.",
+      "zh": "你死了。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00311438"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.54",
+      "en": "Encumbrance:",
+      "zh": "行动负担：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312380",
+        "exe:0031a778"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.55",
+      "en": "Primary",
+      "zh": "主装备",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003123a8",
+        "exe:0034cad0",
+        "exe:0034cd18",
+        "exe:0034d120"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.56",
+      "en": "Secondary",
+      "zh": "副装备",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003123c8",
+        "exe:0034caf0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.57",
+      "en": "New",
+      "zh": "新建",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003123f0",
+        "exe:0032dbe0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.58",
+      "en": "Erase",
+      "zh": "擦除",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312410"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.59",
+      "en": "New Entry",
+      "zh": "新条目",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030fc48",
+        "exe:00312430",
+        "exe:003139f8",
+        "exe:00318168"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.60",
+      "en": "Close Combat",
+      "zh": "近战",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312458",
+        "exe:00333c00"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.61",
+      "en": "Ranged Combat",
+      "zh": "远程战斗",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312480",
+        "exe:00333c28"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.62",
+      "en": "Armour",
+      "zh": "护甲",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003124a8",
+        "exe:00333c50"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.63",
+      "en": "Shields",
+      "zh": "盾牌",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003124c8",
+        "exe:00333c70"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.64",
+      "en": "Insight",
+      "zh": "洞察",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003124e8",
+        "exe:00333c90"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.65",
+      "en": "Concentration",
+      "zh": "专注",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312508",
+        "exe:00333cb0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.66",
+      "en": "Meditation",
+      "zh": "冥想",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00312530"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.67",
+      "en": "Forget Technique",
+      "zh": "遗忘技巧",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003135e8",
+        "exe:00335090"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.68",
+      "en": "Body",
+      "zh": "身体",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00313908"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.69",
+      "en": "Impact",
+      "zh": "冲击",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b670",
+        "exe:0030b868",
+        "exe:0030bdd8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.70",
+      "en": "Balance",
+      "zh": "平衡",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b690"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.71",
+      "en": "Coverage",
+      "zh": "覆盖率",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b6b0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.72",
+      "en": "Rank",
+      "zh": "级别",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b700",
+        "exe:0031a710",
+        "exe:0031c3b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.73",
+      "en": "Price",
+      "zh": "价格",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b720"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.74",
+      "en": "Sockets",
+      "zh": "镶嵌槽",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b740"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.75",
+      "en": "Inept",
+      "zh": "生手",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b760",
+        "exe:0031a730",
+        "exe:0031d7e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.76",
+      "en": "Aspirant",
+      "zh": "学徒",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b780",
+        "exe:0031d800"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.77",
+      "en": "Novice",
+      "zh": "新手",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b7a8",
+        "exe:0031d828"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.78",
+      "en": "Adept",
+      "zh": "熟手",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b7c8",
+        "exe:0031d848"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.79",
+      "en": "Expert",
+      "zh": "专家",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b7e8",
+        "exe:0031d868"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.80",
+      "en": "Master",
+      "zh": "大师",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b808",
+        "exe:0031d888"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.81",
+      "en": "Encumbrance",
+      "zh": "行动负担",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030b888",
+        "exe:0030bdf8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.82",
+      "en": "Slash",
+      "zh": "斩击",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030bce8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.83",
+      "en": "Crush",
+      "zh": "钝击",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030bd10"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.84",
+      "en": "Pierce",
+      "zh": "穿刺",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030bd30"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.85",
+      "en": "Continue",
+      "zh": "继续",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e160",
+        "exe:0031c528",
+        "exe:003235c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.86",
+      "en": "Arena",
+      "zh": "竞技场",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030eac0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.87",
+      "en": "UNKNOWN",
+      "zh": "未知",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030dc40"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.88",
+      "en": "KNIGHT",
+      "zh": "骑士",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030dc60"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.89",
+      "en": "PROCTOR",
+      "zh": "执法官",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030dc80"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.90",
+      "en": "VILLAGER",
+      "zh": "村民",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030dca0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.91",
+      "en": "IMPORTANT PLEASE READ",
+      "zh": "重要事项，请阅读",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e0f0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.92",
+      "en": "This message will only appear once.",
+      "zh": "此消息只会显示一次。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030e120"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.93",
+      "en": "Close",
+      "zh": "关闭",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00301b40",
+        "exe:00302818",
+        "exe:0031acc0",
+        "exe:0031b4f8",
+        "exe:0031d990"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.94",
+      "en": "Reset",
+      "zh": "重置",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00301b20"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.95",
+      "en": "Old colour",
+      "zh": "原颜色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00301ad0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.96",
+      "en": "New colour",
+      "zh": "新颜色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00301af8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.97",
+      "en": "Colour",
+      "zh": "颜色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00301b78",
+        "exe:0034ce00",
+        "exe:0034d1e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.98",
+      "en": "Detect",
+      "zh": "检测",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003027d8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.99",
+      "en": "Full screen ",
+      "zh": "全屏 ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00302788"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.100",
+      "en": "Antialiasing: ",
+      "zh": "抗锯齿： ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00302760"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.101",
+      "en": "Device: ",
+      "zh": "设备： ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00302538"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.102",
+      "en": "Performance Index: ",
+      "zh": "性能指数： ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00302580"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.103",
+      "en": "Mouse 3",
+      "zh": "鼠标中键",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00303ba8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.104",
+      "en": "Mouse 4",
+      "zh": "鼠标侧键 1",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00303bc8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.105",
+      "en": "Mouse 5",
+      "zh": "鼠标侧键 2",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00303be8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.106",
+      "en": "Forget all knowledge of this technique?",
+      "zh": "要遗忘这项技巧的全部知识吗？",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00334c98"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.107",
+      "en": "YES",
+      "zh": "是",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003350c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.108",
+      "en": "NO",
+      "zh": "否",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003350e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "ui-expanded.109",
+      "en": "Thrust",
+      "zh": "突刺",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0030bd90"
+      ],
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

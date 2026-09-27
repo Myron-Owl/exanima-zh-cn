@@ -1,0 +1,302 @@
+{
+  "language": "zh-CN",
+  "status": "provisional",
+  "terms": [
+    {
+      "en": "Derrin",
+      "zh": "德林",
+      "context": "农场帮工与剧情同伴"
+    },
+    {
+      "en": "Ermus",
+      "zh": "厄穆斯",
+      "context": "德林效力的领主"
+    },
+    {
+      "en": "Marlia",
+      "zh": "玛莉娅",
+      "context": "倒橡树酒馆侍者"
+    },
+    {
+      "en": "Fallen Oak",
+      "zh": "倒橡树酒馆"
+    },
+    {
+      "en": "Ardent",
+      "zh": "阿登"
+    },
+    {
+      "en": "Binding",
+      "zh": "联结",
+      "context": "异能能量联系，不等同于按键绑定"
+    },
+    {
+      "en": "Shaper",
+      "zh": "塑形者"
+    },
+    {
+      "en": "Thaumaturge",
+      "zh": "异能术士"
+    },
+    {
+      "en": "Thaumer",
+      "zh": "异能法师",
+      "context": "德林的非正式称呼，保留与正式头衔的差别"
+    },
+    {
+      "en": "Power",
+      "zh": "异能",
+      "context": "超自然能力，与普通战斗技能区分"
+    },
+    {
+      "en": "Skill",
+      "zh": "技能",
+      "context": "角色技能"
+    },
+    {
+      "en": "Inventory",
+      "zh": "物品栏"
+    },
+    {
+      "en": "Journal",
+      "zh": "日志"
+    },
+    {
+      "en": "Checkpoint",
+      "zh": "存档点"
+    },
+    {
+      "en": "Arena",
+      "zh": "竞技场"
+    },
+    {
+      "en": "Stamina",
+      "zh": "耐力"
+    },
+    {
+      "en": "Encumbrance",
+      "zh": "行动负担",
+      "note": "待结合技能和护甲说明统一"
+    },
+    {
+      "en": "Corlian",
+      "zh": "科利安"
+    },
+    {
+      "en": "Blackwell",
+      "zh": "黑井"
+    },
+    {
+      "en": "Thaven",
+      "zh": "塞文"
+    },
+    {
+      "en": "Papin",
+      "zh": "帕平"
+    },
+    {
+      "en": "Hamon",
+      "zh": "哈蒙"
+    },
+    {
+      "en": "Guardian",
+      "zh": "守护者"
+    },
+    {
+      "en": "Spellgiver",
+      "zh": "赐术者"
+    },
+    {
+      "en": "Corruptor",
+      "zh": "腐化者"
+    },
+    {
+      "en": "conservers",
+      "zh": "守旧派"
+    },
+    {
+      "en": "Proctor",
+      "zh": "执法官"
+    },
+    {
+      "en": "Order of Thaumaturges",
+      "zh": "异能术士教团"
+    },
+    {
+      "en": "Shield",
+      "zh": "盾"
+    },
+    {
+      "en": "Mathis",
+      "zh": "马西斯"
+    },
+    {
+      "en": "Elara",
+      "zh": "艾拉拉"
+    },
+    {
+      "en": "Tessa",
+      "zh": "泰莎"
+    },
+    {
+      "en": "Naiss",
+      "zh": "奈斯"
+    },
+    {
+      "en": "Darrin",
+      "zh": "达林"
+    },
+    {
+      "en": "Taren",
+      "zh": "塔伦"
+    },
+    {
+      "en": "Sal",
+      "zh": "萨尔"
+    },
+    {
+      "en": "Han",
+      "zh": "汉"
+    },
+    {
+      "en": "Fabon",
+      "zh": "法邦"
+    },
+    {
+      "en": "Alisian Dayen",
+      "zh": "阿利西安·戴恩"
+    },
+    {
+      "en": "Buto",
+      "zh": "布托"
+    },
+    {
+      "en": "Zuiek",
+      "zh": "祖伊克"
+    },
+    {
+      "en": "Dassin",
+      "zh": "达辛"
+    },
+    {
+      "en": "Aderon",
+      "zh": "阿德隆"
+    },
+    {
+      "en": "Terschenn",
+      "zh": "特申"
+    },
+    {
+      "en": "Kaeylen",
+      "zh": "凯伦"
+    },
+    {
+      "en": "Orenn",
+      "zh": "奥伦"
+    },
+    {
+      "en": "Torris",
+      "zh": "托里斯"
+    },
+    {
+      "en": "Theris",
+      "zh": "瑟里斯"
+    },
+    {
+      "en": "Elko",
+      "zh": "艾尔科"
+    },
+    {
+      "en": "Renis",
+      "zh": "雷尼斯"
+    },
+    {
+      "en": "Seredin",
+      "zh": "塞雷丁"
+    },
+    {
+      "en": "Edrian",
+      "zh": "埃德里安"
+    },
+    {
+      "en": "Stenris",
+      "zh": "斯滕里斯"
+    },
+    {
+      "en": "Athelin",
+      "zh": "阿瑟林"
+    },
+    {
+      "en": "Methis",
+      "zh": "梅西斯"
+    },
+    {
+      "en": "Themin",
+      "zh": "塞明"
+    },
+    {
+      "en": "Amatine",
+      "zh": "阿马廷"
+    },
+    {
+      "en": "Elenis",
+      "zh": "埃莱尼斯"
+    },
+    {
+      "en": "Nephil",
+      "zh": "奈菲尔"
+    },
+    {
+      "en": "Esthra",
+      "zh": "埃丝拉"
+    },
+    {
+      "en": "Sashya",
+      "zh": "萨莎"
+    },
+    {
+      "en": "Lisiria",
+      "zh": "莉西莉娅"
+    },
+    {
+      "en": "Scorpe",
+      "zh": "斯科普"
+    },
+    {
+      "en": "Noran",
+      "zh": "诺兰"
+    },
+    {
+      "en": "Fengus",
+      "zh": "芬格斯"
+    },
+    {
+      "en": "Donilan",
+      "zh": "多尼兰"
+    },
+    {
+      "en": "Oren",
+      "zh": "奥伦"
+    },
+    {
+      "en": "Seren",
+      "zh": "塞伦"
+    },
+    {
+      "en": "Manta",
+      "zh": "曼塔"
+    },
+    {
+      "en": "Elento",
+      "zh": "埃伦托"
+    },
+    {
+      "en": "Thelia",
+      "zh": "塞莉娅"
+    },
+    {
+      "en": "Rob",
+      "zh": "罗布"
+    }
+  ]
+}

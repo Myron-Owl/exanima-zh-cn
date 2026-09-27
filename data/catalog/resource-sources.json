@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "manualcn.fds:armour",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]ARMOUR[/tcol]\r\n[algn=0]\r\n[rimg=TutArmr01]\r\n\r\nArmour offers essential protection against injury. Even a couple of layers of tough clothing can make the difference between a life threatening cut and a harmless graze.\r\n\r\nArmour only protects what it covers, and several layers can be worn over various parts of the body. Don't dismiss many cloth and other items, they can be worn in combination with armour, provide important padding underneath it and never become obsolete.\r\n\r\nArmour comes in various qualities depending on the item. Keep an eye out for better grades, it is desirable to wear better quality armour rather than just more of it.\r\n\r\nHeavier armour will encumber you. Encumbrance will have adverse effects on all your movements which may seem subtle but can be circumstantially crucial. There are armour skills that reduce encumbrance.\r\n\r\nThe common properties of armour are:\r\n\r\n[tcol=FFE399]Coverage [/tcol]represents how well the item covers your body compared to a similar item. If two near identical items have different coverage values, it is to represent small gaps or weaker areas.\r\n\r\n[tcol=FFE399]Impact [/tcol]indicates how much force armour can absorb. This not only protects against blunt force but can soften blows and reduce their lethality. Rigid or padded armour provides good impact protection.\r\n\r\n[tcol=FFE399]Slash [/tcol]represents how difficult it is to cut through the armour. Even a little slash protection can mean smaller shallower cuts, and heavy armour is typically completely proof against cutting.\r\n\r\n[tcol=FFE399]Crush [/tcol]is the armour's ability to withstand a focused force that might otherwise cause injury without actually penetrating it.\r\n\r\n[tcol=FFE399]Pierce[/tcol] represents how difficult it is to puncture the armour or for keen points to find their way through gaps and weaker areas.\r\n\r\n[tcol=FFE399]Encumbrance[/tcol] is how much the armour impedes movement. This broadly covers weight, stiffness and adverse effects on your senses or breathing.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:combat",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]COMBAT[/tcol]\r\n[algn=0]\r\nThis game features a unique combat system where all motion and outcomes are determined by a physics simulation rather than fixed animations and simple rules. \r\n\r\nYour inputs must work in harmony with your character's motions and the physics affecting their body. This will take some deliberate practice, but in time it will feel fluid and intuitive.\r\n\r\n\r\n[algn=2][tcol=FFE399]MANOEUVERING[/tcol]\r\n\r\n[rimg=TutCmbt01]\r\n[algn=0]\r\nMovement doesn't just control your position, it is a fundamental part of all motion. Your character's body has weight and momentum, if you throw your weight around erratically you will stumble and flail awkwardly, just as you would in the real world.\r\n\r\nDon't move more than strictly necessary, stay balanced and ready so you can move when and how you need to. Your movements must be coordinated with your attacks and other actions. In another game one button may perform a complete motion, here you must make your own motions through a combination of inputs.\r\n\r\nPress [tcol=FFE399]Toggle Combat[/tcol] to enter combat mode. The reticle now turns your character and aims your attacks and parries. [tcol=FFE399]Move[/tcol] now controls your footwork, which is independent of the direction you face.\r\n\r\nUse small movement inputs to take quick controlled steps. Larger inputs will perform big dashes or lunges, which are slower to recover from.\r\n\r\n\r\n[algn=2][tcol=FFE399]ATTACKING[/tcol]\r\n\r\n[rimg=TutCmbt02]\r\n[algn=0]\r\nDamage is determined by the forces involved in impacts. Footwork and body movement are crucial, most power comes from your body, not your arms. When attacking you must move and turn your body with the attack. Poorly coordinated attacks will be weak and look clumsy.\r\n\r\nTo initiate an attack hold down [tcol=FFE399]Attack[/tcol] If you move the reticle to your character's left before pressing the button, you will attack from the left. If you press, release and then hold you will swing from above.\r\n\r\nYou can release the button at any time to interrupt your attack. This can be used to feint or to transition into defending. You don't want to be swinging your weapon without good reason, release and recover as soon as you can.\r\n\r\nTo perform a thrust, hold [tcol=FFE399]Alternate Action[/tcol] and then [tcol=FFE399]Attack[/tcol]. While thrusting you aim continuously with the reticle, targeting a specific point on your opponent.\r\n\r\nHow hard you hit, with what part of your weapon, at what angle, where you hit your opponent and how much armour they are wearing there are all critical. Attacking requires precision and tactics. Speed is not important, take your time and make it count. A single well placed hit can end a fight.\r\n\r\n\r\n[algn=2][tcol=FFE399]DEFENDING[/tcol]\r\n\r\n[rimg=TutCmbt03]\r\n[algn=0]\r\nWhen not attacking you will attempt to defend and parry. You can let go of an attack at any point to defend instead. Even if you do not successfully parry you will be less vulnerable when defending.\r\n\r\nParries and blocks are not binary actions, positioning and angles are important and ultimately physics will determine the outcome.\r\n\r\nYou can dodge attacks, or move to reduce their threat. For example, moving into an attack may allow you to block the arm or handle of the weapon with your own body, or reduce the power of the blow.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:encounters",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]ENCOUNTERS[/tcol]\r\n[algn=0]\r\n[rimg=TutEnctr01]\r\n\r\nEvery individual you meet is unique and will respond differently to your actions. Most are not aggressive unless threatened or intimidated.\r\n\r\nAs a general rule, avoid getting too close, making threatening movements or even prolonged eye contact before they have time to establish you are not a threat. Each individual remembers previous encounters with you and others, gradually forming stronger opinions.\r\n\r\nAs a player you're just one other inhabitant of this world. You don't have an inherent advantage over others, and there's no real incentive to killing them.\r\n\r\nIt is strongly advised that you avoid confrontation until you have some passable combat gear, particularly armour. Sustaining injuries is extremely undesirable and not easily remedied.\r\n\r\nDon't hesitate to flee a fight that might prove too costly. If you have not retaliated, your aggressor may even reevaluate you as not a threat and become peaceful.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:health",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]HEALTH[/tcol]\r\n[algn=0]\r\n[rimg=TutHelth01]\r\n\r\nHealth is divided into stamina and injury. Stamina is shown in yellow on your bar and is lost from effects that do not cause permanent injury, such as moderate impacts. When part of the bar turns red it is to represent injury.\r\n\r\nWhen stamina is depleted completely the character will lose consciousness, but ultimately survives. Stamina recovers rapidly, but injury limits how much stamina can be recovered.\r\r\nInjury eventually leads to death and is not easily treated. You will have opportunities to recover from injury, but this should not be relied on. You should avoid being wounded at all costs.\r\r\nArmour plays a fundamental role in protecting from injury, as well as mitigating impacts. Be extremely wary of combat with lethal weapons when not equipped with adequate armour.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:interaction",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]INTERACTION[/tcol]\r\n[algn=0]\r\n[rimg=TutIntr01]\r\n\r\nYou can move objects and operate things such as doors and levers simply by dragging them with the cursor. While moving lighter objects you can rotate them with [tcol=FFE399]Move[/tcol].\r\n\r\nIf you attempt to move an object beyond the interaction range or to an invalid position the cursor will change to reflect this.\r\n\r\n[tcol=FFE399]Click[/tcol] on an object to inspect it and bring up a description. Click the description to keep it open. [tcol=FFE399]Close[/tcol] any window while the cursor is over it.\r\n\r\nA double click will use keys or consumable items, open containers and search bodies. Some large doors that transition to new a location are also operated this way.\r\n\r\nSome actions require a target and the cursor will change to a reticle. For example, you must double click a key and then select what you wish to unlock with it.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:inventory",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]INVENTORY[/tcol]\r\n[algn=0]\r\n[rimg=TutInvtr01]\r\n\r\nPress [tcol=FFE399]Inventory[/tcol] to open your inventory. Drag items on to the character to equip them, drag them into the space below to carry them with you.\r\n\r\nYou can equip a primary and secondary set of items to your hands, then switch between them by pressing [tcol=FFE399]Switch Weapons[/tcol].\r\n\r\nEncumbrance increases with items worn, items that are not currently equipped do not contribute to encumbrance.\r\n\r\nHowever, there is a limit to how much your character can carry with them, which includes worn items. Portable containers can help increase this limit.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:movement",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]MOVEMENT[/tcol]\r\n[algn=0]\r\n[rimg=TutMvmnt01]\r\n\r\nYou can walk, run or sprint with the movement control. User larger inputs to run, and hold sprint to run faster. Holding sprint will also allow you to run and sprint while in combat.\r\n\r\nSprinting can be extremely important in some situations. You may need to outrun something or cover a distance within a limited time.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:saving",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]SAVING[/tcol]\r\n[algn=0]\r\nYour progress is regularly saved, you can quit and return to where you were at any point. You cannot manually save and load to travel in time and undo your mistakes. Being smart to avoid death and injury is a fundamental part of the game.\r\n\r\nThere are optional checkpoint saves you can enable in settings. These will permanently save your progress at various points in the game. If your character dies you will be able to return to the last checkpoint.\r\n\r\nYou are free to create as many games as you like and all will be saved. You can choose which one to play through the continue screen.\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:shields",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]SHIELDS[/tcol]\r\n[algn=0]\r\n[rimg=TutShld01]\r\n\r\nShields are excellent at fending off attacks and can also deliver a degree of passive protection as simple physical barriers.\r\n\r\nShields come in various shapes and sizes. Smaller shields are light and quick, supporting an offensive approach, large shields are typically cumbersome but offer great active and passive protection.\r\n\r\nBlocking with a shield is subject to its own stamina mechanic. Repeatedly blocking heavy blows, particularly receiving unexpected ones, will tire you. This slows subsequent blocking and reduces the ability to absorb impacts.\r\n\r\nThere are numerous skill techniques that can be trained to improve the use of shields significantly. A skilled shield user will create openings and attack and defend simultaneously.\r\n\r\nThe common properties of shields are:\r\n\r\n[tcol=FFE399]Weight[/tcol] affects the speed with which you are able to manoeuvre the shield.\r\n\r\n[tcol=FFE399]Impact[/tcol] is how well a shield can absorb strong forces to protect your arm and body from them.\r\n\r\n[tcol=FFE399]Encumbrance[/tcol] is how much the shield impedes your movements due to its mass and bulk.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:skills",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]SKILLS[/tcol]\r\n[algn=0]\r\nPress [tcol=FFE399]Skills[/tcol] to view and manage your character's skills.\r\n\r\nYou can train up to 5 techniques in each skill. Empty technique slots will show a plus icon when you are ready for new training. When you choose a new technique you will begin training, you will have access to it once complete.\r\n\r\nExperience is earned with everything you do and discover. Exploration, reading and acquiring new knowledge, discovering hidden objects and using new items for the first time are the largest source of experience. Combat against less threatening opponents yields negligible amounts.\r\n\r\nExperience takes time to process and absorb. If you gain much experience rapidly it may take some time before you'll see the effects. It is important that you are training skills or the experience will not be used.\r\n\r\nRoughly one quarter of all experience you earn will go towards your Global Experience. This provides starting experience for new characters, and is also applied retroactively to all existing characters when resuming a saved game.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:thaumaturgy",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]THAUMATURGY[/tcol]\r\n[algn=0]\r\nSome characters have access to psychic abilities, known as Thaumaturgy.\r\n\r\nIf you play such a character you can hold [tcol=FFE399]Powers[/tcol] to see your current powers, choose which powers to learn and prepare them for use. Hover over each power to see its description.\r\n\r\nPress [tcol=FFE399]Powers[/tcol] to show your prepared and active powers, you can select a power with [tcol=FFE399]Move[/tcol], if you press [tcol=FFE399]Powers[/tcol] again this is what will be used when you press [tcol=FFE399]Use Power[/tcol]. You can also press [tcol=FFE399]Use Power[/tcol] to use the power directly without selecting it.\r\n\r\nDepending on the power, you may need to use the cursor for targeting, and your accuracy may also be important, affecting the strength of the power. For Mind, this tends to be target's head.\r\n\r\nYou may need specific character skills to learn certain powers and discover new ones. Skills can also help you use your powers more efficiently.\r\n\r\n\r\n[algn=2][tcol=FFE399]FOCUS[/tcol]\r\n[algn=0]\r\nYour ability to use powers is determined by your mental focus, represented by the blue bar at the bottom of your screen. This is exhausted whenever you use a power, and recovers slowly over time.\r\n\r\nThe are three main ways in which powers consume focus:\r\n\r\n[tcol=FFE399]Immediate[/tcol] powers simply consume a fixed amount;\r\n\r\n[tcol=FFE399]Sustained[/tcol] powers gradually use focus for their entire duration;\r\n\r\n[tcol=FFE399]Continuous[/tcol] powers reserve an amount of your focus until disrupted or released.\r\n\r\nSeveral skill techniques affect your focus. [tcol=FFE399]Clarity[/tcol] increases your focus recovery, [tcol=FFE399]Iteration[/tcol] reduces focus consumed for subsequent uses of the same power, [tcol=FFE399]Sustain[/tcol] reduces focus consumed by sustained powers, and [tcol=FFE399]Abstraction[/tcol] reduces focus reserved by continuous powers. \r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualcn.fds:weapons",
+    "source": "manualcn.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]WEAPONS[/tcol]\r\n[algn=0]\r\n[rimg=TutWepns01]\r\n\r\nWeapons in Exanima are varied in their behaviour. The shape, length and specific balance of a weapon are often more important than any stats displayed. Personal preference and experience are also significant.\r\n\r\nWeapons and other objects do not use hitboxes, collisions are based on the weapon as you see it. Damage is entirely determined by the force and geometry of the impact.\r\n\r\nSwords are nimble and cut with their entire length; axes deliver heavy chops, but only if hitting with the head, which may also reach past an attempted block; maces and hammers can do some serious damage even through heavy armour. There are many weapons with various advantages and drawbacks.\r\n\r\nThe common properties of weapons are:\r\n\r\n[tcol=FFE399]Weight[/tcol] is simply the mass of the weapon. Heavier weapons are generally slower but hit harder.\r\n\r\n[tcol=FFE399]Balance [/tcol]is indicative of how responsive a weapon is. Balanced weapons tend to transition quicker into new actions.\r\n\r\n[tcol=FFE399]Impact [/tcol]conveys how much force a weapon can typically deliver. Impacts can render someone unconscious and cause brief debilitating effects, but do not cause permanent injury unless extremely heavy. Impact force also plays an important role in the effectiveness of other damage types.\r\n\r\n[tcol=FFE399]Slash [/tcol]indicates how sharp a weapon is. Slashing damage can cut with minimal force, however such cuts are easily mitigated by most armour.\r\n\r\n[tcol=FFE399]Pierce [/tcol]damage is delivered by keen points. Piercing can more easily do damage through the smaller gaps in armour.\r\n\r\n[tcol=FFE399]Crush [/tcol]damage can deliver significant force even through heavier armour, however particularly impactful blows are required to make it effective.\r\n\r\n[tcol=FFE399]Thrust [/tcol]is piercing damage delivered by thrusting. Thrusts however also deliver some impact damage and may circumstantially apply slash damage.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:armour",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]ARMOUR[/tcol]\r\n[algn=0]\r\n[rimg=TutArmr01]\r\n\r\nArmour offers essential protection against injury. Even a couple of layers of tough clothing can make the difference between a life threatening cut and a harmless graze.\r\n\r\nArmour only protects what it covers, and several layers can be worn over various parts of the body. Don't dismiss many cloth and other items, they can be worn in combination with armour, provide important padding underneath it and never become obsolete.\r\n\r\nArmour comes in various qualities depending on the item. Keep an eye out for better grades, it is desirable to wear better quality armour rather than just more of it.\r\n\r\nHeavier armour will encumber you. Encumbrance will have adverse effects on all your movements which may seem subtle but can be circumstantially crucial. There are armour skills that reduce encumbrance.\r\n\r\nThe common properties of armour are:\r\n\r\n[tcol=FFE399]Coverage [/tcol]represents how well the item covers your body compared to a similar item. If two near identical items have different coverage values, it is to represent small gaps or weaker areas.\r\n\r\n[tcol=FFE399]Impact [/tcol]indicates how much force armour can absorb. This not only protects against blunt force but can soften blows and reduce their lethality. Rigid or padded armour provides good impact protection.\r\n\r\n[tcol=FFE399]Slash [/tcol]represents how difficult it is to cut through the armour. Even a little slash protection can mean smaller shallower cuts, and heavy armour is typically completely proof against cutting.\r\n\r\n[tcol=FFE399]Crush [/tcol]is the armour's ability to withstand a focused force that might otherwise cause injury without actually penetrating it.\r\n\r\n[tcol=FFE399]Pierce[/tcol] represents how difficult it is to puncture the armour or for keen points to find their way through gaps and weaker areas.\r\n\r\n[tcol=FFE399]Encumbrance[/tcol] is how much the armour impedes movement. This broadly covers weight, stiffness and adverse effects on your senses or breathing.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:combat",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]COMBAT[/tcol]\r\n[algn=0]\r\nThis game features a unique combat system where all motion and outcomes are determined by a physics simulation rather than fixed animations and simple rules. \r\n\r\nYour inputs must work in harmony with your character's motions and the physics affecting their body. This will take some deliberate practice, but in time it will feel fluid and intuitive.\r\n\r\n\r\n[algn=2][tcol=FFE399]MANOEUVERING[/tcol]\r\n\r\n[rimg=TutCmbt01]\r\n[algn=0]\r\nMovement doesn't just control your position, it is a fundamental part of all motion. Your character's body has weight and momentum, if you throw your weight around erratically you will stumble and flail awkwardly, just as you would in the real world.\r\n\r\nDon't move more than strictly necessary, stay balanced and ready so you can move when and how you need to. Your movements must be coordinated with your attacks and other actions. In another game one button may perform a complete motion, here you must make your own motions through a combination of inputs.\r\n\r\nPress [inpt9] to enter combat mode. The reticle now turns your character and aims your steps, attacks and parries. Press Forward to advance, Back to retreat, Left and Right to circle your target.\r\n\r\nTap the movement keys to take quick controlled steps. Holding the keys will perform large dashes or lunges, which are slower to recover from. You can change this dash behaviour in controls.\r\n\r\n\r\n\r\n[algn=2][tcol=FFE399]ATTACKING[/tcol]\r\n\r\n[rimg=TutCmbt02]\r\n[algn=0]\r\nDamage is determined by the forces involved in impacts. Footwork and body movement are crucial, most power comes from your body, not your arms. When attacking you must move and turn your body with the attack. Poorly coordinated attacks will be weak and look clumsy.\r\n\r\nTo initiate an attack hold down the left mouse button. If you move the reticle to your character's left before pressing the button, you will attack from the left. If you press, release and then hold you will swing from above.\r\n\r\nYou can release the button at any time to interrupt your attack. This can be used to feint or to transition into defending. You don't want to be swinging your weapon without good reason, release and recover as soon as you can.\r\n\r\nTo perform a thrust, hold [inpt13] and then mouse left. While thrusting you aim continuously with the reticle, targeting a specific point on your opponent.\r\n\r\nHow hard you hit, with what part of your weapon, at what angle, where you hit your opponent and how much armour they are wearing there are all critical. Attacking requires precision and tactics. Speed is not important, take your time and make it count. A single well placed hit can end a fight.\r\n\r\n\r\n[algn=2][tcol=FFE399]DEFENDING[/tcol]\r\n\r\n[rimg=TutCmbt03]\r\n[algn=0]\r\nWhen not attacking you will attempt to defend and parry. You can let go of an attack at any point to defend instead. Even if you do not successfully parry you will be less vulnerable when defending.\r\n\r\nParries and blocks are not binary actions, positioning and angles are important and ultimately physics will determine the outcome.\r\n\r\nYou can dodge attacks, or move to reduce their threat. For example, moving into an attack may allow you to block the arm or handle of the weapon with your own body, or reduce the power of the blow.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:encounters",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]ENCOUNTERS[/tcol]\r\n[algn=0]\r\n[rimg=TutEnctr01]\r\n\r\nEvery individual you meet is unique and will respond differently to your actions. Most are not aggressive unless threatened or intimidated.\r\n\r\nAs a general rule, avoid getting too close, making threatening movements or even prolonged eye contact before they have time to establish you are not a threat. Each individual remembers previous encounters with you and others, gradually forming stronger opinions.\r\n\r\nAs a player you're just one other inhabitant of this world. You don't have an inherent advantage over others, and there's no real incentive to killing them.\r\n\r\nIt is strongly advised that you avoid confrontation until you have some passable combat gear, particularly armour. Sustaining injuries is extremely undesirable and not easily remedied.\r\n\r\nDon't hesitate to flee a fight that might prove too costly. If you have not retaliated, your aggressor may even reevaluate you as not a threat and become peaceful.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:health",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]HEALTH[/tcol]\r\n[algn=0]\r\n[rimg=TutHelth01]\r\n\r\nHealth is divided into stamina and injury. Stamina is shown in yellow on your bar and is lost from effects that do not cause permanent injury, such as moderate impacts. When part of the bar turns red it is to represent injury.\r\n\r\nWhen stamina is depleted completely the character will lose consciousness, but ultimately survives. Stamina recovers rapidly, but injury limits how much stamina can be recovered.\r\r\nInjury eventually leads to death and is not easily treated. You will have opportunities to recover from injury, but this should not be relied on. You should avoid being wounded at all costs.\r\r\nArmour plays a fundamental role in protecting from injury, as well as mitigating impacts. Be extremely wary of combat with lethal weapons when not equipped with adequate armour.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:interaction",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]INTERACTION[/tcol]\r\n[algn=0]\r\n[rimg=TutIntr01]\r\n\r\nYou can move objects and operate things such as doors and levers simply by dragging them with the mouse. While moving lighter objects you can rotate them with the movement keys.\r\n\r\nIf you attempt to move an object beyond the interaction range or to an invalid position the cursor will change to reflect this.\r\n\r\nClick on an object to inspect it and bring up a description. Click the description to keep it open. Right click on any window to close it.\r\n\r\nDouble clicking will use keys or consumable items, open containers and search bodies. \r\nSome large doors that transition to new a location are also operated this way.\r\n\r\nSome actions require a target and the cursor will change to a reticle. For example, you must double click a key and then select what you wish to unlock with it.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:inventory",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]INVENTORY[/tcol]\r\n[algn=0]\r\n[rimg=TutInvtr01]\r\n\r\nPress [inpt10] to open your inventory. Drag items on to the character to equip them, drag them into the space below to carry them with you.\r\n\r\nYou can equip a primary and secondary set of items to your hands, then switch between them by pressing [inpt14].\r\n\r\nEncumbrance increases with items worn, items that are not currently equipped do not contribute to encumbrance.\r\n\r\nHowever, there is a limit to how much your character can carry with them, which includes worn items. Portable containers can help increase this limit.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:movement",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]MOVEMENT[/tcol]\r\n[algn=0]\r\n[rimg=TutMvmnt01]\r\n\r\nMovement is performed with the right mouse button. Move the cursor further away to run. Hold [inpt4] to sprint when the cursor is further and run by default.\r\n\r\nSprinting can be extremely important in some situations. You may need to outrun something or cover a distance within a limited time.\r\n\r\nIf you need to adjust your character's position while using the mouse to perform another action, you can use the movement keys. It is strongly discouraged to use this as a primary input method, it does not allow turning with speed and accuracy, or sprinting.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:saving",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]SAVING[/tcol]\r\n[algn=0]\r\nYour progress is regularly saved, you can quit and return to where you were at any point. You cannot manually save and load to travel in time and undo your mistakes. Being smart to avoid death and injury is a fundamental part of the game.\r\n\r\nThere are optional checkpoint saves you can enable in settings. These will permanently save your progress at various points in the game. If your character dies you will be able to return to the last checkpoint.\r\n\r\nYou are free to create as many games as you like and all will be saved. You can choose which one to play through the continue screen.\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:shields",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]SHIELDS[/tcol]\r\n[algn=0]\r\n[rimg=TutShld01]\r\n\r\nShields are excellent at fending off attacks and can also deliver a degree of passive protection as simple physical barriers.\r\n\r\nShields come in various shapes and sizes. Smaller shields are light and quick, supporting an offensive approach, large shields are typically cumbersome but offer great active and passive protection.\r\n\r\nBlocking with a shield is subject to its own stamina mechanic. Repeatedly blocking heavy blows, particularly receiving unexpected ones, will tire you. This slows subsequent blocking and reduces the ability to absorb impacts.\r\n\r\nThere are numerous skill techniques that can be trained to improve the use of shields significantly. A skilled shield user will create openings and attack and defend simultaneously.\r\n\r\nThe common properties of shields are:\r\n\r\n[tcol=FFE399]Weight[/tcol] affects the speed with which you are able to manoeuvre the shield.\r\n\r\n[tcol=FFE399]Impact[/tcol] is how well a shield can absorb strong forces to protect your arm and body from them.\r\n\r\n[tcol=FFE399]Encumbrance[/tcol] is how much the shield impedes your movements due to its mass and bulk.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:skills",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]SKILLS[/tcol]\r\n[algn=0]\r\nPress [inpt11] to view and manage your character's skills.\r\n\r\nYou can train up to 5 techniques in each skill. Empty technique slots will show a plus icon when you are ready for new training. When you choose a new technique you will begin training, you will have access to it once complete.\r\n\r\nExperience is earned with everything you do and discover. Exploration, reading and acquiring new knowledge, discovering hidden objects and using new items for the first time are the largest source of experience. Combat against less threatening opponents yields negligible amounts.\r\n\r\nExperience takes time to process and absorb. If you gain much experience rapidly it may take some time before you'll see the effects. It is important that you are training skills or the experience will not be used.\r\n\r\nRoughly one quarter of all experience you earn will go towards your Global Experience. This provides starting experience for new characters, and is also applied retroactively to all existing characters when resuming a saved game.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:thaumaturgy",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]THAUMATURGY[/tcol]\r\n[algn=0]\r\nSome characters have access to psychic abilities, known as Thaumaturgy.\r\n\r\nIf you play such a character you can press [inpt17] to see your current powers, choose which powers to learn and prepare them for use. Hover over each power to see its description.\r\n\r\nPress [inpt16] to show your prepared and active powers, then the corresponding number key to use a power or toggle it.\r\n\r\nDepending on the power, you may need to use the cursor for targeting, and your accuracy may also be important, affecting the strength of the power. For Mind, this tends to be target's head.\r\n\r\nYou may need specific character skills to learn certain powers and discover new ones. Skills can also help you use your powers more efficiently.\r\n\r\n\r\n[algn=2][tcol=FFE399]FOCUS[/tcol]\r\n[algn=0]\r\nYour ability to use powers is determined by your mental focus, represented by the blue bar at the bottom of your screen. This is exhausted whenever you use a power, and recovers slowly over time.\r\n\r\nThe are three main ways in which powers consume focus:\r\n\r\n[tcol=FFE399]Immediate[/tcol] powers simply consume a fixed amount;\r\n\r\n[tcol=FFE399]Sustained[/tcol] powers gradually use focus for their entire duration;\r\n\r\n[tcol=FFE399]Continuous[/tcol] powers reserve an amount of your focus until disrupted or released.\r\n\r\nSeveral skill techniques affect your focus. [tcol=FFE399]Clarity[/tcol] increases your focus recovery, [tcol=FFE399]Iteration[/tcol] reduces focus consumed for subsequent uses of the same power, [tcol=FFE399]Sustain[/tcol] reduces focus consumed by sustained powers, and [tcol=FFE399]Abstraction[/tcol] reduces focus reserved by continuous powers. \r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "manualkm.fds:weapons",
+    "source": "manualkm.fds",
+    "en": "\r\n[algn=2][tcol=FFE399]WEAPONS[/tcol]\r\n[algn=0]\r\n[rimg=TutWepns01]\r\n\r\nWeapons in Exanima are varied in their behaviour. The shape, length and specific balance of a weapon are often more important than any stats displayed. Personal preference and experience are also significant.\r\n\r\nWeapons and other objects do not use hitboxes, collisions are based on the weapon as you see it. Damage is entirely determined by the force and geometry of the impact.\r\n\r\nSwords are nimble and cut with their entire length; axes deliver heavy chops, but only if hitting with the head, which may also reach past an attempted block; maces and hammers can do some serious damage even through heavy armour. There are many weapons with various advantages and drawbacks.\r\n\r\nThe common properties of weapons are:\r\n\r\n[tcol=FFE399]Weight[/tcol] is simply the mass of the weapon. Heavier weapons are generally slower but hit harder.\r\n\r\n[tcol=FFE399]Balance [/tcol]is indicative of how responsive a weapon is. Balanced weapons tend to transition quicker into new actions.\r\n\r\n[tcol=FFE399]Impact [/tcol]conveys how much force a weapon can typically deliver. Impacts can render someone unconscious and cause brief debilitating effects, but do not cause permanent injury unless extremely heavy. Impact force also plays an important role in the effectiveness of other damage types.\r\n\r\n[tcol=FFE399]Slash [/tcol]indicates how sharp a weapon is. Slashing damage can cut with minimal force, however such cuts are easily mitigated by most armour.\r\n\r\n[tcol=FFE399]Pierce [/tcol]damage is delivered by keen points. Piercing can more easily do damage through the smaller gaps in armour.\r\n\r\n[tcol=FFE399]Crush [/tcol]damage can deliver significant force even through heavier armour, however particularly impactful blows are required to make it effective.\r\n\r\n[tcol=FFE399]Thrust [/tcol]is piercing damage delivered by thrusting. Thrusts however also deliver some impact damage and may circumstantially apply slash damage.\r\n\u0000",
+    "extraction": "whole_manual_chapter"
+  },
+  {
+    "id": "narrator.rcd:136",
+    "source": "narrator.rcd",
+    "offset": 136,
+    "length": 332,
+    "en": "\tHere lies the body of Corlian.\r\n\r\n\tA flood of memories overcomes you, and you understand that Corlian is not truly dead, but resides somewhere inside you, sharing your consciousness with your former self.\r\n\r\n\tA conflict rages inside you, you feel you must choose which is your true self, or perhaps to make peace with this duality.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:500",
+    "source": "narrator.rcd",
+    "offset": 500,
+    "length": 39,
+    "en": "I am {Actor[1].Name}, master of forces.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:547",
+    "source": "narrator.rcd",
+    "offset": 547,
+    "length": 18,
+    "en": "GameEvent(C10EC1);",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:589",
+    "source": "narrator.rcd",
+    "offset": 589,
+    "length": 63,
+    "en": "You feel strongly attuned to forces and the motions of objects.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:684",
+    "source": "narrator.rcd",
+    "offset": 684,
+    "length": 30,
+    "en": "I am Corlian, master of minds.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:722",
+    "source": "narrator.rcd",
+    "offset": 722,
+    "length": 18,
+    "en": "GameEvent(C10EC2);",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:764",
+    "source": "narrator.rcd",
+    "offset": 764,
+    "length": 66,
+    "en": "You feel your connection to the minds of others flow effortlessly.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:862",
+    "source": "narrator.rcd",
+    "offset": 862,
+    "length": 28,
+    "en": "I am neither, and I am both.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:898",
+    "source": "narrator.rcd",
+    "offset": 898,
+    "length": 18,
+    "en": "GameEvent(C10EC3);",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:940",
+    "source": "narrator.rcd",
+    "offset": 940,
+    "length": 69,
+    "en": "You feel that control over forces and minds comes to you more easily.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:1085",
+    "source": "narrator.rcd",
+    "offset": 1085,
+    "length": 99,
+    "en": "Confused memories surface, but you fight them down in fear.\r\n\r\nNevertheless something was restored.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:1260",
+    "source": "narrator.rcd",
+    "offset": 1260,
+    "length": 197,
+    "en": "These notes describe a raising of the dead that doesn't require a bond to be held by the necromancer.\r\n\r\nWith this knowledge revealed to you, you think you would be able to replicate these methods.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:1533",
+    "source": "narrator.rcd",
+    "offset": 1533,
+    "length": 178,
+    "en": "These notes describe a raising of the dead that doesn't require a bond to be held by the necromancer.\r\n\r\nYou lack the knowledge or the insight to understand how it might be done.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "narrator.rcd:1787",
+    "source": "narrator.rcd",
+    "offset": 1787,
+    "length": 70,
+    "en": "As a shaper's mind dissipates you glean some knowledge of their power.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:320",
+    "source": "pwr_displace.pwr",
+    "offset": 320,
+    "length": 4,
+    "en": "Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:328",
+    "source": "pwr_displace.pwr",
+    "offset": 328,
+    "length": 6,
+    "en": "Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:338",
+    "source": "pwr_displace.pwr",
+    "offset": 338,
+    "length": 5,
+    "en": "Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:347",
+    "source": "pwr_displace.pwr",
+    "offset": 347,
+    "length": 9,
+    "en": "Mask Mind",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:360",
+    "source": "pwr_displace.pwr",
+    "offset": 360,
+    "length": 9,
+    "en": "Mass Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:373",
+    "source": "pwr_displace.pwr",
+    "offset": 373,
+    "length": 6,
+    "en": "Vanish",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:383",
+    "source": "pwr_displace.pwr",
+    "offset": 383,
+    "length": 9,
+    "en": "Suspicion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:396",
+    "source": "pwr_displace.pwr",
+    "offset": 396,
+    "length": 10,
+    "en": "Possession",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:410",
+    "source": "pwr_displace.pwr",
+    "offset": 410,
+    "length": 4,
+    "en": "Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:418",
+    "source": "pwr_displace.pwr",
+    "offset": 418,
+    "length": 9,
+    "en": "Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:431",
+    "source": "pwr_displace.pwr",
+    "offset": 431,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:446",
+    "source": "pwr_displace.pwr",
+    "offset": 446,
+    "length": 8,
+    "en": "Embolden",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:458",
+    "source": "pwr_displace.pwr",
+    "offset": 458,
+    "length": 12,
+    "en": "Command Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:474",
+    "source": "pwr_displace.pwr",
+    "offset": 474,
+    "length": 11,
+    "en": "Banish Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:489",
+    "source": "pwr_displace.pwr",
+    "offset": 489,
+    "length": 7,
+    "en": "Loyalty",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:500",
+    "source": "pwr_displace.pwr",
+    "offset": 500,
+    "length": 11,
+    "en": "Mass Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:515",
+    "source": "pwr_displace.pwr",
+    "offset": 515,
+    "length": 14,
+    "en": "Directed Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:533",
+    "source": "pwr_displace.pwr",
+    "offset": 533,
+    "length": 9,
+    "en": "Mind Mask",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:546",
+    "source": "pwr_displace.pwr",
+    "offset": 546,
+    "length": 10,
+    "en": "Mind Sense",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:560",
+    "source": "pwr_displace.pwr",
+    "offset": 560,
+    "length": 10,
+    "en": "Raise Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:574",
+    "source": "pwr_displace.pwr",
+    "offset": 574,
+    "length": 9,
+    "en": "Mass Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:587",
+    "source": "pwr_displace.pwr",
+    "offset": 587,
+    "length": 14,
+    "en": "Mass Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:605",
+    "source": "pwr_displace.pwr",
+    "offset": 605,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:620",
+    "source": "pwr_displace.pwr",
+    "offset": 620,
+    "length": 61,
+    "en": "Your physical form enters another plane, becoming intangible.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:685",
+    "source": "pwr_displace.pwr",
+    "offset": 685,
+    "length": 72,
+    "en": "Conceal your mind, making it difficult to detect.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:761",
+    "source": "pwr_displace.pwr",
+    "offset": 761,
+    "length": 83,
+    "en": "Continuously mask your mind from those that would sense it.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:848",
+    "source": "pwr_displace.pwr",
+    "offset": 848,
+    "length": 64,
+    "en": "Briefly confuse a target and cause them to not recognise others.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:916",
+    "source": "pwr_displace.pwr",
+    "offset": 916,
+    "length": 84,
+    "en": "Render target suspicious of those they would otherwise trust.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1004",
+    "source": "pwr_displace.pwr",
+    "offset": 1004,
+    "length": 75,
+    "en": "Cause someone to trust you and follow your command.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1083",
+    "source": "pwr_displace.pwr",
+    "offset": 1083,
+    "length": 73,
+    "en": "Take direct control of a target's actions.\r\n\r\nRequires Union, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1160",
+    "source": "pwr_displace.pwr",
+    "offset": 1160,
+    "length": 49,
+    "en": "Cause a target to trust you for a short duration.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1213",
+    "source": "pwr_displace.pwr",
+    "offset": 1213,
+    "length": 84,
+    "en": "Command the dead to repossess their remains in your service.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1301",
+    "source": "pwr_displace.pwr",
+    "offset": 1301,
+    "length": 85,
+    "en": "Focus your mind to leave your body and enter the spirit realm.\r\n\r\nRequires Coherence.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1390",
+    "source": "pwr_displace.pwr",
+    "offset": 1390,
+    "length": 96,
+    "en": "Fully focus your mind to remain in spirit form indefinitely.\r\n\r\nRequires Revelation, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1490",
+    "source": "pwr_displace.pwr",
+    "offset": 1490,
+    "length": 51,
+    "en": "Cleanse a target's mind of concerns and aggression.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1545",
+    "source": "pwr_displace.pwr",
+    "offset": 1545,
+    "length": 73,
+    "en": "Cause the target to suffer an uncontrollable rage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1622",
+    "source": "pwr_displace.pwr",
+    "offset": 1622,
+    "length": 73,
+    "en": "Cause a target to be overcome with a feeling of dread.\r\n\r\nRequires Union.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1699",
+    "source": "pwr_displace.pwr",
+    "offset": 1699,
+    "length": 70,
+    "en": "Provide a target with a great surge in courage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1773",
+    "source": "pwr_displace.pwr",
+    "offset": 1773,
+    "length": 80,
+    "en": "Damage the link that sustains the dead, eventually severing it.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1857",
+    "source": "pwr_displace.pwr",
+    "offset": 1857,
+    "length": 66,
+    "en": "Continuously sense minds in your vicinity.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1927",
+    "source": "pwr_displace.pwr",
+    "offset": 1927,
+    "length": 60,
+    "en": "Cause a target to trust another for a time.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:1991",
+    "source": "pwr_displace.pwr",
+    "offset": 1991,
+    "length": 64,
+    "en": "Confuse multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:2059",
+    "source": "pwr_displace.pwr",
+    "offset": 2059,
+    "length": 65,
+    "en": "Cause fear in multiple targets with one binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:2128",
+    "source": "pwr_displace.pwr",
+    "offset": 2128,
+    "length": 63,
+    "en": "Enrage multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:2195",
+    "source": "pwr_displace.pwr",
+    "offset": 2195,
+    "length": 72,
+    "en": "Instill calm on multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_displace.pwr:2271",
+    "source": "pwr_displace.pwr",
+    "offset": 2271,
+    "length": 91,
+    "en": "Call the dead to repossess their remains, but without your binding.\r\n\r\nRequires Revelation.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:320",
+    "source": "pwr_energy.pwr",
+    "offset": 320,
+    "length": 4,
+    "en": "Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:328",
+    "source": "pwr_energy.pwr",
+    "offset": 328,
+    "length": 6,
+    "en": "Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:338",
+    "source": "pwr_energy.pwr",
+    "offset": 338,
+    "length": 5,
+    "en": "Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:347",
+    "source": "pwr_energy.pwr",
+    "offset": 347,
+    "length": 9,
+    "en": "Mask Mind",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:360",
+    "source": "pwr_energy.pwr",
+    "offset": 360,
+    "length": 9,
+    "en": "Mass Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:373",
+    "source": "pwr_energy.pwr",
+    "offset": 373,
+    "length": 5,
+    "en": "Shock",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:382",
+    "source": "pwr_energy.pwr",
+    "offset": 382,
+    "length": 9,
+    "en": "Suspicion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:395",
+    "source": "pwr_energy.pwr",
+    "offset": 395,
+    "length": 10,
+    "en": "Possession",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:409",
+    "source": "pwr_energy.pwr",
+    "offset": 409,
+    "length": 4,
+    "en": "Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:417",
+    "source": "pwr_energy.pwr",
+    "offset": 417,
+    "length": 9,
+    "en": "Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:430",
+    "source": "pwr_energy.pwr",
+    "offset": 430,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:445",
+    "source": "pwr_energy.pwr",
+    "offset": 445,
+    "length": 8,
+    "en": "Embolden",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:457",
+    "source": "pwr_energy.pwr",
+    "offset": 457,
+    "length": 12,
+    "en": "Command Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:473",
+    "source": "pwr_energy.pwr",
+    "offset": 473,
+    "length": 11,
+    "en": "Banish Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:488",
+    "source": "pwr_energy.pwr",
+    "offset": 488,
+    "length": 7,
+    "en": "Loyalty",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:499",
+    "source": "pwr_energy.pwr",
+    "offset": 499,
+    "length": 11,
+    "en": "Mass Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:514",
+    "source": "pwr_energy.pwr",
+    "offset": 514,
+    "length": 14,
+    "en": "Directed Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:532",
+    "source": "pwr_energy.pwr",
+    "offset": 532,
+    "length": 9,
+    "en": "Mind Mask",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:545",
+    "source": "pwr_energy.pwr",
+    "offset": 545,
+    "length": 10,
+    "en": "Mind Sense",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:559",
+    "source": "pwr_energy.pwr",
+    "offset": 559,
+    "length": 10,
+    "en": "Raise Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:573",
+    "source": "pwr_energy.pwr",
+    "offset": 573,
+    "length": 9,
+    "en": "Mass Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:586",
+    "source": "pwr_energy.pwr",
+    "offset": 586,
+    "length": 14,
+    "en": "Mass Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:604",
+    "source": "pwr_energy.pwr",
+    "offset": 604,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:619",
+    "source": "pwr_energy.pwr",
+    "offset": 619,
+    "length": 51,
+    "en": "Charge and release a powerful shock from your hand.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:674",
+    "source": "pwr_energy.pwr",
+    "offset": 674,
+    "length": 72,
+    "en": "Conceal your mind, making it difficult to detect.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:750",
+    "source": "pwr_energy.pwr",
+    "offset": 750,
+    "length": 83,
+    "en": "Continuously mask your mind from those that would sense it.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:837",
+    "source": "pwr_energy.pwr",
+    "offset": 837,
+    "length": 64,
+    "en": "Briefly confuse a target and cause them to not recognise others.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:905",
+    "source": "pwr_energy.pwr",
+    "offset": 905,
+    "length": 84,
+    "en": "Render target suspicious of those they would otherwise trust.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:993",
+    "source": "pwr_energy.pwr",
+    "offset": 993,
+    "length": 75,
+    "en": "Cause someone to trust you and follow your command.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1072",
+    "source": "pwr_energy.pwr",
+    "offset": 1072,
+    "length": 73,
+    "en": "Take direct control of a target's actions.\r\n\r\nRequires Union, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1149",
+    "source": "pwr_energy.pwr",
+    "offset": 1149,
+    "length": 49,
+    "en": "Cause a target to trust you for a short duration.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1202",
+    "source": "pwr_energy.pwr",
+    "offset": 1202,
+    "length": 84,
+    "en": "Command the dead to repossess their remains in your service.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1290",
+    "source": "pwr_energy.pwr",
+    "offset": 1290,
+    "length": 85,
+    "en": "Focus your mind to leave your body and enter the spirit realm.\r\n\r\nRequires Coherence.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1379",
+    "source": "pwr_energy.pwr",
+    "offset": 1379,
+    "length": 96,
+    "en": "Fully focus your mind to remain in spirit form indefinitely.\r\n\r\nRequires Revelation, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1479",
+    "source": "pwr_energy.pwr",
+    "offset": 1479,
+    "length": 51,
+    "en": "Cleanse a target's mind of concerns and aggression.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1534",
+    "source": "pwr_energy.pwr",
+    "offset": 1534,
+    "length": 73,
+    "en": "Cause the target to suffer an uncontrollable rage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1611",
+    "source": "pwr_energy.pwr",
+    "offset": 1611,
+    "length": 73,
+    "en": "Cause a target to be overcome with a feeling of dread.\r\n\r\nRequires Union.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1688",
+    "source": "pwr_energy.pwr",
+    "offset": 1688,
+    "length": 70,
+    "en": "Provide a target with a great surge in courage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1762",
+    "source": "pwr_energy.pwr",
+    "offset": 1762,
+    "length": 80,
+    "en": "Damage the link that sustains the dead, eventually severing it.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1846",
+    "source": "pwr_energy.pwr",
+    "offset": 1846,
+    "length": 66,
+    "en": "Continuously sense minds in your vicinity.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1916",
+    "source": "pwr_energy.pwr",
+    "offset": 1916,
+    "length": 60,
+    "en": "Cause a target to trust another for a time.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:1980",
+    "source": "pwr_energy.pwr",
+    "offset": 1980,
+    "length": 64,
+    "en": "Confuse multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:2048",
+    "source": "pwr_energy.pwr",
+    "offset": 2048,
+    "length": 65,
+    "en": "Cause fear in multiple targets with one binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:2117",
+    "source": "pwr_energy.pwr",
+    "offset": 2117,
+    "length": 63,
+    "en": "Enrage multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:2184",
+    "source": "pwr_energy.pwr",
+    "offset": 2184,
+    "length": 72,
+    "en": "Instill calm on multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_energy.pwr:2260",
+    "source": "pwr_energy.pwr",
+    "offset": 2260,
+    "length": 91,
+    "en": "Call the dead to repossess their remains, but without your binding.\r\n\r\nRequires Revelation.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1080",
+    "source": "pwr_force.pwr",
+    "offset": 1080,
+    "length": 4,
+    "en": "Wave",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1088",
+    "source": "pwr_force.pwr",
+    "offset": 1088,
+    "length": 6,
+    "en": "Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1098",
+    "source": "pwr_force.pwr",
+    "offset": 1098,
+    "length": 7,
+    "en": "Kinesis",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1109",
+    "source": "pwr_force.pwr",
+    "offset": 1109,
+    "length": 7,
+    "en": "Barrier",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1120",
+    "source": "pwr_force.pwr",
+    "offset": 1120,
+    "length": 9,
+    "en": "Mass Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1133",
+    "source": "pwr_force.pwr",
+    "offset": 1133,
+    "length": 5,
+    "en": "Blast",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1142",
+    "source": "pwr_force.pwr",
+    "offset": 1142,
+    "length": 7,
+    "en": "Strikes",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1153",
+    "source": "pwr_force.pwr",
+    "offset": 1153,
+    "length": 6,
+    "en": "Bubble",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1163",
+    "source": "pwr_force.pwr",
+    "offset": 1163,
+    "length": 8,
+    "en": "Momentum",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1175",
+    "source": "pwr_force.pwr",
+    "offset": 1175,
+    "length": 7,
+    "en": "Torrent",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1186",
+    "source": "pwr_force.pwr",
+    "offset": 1186,
+    "length": 9,
+    "en": "Barricade",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1199",
+    "source": "pwr_force.pwr",
+    "offset": 1199,
+    "length": 5,
+    "en": "Crush",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1208",
+    "source": "pwr_force.pwr",
+    "offset": 1208,
+    "length": 8,
+    "en": "Retrieve",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1220",
+    "source": "pwr_force.pwr",
+    "offset": 1220,
+    "length": 5,
+    "en": "Shell",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1229",
+    "source": "pwr_force.pwr",
+    "offset": 1229,
+    "length": 5,
+    "en": "Throw",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1238",
+    "source": "pwr_force.pwr",
+    "offset": 1238,
+    "length": 11,
+    "en": "Mass Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1253",
+    "source": "pwr_force.pwr",
+    "offset": 1253,
+    "length": 14,
+    "en": "Directed Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1271",
+    "source": "pwr_force.pwr",
+    "offset": 1271,
+    "length": 9,
+    "en": "Mind Mask",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1284",
+    "source": "pwr_force.pwr",
+    "offset": 1284,
+    "length": 4,
+    "en": "Bolt",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1292",
+    "source": "pwr_force.pwr",
+    "offset": 1292,
+    "length": 10,
+    "en": "Raise Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1306",
+    "source": "pwr_force.pwr",
+    "offset": 1306,
+    "length": 9,
+    "en": "Mass Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1319",
+    "source": "pwr_force.pwr",
+    "offset": 1319,
+    "length": 14,
+    "en": "Mass Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1337",
+    "source": "pwr_force.pwr",
+    "offset": 1337,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1352",
+    "source": "pwr_force.pwr",
+    "offset": 1352,
+    "length": 83,
+    "en": "Continuously mask your mind from those that would sense it.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1439",
+    "source": "pwr_force.pwr",
+    "offset": 1439,
+    "length": 83,
+    "en": "Form a bubble of impenetrable force around yourself.\r\n\r\nRequires Union, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1526",
+    "source": "pwr_force.pwr",
+    "offset": 1526,
+    "length": 22,
+    "en": "\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1552",
+    "source": "pwr_force.pwr",
+    "offset": 1552,
+    "length": 97,
+    "en": "Create a wall of force that prevents passage in one direction.\r\n\r\nRequires Expansion, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1653",
+    "source": "pwr_force.pwr",
+    "offset": 1653,
+    "length": 96,
+    "en": "Fully focus your mind to remain in spirit form indefinitely.\r\n\r\nRequires Revelation, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1753",
+    "source": "pwr_force.pwr",
+    "offset": 1753,
+    "length": 73,
+    "en": "Cause the target to suffer an uncontrollable rage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1830",
+    "source": "pwr_force.pwr",
+    "offset": 1830,
+    "length": 21,
+    "en": "\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1855",
+    "source": "pwr_force.pwr",
+    "offset": 1855,
+    "length": 60,
+    "en": "Cause a target to trust another for a time.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1919",
+    "source": "pwr_force.pwr",
+    "offset": 1919,
+    "length": 64,
+    "en": "Confuse multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:1987",
+    "source": "pwr_force.pwr",
+    "offset": 1987,
+    "length": 65,
+    "en": "Cause fear in multiple targets with one binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2056",
+    "source": "pwr_force.pwr",
+    "offset": 2056,
+    "length": 63,
+    "en": "Enrage multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2123",
+    "source": "pwr_force.pwr",
+    "offset": 2123,
+    "length": 72,
+    "en": "Instill calm on multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2199",
+    "source": "pwr_force.pwr",
+    "offset": 2199,
+    "length": 6,
+    "en": "Shield",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2209",
+    "source": "pwr_force.pwr",
+    "offset": 2209,
+    "length": 4,
+    "en": "Ward",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2217",
+    "source": "pwr_force.pwr",
+    "offset": 2217,
+    "length": 7,
+    "en": "Torrent",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2228",
+    "source": "pwr_force.pwr",
+    "offset": 2228,
+    "length": 8,
+    "en": "Levitate",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2240",
+    "source": "pwr_force.pwr",
+    "offset": 2240,
+    "length": 76,
+    "en": "Quickly form a barrier of dense force to protect you.\r\n\r\nRequires Coherence.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2320",
+    "source": "pwr_force.pwr",
+    "offset": 2320,
+    "length": 85,
+    "en": "Release a wave of force pushing away anything surrounding you.\r\n\r\nRequires Expansion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2409",
+    "source": "pwr_force.pwr",
+    "offset": 2409,
+    "length": 54,
+    "en": "Release a blast pushing away anything in front of you.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2467",
+    "source": "pwr_force.pwr",
+    "offset": 2467,
+    "length": 85,
+    "en": "Release a bolt of focused force able to hit distant targets.\r\n\r\nRequires Convergence.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2556",
+    "source": "pwr_force.pwr",
+    "offset": 2556,
+    "length": 63,
+    "en": "Envelop your body in shaped force, partially absorbing impacts.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2623",
+    "source": "pwr_force.pwr",
+    "offset": 2623,
+    "length": 42,
+    "en": "Bubble can be formed around other targets.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2669",
+    "source": "pwr_force.pwr",
+    "offset": 2669,
+    "length": 59,
+    "en": "Move and manipulate distant objects.\r\n\r\nRequires Coherence.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2732",
+    "source": "pwr_force.pwr",
+    "offset": 2732,
+    "length": 48,
+    "en": "Lift and throw objects towards a desired target.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2784",
+    "source": "pwr_force.pwr",
+    "offset": 2784,
+    "length": 73,
+    "en": "Empower your strikes to deliver stronger impacts.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_force.pwr:2861",
+    "source": "pwr_force.pwr",
+    "offset": 2861,
+    "length": 52,
+    "en": "Unleash a sustained stream of force in front of you.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1232",
+    "source": "pwr_mind.pwr",
+    "offset": 1232,
+    "length": 4,
+    "en": "Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1240",
+    "source": "pwr_mind.pwr",
+    "offset": 1240,
+    "length": 6,
+    "en": "Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1250",
+    "source": "pwr_mind.pwr",
+    "offset": 1250,
+    "length": 5,
+    "en": "Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1259",
+    "source": "pwr_mind.pwr",
+    "offset": 1259,
+    "length": 9,
+    "en": "Mask Mind",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1272",
+    "source": "pwr_mind.pwr",
+    "offset": 1272,
+    "length": 9,
+    "en": "Mass Calm",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1285",
+    "source": "pwr_mind.pwr",
+    "offset": 1285,
+    "length": 11,
+    "en": "Sense Minds",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1300",
+    "source": "pwr_mind.pwr",
+    "offset": 1300,
+    "length": 9,
+    "en": "Suspicion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1313",
+    "source": "pwr_mind.pwr",
+    "offset": 1313,
+    "length": 10,
+    "en": "Possession",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1327",
+    "source": "pwr_mind.pwr",
+    "offset": 1327,
+    "length": 4,
+    "en": "Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1335",
+    "source": "pwr_mind.pwr",
+    "offset": 1335,
+    "length": 9,
+    "en": "Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1348",
+    "source": "pwr_mind.pwr",
+    "offset": 1348,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1363",
+    "source": "pwr_mind.pwr",
+    "offset": 1363,
+    "length": 8,
+    "en": "Embolden",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1375",
+    "source": "pwr_mind.pwr",
+    "offset": 1375,
+    "length": 12,
+    "en": "Command Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1391",
+    "source": "pwr_mind.pwr",
+    "offset": 1391,
+    "length": 11,
+    "en": "Banish Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1406",
+    "source": "pwr_mind.pwr",
+    "offset": 1406,
+    "length": 7,
+    "en": "Loyalty",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1417",
+    "source": "pwr_mind.pwr",
+    "offset": 1417,
+    "length": 11,
+    "en": "Mass Enrage",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1432",
+    "source": "pwr_mind.pwr",
+    "offset": 1432,
+    "length": 14,
+    "en": "Directed Trust",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1450",
+    "source": "pwr_mind.pwr",
+    "offset": 1450,
+    "length": 9,
+    "en": "Mind Mask",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1463",
+    "source": "pwr_mind.pwr",
+    "offset": 1463,
+    "length": 10,
+    "en": "Mind Sense",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1477",
+    "source": "pwr_mind.pwr",
+    "offset": 1477,
+    "length": 10,
+    "en": "Raise Dead",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1491",
+    "source": "pwr_mind.pwr",
+    "offset": 1491,
+    "length": 9,
+    "en": "Mass Fear",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1504",
+    "source": "pwr_mind.pwr",
+    "offset": 1504,
+    "length": 14,
+    "en": "Mass Confusion",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1522",
+    "source": "pwr_mind.pwr",
+    "offset": 1522,
+    "length": 11,
+    "en": "Spirit Form",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1537",
+    "source": "pwr_mind.pwr",
+    "offset": 1537,
+    "length": 62,
+    "en": "Sense minds in your vicinity and reveal their emotional state.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1603",
+    "source": "pwr_mind.pwr",
+    "offset": 1603,
+    "length": 72,
+    "en": "Conceal your mind, making it difficult to detect.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1679",
+    "source": "pwr_mind.pwr",
+    "offset": 1679,
+    "length": 83,
+    "en": "Continuously mask your mind from those that would sense it.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1766",
+    "source": "pwr_mind.pwr",
+    "offset": 1766,
+    "length": 64,
+    "en": "Briefly confuse a target and cause them to not recognise others.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1834",
+    "source": "pwr_mind.pwr",
+    "offset": 1834,
+    "length": 84,
+    "en": "Render target suspicious of those they would otherwise trust.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:1922",
+    "source": "pwr_mind.pwr",
+    "offset": 1922,
+    "length": 75,
+    "en": "Cause someone to trust you and follow your command.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2001",
+    "source": "pwr_mind.pwr",
+    "offset": 2001,
+    "length": 73,
+    "en": "Take direct control of a target's actions.\r\n\r\nRequires Union, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2078",
+    "source": "pwr_mind.pwr",
+    "offset": 2078,
+    "length": 49,
+    "en": "Cause a target to trust you for a short duration.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2131",
+    "source": "pwr_mind.pwr",
+    "offset": 2131,
+    "length": 84,
+    "en": "Command the dead to repossess their remains in your service.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2219",
+    "source": "pwr_mind.pwr",
+    "offset": 2219,
+    "length": 85,
+    "en": "Focus your mind to leave your body and enter the spirit realm.\r\n\r\nRequires Coherence.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2308",
+    "source": "pwr_mind.pwr",
+    "offset": 2308,
+    "length": 96,
+    "en": "Fully focus your mind to remain in spirit form indefinitely.\r\n\r\nRequires Revelation, Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2408",
+    "source": "pwr_mind.pwr",
+    "offset": 2408,
+    "length": 51,
+    "en": "Cleanse a target's mind of concerns and aggression.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2463",
+    "source": "pwr_mind.pwr",
+    "offset": 2463,
+    "length": 73,
+    "en": "Cause the target to suffer an uncontrollable rage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2540",
+    "source": "pwr_mind.pwr",
+    "offset": 2540,
+    "length": 73,
+    "en": "Cause a target to be overcome with a feeling of dread.\r\n\r\nRequires Union.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2617",
+    "source": "pwr_mind.pwr",
+    "offset": 2617,
+    "length": 70,
+    "en": "Provide a target with a great surge in courage.\r\n\r\nRequires Inversion.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2691",
+    "source": "pwr_mind.pwr",
+    "offset": 2691,
+    "length": 80,
+    "en": "Damage the link that sustains the dead, eventually severing it.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2775",
+    "source": "pwr_mind.pwr",
+    "offset": 2775,
+    "length": 66,
+    "en": "Continuously sense minds in your vicinity.\r\n\r\nRequires Continuity.",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2845",
+    "source": "pwr_mind.pwr",
+    "offset": 2845,
+    "length": 60,
+    "en": "Cause a target to trust another for a time.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2909",
+    "source": "pwr_mind.pwr",
+    "offset": 2909,
+    "length": 64,
+    "en": "Confuse multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:2977",
+    "source": "pwr_mind.pwr",
+    "offset": 2977,
+    "length": 65,
+    "en": "Cause fear in multiple targets with one binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:3046",
+    "source": "pwr_mind.pwr",
+    "offset": 3046,
+    "length": 63,
+    "en": "Enrage multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:3113",
+    "source": "pwr_mind.pwr",
+    "offset": 3113,
+    "length": 72,
+    "en": "Instill calm on multiple targets with a single binding.\r\n\r\n<UNAVAILABLE>",
+    "extraction": "u32_length_prefixed"
+  },
+  {
+    "id": "pwr_mind.pwr:3189",
+    "source": "pwr_mind.pwr",
+    "offset": 3189,
+    "length": 91,
+    "en": "Call the dead to repossess their remains, but without your binding.\r\n\r\nRequires Revelation.",
+    "extraction": "u32_length_prefixed"
+  }
+]

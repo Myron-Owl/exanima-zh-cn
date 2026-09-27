@@ -1,0 +1,125 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "manual.movement",
+      "en": "\r\n[algn=2][tcol=FFE399]MOVEMENT[/tcol]\r\n[algn=0]\r\n[rimg=TutMvmnt01]\r\n\r\nMovement is performed with the right mouse button. Move the cursor further away to run. Hold [inpt4] to sprint when the cursor is further and run by default.\r\n\r\nSprinting can be extremely important in some situations. You may need to outrun something or cover a distance within a limited time.\r\n\r\nIf you need to adjust your character's position while using the mouse to perform another action, you can use the movement keys. It is strongly discouraged to use this as a primary input method, it does not allow turning with speed and accuracy, or sprinting.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]移动[/tcol]\r\n[algn=0]\r\n[rimg=TutMvmnt01]\r\n\r\n按住鼠标右键移动。光标离角色越远，角色就会奔跑；在远距离移动时按住 [inpt4] 即可冲刺。\r\n\r\n冲刺在某些情况下至关重要。你可能需要甩开追赶者，或在有限时间内跑过一段距离。\r\n\r\n使用鼠标执行其他操作时，若需要调整角色位置，可以使用移动键。但不建议把它作为主要移动方式，因为这种方式无法快速、准确地转向，也不能冲刺。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:movement"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.inventory",
+      "en": "\r\n[algn=2][tcol=FFE399]INVENTORY[/tcol]\r\n[algn=0]\r\n[rimg=TutInvtr01]\r\n\r\nPress [inpt10] to open your inventory. Drag items on to the character to equip them, drag them into the space below to carry them with you.\r\n\r\nYou can equip a primary and secondary set of items to your hands, then switch between them by pressing [inpt14].\r\n\r\nEncumbrance increases with items worn, items that are not currently equipped do not contribute to encumbrance.\r\n\r\nHowever, there is a limit to how much your character can carry with them, which includes worn items. Portable containers can help increase this limit.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]物品栏[/tcol]\r\n[algn=0]\r\n[rimg=TutInvtr01]\r\n\r\n按 [inpt10] 打开物品栏。将物品拖到角色身上即可装备；拖到下方区域则会随身携带。\r\n\r\n双手可以各设一套主装备和副装备，按 [inpt14] 可在两套装备之间切换。\r\n\r\n穿戴物品会增加行动负担；未装备的物品不会增加行动负担。\r\n\r\n角色的随身携带总量有限，已穿戴的物品也计入其中。便携容器可以提高这个上限。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:inventory"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.interaction",
+      "en": "\r\n[algn=2][tcol=FFE399]INTERACTION[/tcol]\r\n[algn=0]\r\n[rimg=TutIntr01]\r\n\r\nYou can move objects and operate things such as doors and levers simply by dragging them with the mouse. While moving lighter objects you can rotate them with the movement keys.\r\n\r\nIf you attempt to move an object beyond the interaction range or to an invalid position the cursor will change to reflect this.\r\n\r\nClick on an object to inspect it and bring up a description. Click the description to keep it open. Right click on any window to close it.\r\n\r\nDouble clicking will use keys or consumable items, open containers and search bodies. \r\nSome large doors that transition to new a location are also operated this way.\r\n\r\nSome actions require a target and the cursor will change to a reticle. For example, you must double click a key and then select what you wish to unlock with it.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]交互[/tcol]\r\n[algn=0]\r\n[rimg=TutIntr01]\r\n\r\n用鼠标拖动即可移动物体，或操作门和拉杆等装置。移动较轻的物体时，可用移动键旋转它们。\r\n\r\n若试图把物体移出交互范围或放到无效位置，光标会随之变化。\r\n\r\n单击物体可查看并显示其说明。单击说明可将窗口固定；右键单击任意窗口可将其关闭。\r\n\r\n双击可以使用钥匙或消耗品、打开容器以及搜查尸体。 \r\n通往其他区域的大门也以这种方式操作。\r\n\r\n有些操作需要指定目标，此时光标会变成准星。例如，先双击钥匙，再选择要用它开启的东西。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:interaction"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.encounters",
+      "en": "\r\n[algn=2][tcol=FFE399]ENCOUNTERS[/tcol]\r\n[algn=0]\r\n[rimg=TutEnctr01]\r\n\r\nEvery individual you meet is unique and will respond differently to your actions. Most are not aggressive unless threatened or intimidated.\r\n\r\nAs a general rule, avoid getting too close, making threatening movements or even prolonged eye contact before they have time to establish you are not a threat. Each individual remembers previous encounters with you and others, gradually forming stronger opinions.\r\n\r\nAs a player you're just one other inhabitant of this world. You don't have an inherent advantage over others, and there's no real incentive to killing them.\r\n\r\nIt is strongly advised that you avoid confrontation until you have some passable combat gear, particularly armour. Sustaining injuries is extremely undesirable and not easily remedied.\r\n\r\nDon't hesitate to flee a fight that might prove too costly. If you have not retaliated, your aggressor may even reevaluate you as not a threat and become peaceful.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]遭遇[/tcol]\r\n[algn=0]\r\n[rimg=TutEnctr01]\r\n\r\n你遇到的每个人都独一无二，对你的行为也会有不同反应。除非受到威胁或恐吓，大多数人不会主动攻击。\r\n\r\n在对方确认你没有威胁之前，通常应避免靠得太近、做出威胁动作，甚至长时间盯着对方。每个人都会记住与你及他人的过往遭遇，并逐渐形成更明确的看法。\r\n\r\n玩家也只是这个世界的一名居民。你并不天然强于他人，杀死他们通常也没有实际好处。\r\n\r\n在拥有勉强可靠的战斗装备，尤其是护甲之前，强烈建议避免冲突。受伤会带来严重后果，而且很难恢复。\r\n\r\n若一场战斗可能代价过高，应果断逃离。如果你没有还击，攻击者甚至可能重新判断你不具威胁并恢复平静。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:encounters"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.health",
+      "en": "\r\n[algn=2][tcol=FFE399]HEALTH[/tcol]\r\n[algn=0]\r\n[rimg=TutHelth01]\r\n\r\nHealth is divided into stamina and injury. Stamina is shown in yellow on your bar and is lost from effects that do not cause permanent injury, such as moderate impacts. When part of the bar turns red it is to represent injury.\r\n\r\nWhen stamina is depleted completely the character will lose consciousness, but ultimately survives. Stamina recovers rapidly, but injury limits how much stamina can be recovered.\r\r\nInjury eventually leads to death and is not easily treated. You will have opportunities to recover from injury, but this should not be relied on. You should avoid being wounded at all costs.\r\r\nArmour plays a fundamental role in protecting from injury, as well as mitigating impacts. Be extremely wary of combat with lethal weapons when not equipped with adequate armour.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]健康[/tcol]\r\n[algn=0]\r\n[rimg=TutHelth01]\r\n\r\n生命状态分为耐力与伤势。状态条中的黄色部分代表耐力，中等冲击等不会造成永久伤害的效果会消耗耐力；变红的部分则代表伤势。\r\n\r\n耐力完全耗尽时，角色会失去意识，但仍能存活。耐力恢复很快，伤势却会限制可恢复的耐力上限。\r\r\n伤势最终会导致死亡，而且难以治疗。游戏中虽有恢复伤势的机会，但不能依赖它；应尽一切可能避免受伤。\r\r\n护甲既能防止受伤，也能减轻冲击，作用至关重要。没有足够护甲时，与持有致命武器的敌人交战必须格外谨慎。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:health"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.saving",
+      "en": "\r\n[algn=2][tcol=FFE399]SAVING[/tcol]\r\n[algn=0]\r\nYour progress is regularly saved, you can quit and return to where you were at any point. You cannot manually save and load to travel in time and undo your mistakes. Being smart to avoid death and injury is a fundamental part of the game.\r\n\r\nThere are optional checkpoint saves you can enable in settings. These will permanently save your progress at various points in the game. If your character dies you will be able to return to the last checkpoint.\r\n\r\nYou are free to create as many games as you like and all will be saved. You can choose which one to play through the continue screen.",
+      "zh": "\r\n[algn=2][tcol=FFE399]保存进度[/tcol]\r\n[algn=0]\r\n游戏会定期保存进度，你可以随时退出，之后从原处继续。你无法通过手动存档和读档倒转时间、撤销错误；谨慎行动、避免死亡和受伤是游戏的核心。\r\n\r\n设置中可以启用可选的存档点。游戏会在若干位置永久保存进度；角色死亡后，可以返回最近的存档点。\r\n\r\n你可以建立任意数量的游戏进度，它们都会保存，并可在“继续”界面中选择要游玩的进度。",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:saving"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.skills",
+      "en": "\r\n[algn=2][tcol=FFE399]SKILLS[/tcol]\r\n[algn=0]\r\nPress [inpt11] to view and manage your character's skills.\r\n\r\nYou can train up to 5 techniques in each skill. Empty technique slots will show a plus icon when you are ready for new training. When you choose a new technique you will begin training, you will have access to it once complete.\r\n\r\nExperience is earned with everything you do and discover. Exploration, reading and acquiring new knowledge, discovering hidden objects and using new items for the first time are the largest source of experience. Combat against less threatening opponents yields negligible amounts.\r\n\r\nExperience takes time to process and absorb. If you gain much experience rapidly it may take some time before you'll see the effects. It is important that you are training skills or the experience will not be used.\r\n\r\nRoughly one quarter of all experience you earn will go towards your Global Experience. This provides starting experience for new characters, and is also applied retroactively to all existing characters when resuming a saved game.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]技能[/tcol]\r\n[algn=0]\r\n按 [inpt11] 查看并管理角色技能。\r\n\r\n每项技能最多可训练 5 种技巧。可以开始新训练时，空技巧栏会显示加号。选择新技巧后即开始训练，完成后便可使用。\r\n\r\n行动与发现都会带来经验。探索、阅读与获取新知识、发现隐藏物体，以及首次使用新物品，是经验的主要来源；与威胁较低的对手战斗只能获得少量经验。\r\n\r\n经验需要时间消化吸收。短时间获得大量经验后，可能要过一阵才会看到效果。务必保持技能处于训练状态，否则经验不会得到利用。\r\n\r\n你获得的经验约有四分之一会计入全局经验。它会为新角色提供初始经验；继续已有存档时，也会追溯应用到所有现有角色。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:skills"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.shields",
+      "en": "\r\n[algn=2][tcol=FFE399]SHIELDS[/tcol]\r\n[algn=0]\r\n[rimg=TutShld01]\r\n\r\nShields are excellent at fending off attacks and can also deliver a degree of passive protection as simple physical barriers.\r\n\r\nShields come in various shapes and sizes. Smaller shields are light and quick, supporting an offensive approach, large shields are typically cumbersome but offer great active and passive protection.\r\n\r\nBlocking with a shield is subject to its own stamina mechanic. Repeatedly blocking heavy blows, particularly receiving unexpected ones, will tire you. This slows subsequent blocking and reduces the ability to absorb impacts.\r\n\r\nThere are numerous skill techniques that can be trained to improve the use of shields significantly. A skilled shield user will create openings and attack and defend simultaneously.\r\n\r\nThe common properties of shields are:\r\n\r\n[tcol=FFE399]Weight[/tcol] affects the speed with which you are able to manoeuvre the shield.\r\n\r\n[tcol=FFE399]Impact[/tcol] is how well a shield can absorb strong forces to protect your arm and body from them.\r\n\r\n[tcol=FFE399]Encumbrance[/tcol] is how much the shield impedes your movements due to its mass and bulk.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]盾牌[/tcol]\r\n[algn=0]\r\n[rimg=TutShld01]\r\n\r\n盾牌非常适合抵挡攻击，也能作为实体屏障提供一定的被动防护。\r\n\r\n盾牌有多种形状和尺寸。小盾轻便迅捷，适合主动进攻；大盾通常较笨重，却能提供出色的主动与被动防护。\r\n\r\n持盾格挡有独立的耐力机制。反复承受重击，尤其是猝不及防的攻击，会使你疲惫，令后续格挡变慢，并降低吸收冲击的能力。\r\n\r\n许多技能技巧都能显著提升盾牌的使用能力。熟练的持盾者可以制造破绽，并同时完成攻防。\r\n\r\n盾牌的常见属性如下：\r\n\r\n[tcol=FFE399]重量[/tcol]会影响操控盾牌的速度。\r\n\r\n[tcol=FFE399]冲击防护[/tcol]表示盾牌吸收强大冲击、保护手臂和身体的能力。\r\n\r\n[tcol=FFE399]行动负担[/tcol]表示盾牌的重量和体积会在多大程度上妨碍行动。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:shields"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.armour",
+      "en": "\r\n[algn=2][tcol=FFE399]ARMOUR[/tcol]\r\n[algn=0]\r\n[rimg=TutArmr01]\r\n\r\nArmour offers essential protection against injury. Even a couple of layers of tough clothing can make the difference between a life threatening cut and a harmless graze.\r\n\r\nArmour only protects what it covers, and several layers can be worn over various parts of the body. Don't dismiss many cloth and other items, they can be worn in combination with armour, provide important padding underneath it and never become obsolete.\r\n\r\nArmour comes in various qualities depending on the item. Keep an eye out for better grades, it is desirable to wear better quality armour rather than just more of it.\r\n\r\nHeavier armour will encumber you. Encumbrance will have adverse effects on all your movements which may seem subtle but can be circumstantially crucial. There are armour skills that reduce encumbrance.\r\n\r\nThe common properties of armour are:\r\n\r\n[tcol=FFE399]Coverage [/tcol]represents how well the item covers your body compared to a similar item. If two near identical items have different coverage values, it is to represent small gaps or weaker areas.\r\n\r\n[tcol=FFE399]Impact [/tcol]indicates how much force armour can absorb. This not only protects against blunt force but can soften blows and reduce their lethality. Rigid or padded armour provides good impact protection.\r\n\r\n[tcol=FFE399]Slash [/tcol]represents how difficult it is to cut through the armour. Even a little slash protection can mean smaller shallower cuts, and heavy armour is typically completely proof against cutting.\r\n\r\n[tcol=FFE399]Crush [/tcol]is the armour's ability to withstand a focused force that might otherwise cause injury without actually penetrating it.\r\n\r\n[tcol=FFE399]Pierce[/tcol] represents how difficult it is to puncture the armour or for keen points to find their way through gaps and weaker areas.\r\n\r\n[tcol=FFE399]Encumbrance[/tcol] is how much the armour impedes movement. This broadly covers weight, stiffness and adverse effects on your senses or breathing.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]护甲[/tcol]\r\n[algn=0]\r\n[rimg=TutArmr01]\r\n\r\n护甲是避免受伤的重要保障。哪怕只是几层结实衣物，也可能让致命割伤变成无害擦伤。\r\n\r\n护甲只能保护覆盖到的部位，身体各处可以叠穿多层装备。不要轻视布料等物品；它们可以与护甲搭配穿戴，在下方提供重要缓冲，始终都有用处。\r\n\r\n护甲品质因物品而异。留意更高等级的装备；与其一味增加层数，通常更应该穿戴品质更好的护甲。\r\n\r\n沉重护甲会增加行动负担。它对各种动作的影响看似细微，在特定情形下却可能至关重要。护甲技能可以降低行动负担。\r\n\r\n护甲的常见属性如下：\r\n\r\n[tcol=FFE399]覆盖率 [/tcol]表示该物品与同类装备相比，对身体的覆盖程度。两件近乎相同的物品若覆盖率不同，说明其中一件存在小块空隙或薄弱区域。\r\n\r\n[tcol=FFE399]冲击防护 [/tcol]表示护甲能吸收多少力量。它不仅能抵御钝力，还能缓冲打击、降低致命性。硬质或带衬垫的护甲通常有良好的冲击防护。\r\n\r\n[tcol=FFE399]斩击防护 [/tcol]表示砍穿护甲的难度。少量斩击防护也能让伤口更小、更浅；重型护甲通常可以完全抵挡切割。\r\n\r\n[tcol=FFE399]钝击防护 [/tcol]表示护甲抵御集中力量的能力；这类力量即使不穿透护甲，也可能造成伤害。\r\n\r\n[tcol=FFE399]穿刺防护[/tcol]表示刺穿护甲的难度，以及尖锐武器穿过缝隙和薄弱区域的难度。\r\n\r\n[tcol=FFE399]行动负担[/tcol]表示护甲妨碍行动的程度，涵盖重量、僵硬度，以及对感官或呼吸的不利影响。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:armour"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.weapons",
+      "en": "\r\n[algn=2][tcol=FFE399]WEAPONS[/tcol]\r\n[algn=0]\r\n[rimg=TutWepns01]\r\n\r\nWeapons in Exanima are varied in their behaviour. The shape, length and specific balance of a weapon are often more important than any stats displayed. Personal preference and experience are also significant.\r\n\r\nWeapons and other objects do not use hitboxes, collisions are based on the weapon as you see it. Damage is entirely determined by the force and geometry of the impact.\r\n\r\nSwords are nimble and cut with their entire length; axes deliver heavy chops, but only if hitting with the head, which may also reach past an attempted block; maces and hammers can do some serious damage even through heavy armour. There are many weapons with various advantages and drawbacks.\r\n\r\nThe common properties of weapons are:\r\n\r\n[tcol=FFE399]Weight[/tcol] is simply the mass of the weapon. Heavier weapons are generally slower but hit harder.\r\n\r\n[tcol=FFE399]Balance [/tcol]is indicative of how responsive a weapon is. Balanced weapons tend to transition quicker into new actions.\r\n\r\n[tcol=FFE399]Impact [/tcol]conveys how much force a weapon can typically deliver. Impacts can render someone unconscious and cause brief debilitating effects, but do not cause permanent injury unless extremely heavy. Impact force also plays an important role in the effectiveness of other damage types.\r\n\r\n[tcol=FFE399]Slash [/tcol]indicates how sharp a weapon is. Slashing damage can cut with minimal force, however such cuts are easily mitigated by most armour.\r\n\r\n[tcol=FFE399]Pierce [/tcol]damage is delivered by keen points. Piercing can more easily do damage through the smaller gaps in armour.\r\n\r\n[tcol=FFE399]Crush [/tcol]damage can deliver significant force even through heavier armour, however particularly impactful blows are required to make it effective.\r\n\r\n[tcol=FFE399]Thrust [/tcol]is piercing damage delivered by thrusting. Thrusts however also deliver some impact damage and may circumstantially apply slash damage.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]武器[/tcol]\r\n[algn=0]\r\n[rimg=TutWepns01]\r\n\r\n《Exanima》中的武器各有不同表现。武器的形状、长度和具体重心往往比显示出的数值更重要，个人偏好与使用经验同样关键。\r\n\r\n武器和其他物体不使用抽象碰撞箱；你看到的武器外形就是实际碰撞范围。伤害完全由碰撞的力量和几何关系决定。\r\n\r\n剑灵活敏捷，整段剑刃都能切割；斧头能造成沉重劈砍，但必须以斧刃命中，斧头也可能绕过对方的格挡；钉头锤和战锤即使面对重甲也能造成严重伤害。众多武器各有优劣。\r\n\r\n武器的常见属性如下：\r\n\r\n[tcol=FFE399]重量[/tcol]就是武器的质量。较重的武器通常更慢，但打击更有力。\r\n\r\n[tcol=FFE399]平衡 [/tcol]反映武器的操控响应。平衡性好的武器通常能更快衔接下一动作。\r\n\r\n[tcol=FFE399]冲击 [/tcol]表示武器通常能传递多大力量。冲击可以使人昏迷并短暂失去行动能力，但除非力量极大，否则不会造成永久伤害。冲击力也会显著影响其他伤害类型的效果。\r\n\r\n[tcol=FFE399]斩击 [/tcol]表示武器的锋利程度。斩击只需较小力量就能造成切割，但大多数护甲都能轻易减轻这种伤害。\r\n\r\n[tcol=FFE399]穿刺 [/tcol]伤害由尖锐部位造成，更容易穿过护甲的细小缝隙造成伤害。\r\n\r\n[tcol=FFE399]钝击 [/tcol]伤害即使隔着重甲也能传递大量力量，但需要冲击力特别强的打击才有效。\r\n\r\n[tcol=FFE399]突刺 [/tcol]是通过刺击造成的穿刺伤害；刺击也会带来一定冲击伤害，并可能在特定情况下造成斩击伤害。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:weapons"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.thaumaturgy",
+      "en": "\r\n[algn=2][tcol=FFE399]THAUMATURGY[/tcol]\r\n[algn=0]\r\nSome characters have access to psychic abilities, known as Thaumaturgy.\r\n\r\nIf you play such a character you can press [inpt17] to see your current powers, choose which powers to learn and prepare them for use. Hover over each power to see its description.\r\n\r\nPress [inpt16] to show your prepared and active powers, then the corresponding number key to use a power or toggle it.\r\n\r\nDepending on the power, you may need to use the cursor for targeting, and your accuracy may also be important, affecting the strength of the power. For Mind, this tends to be target's head.\r\n\r\nYou may need specific character skills to learn certain powers and discover new ones. Skills can also help you use your powers more efficiently.\r\n\r\n\r\n[algn=2][tcol=FFE399]FOCUS[/tcol]\r\n[algn=0]\r\nYour ability to use powers is determined by your mental focus, represented by the blue bar at the bottom of your screen. This is exhausted whenever you use a power, and recovers slowly over time.\r\n\r\nThe are three main ways in which powers consume focus:\r\n\r\n[tcol=FFE399]Immediate[/tcol] powers simply consume a fixed amount;\r\n\r\n[tcol=FFE399]Sustained[/tcol] powers gradually use focus for their entire duration;\r\n\r\n[tcol=FFE399]Continuous[/tcol] powers reserve an amount of your focus until disrupted or released.\r\n\r\nSeveral skill techniques affect your focus. [tcol=FFE399]Clarity[/tcol] increases your focus recovery, [tcol=FFE399]Iteration[/tcol] reduces focus consumed for subsequent uses of the same power, [tcol=FFE399]Sustain[/tcol] reduces focus consumed by sustained powers, and [tcol=FFE399]Abstraction[/tcol] reduces focus reserved by continuous powers. \r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]异能术[/tcol]\r\n[algn=0]\r\n部分角色可以使用称为“异能术”的心灵能力。\r\n\r\n使用这类角色时，按 [inpt17] 可查看当前异能、选择要学习的异能并准备使用。将光标移到异能上可查看说明。\r\n\r\n按 [inpt16] 显示已准备和正在生效的异能，再按对应数字键使用或切换异能。\r\n\r\n根据异能类型，你可能需要用光标瞄准；准确度也会影响异能强度。使用心智异能时，通常应瞄准目标头部。\r\n\r\n学习某些异能和发现新异能可能需要特定角色技能；技能也能提高异能的使用效率。\r\n\r\n\r\n[algn=2][tcol=FFE399]专注力[/tcol]\r\n[algn=0]\r\n使用异能的能力取决于心灵专注力，画面底部的蓝色条表示其余量。施展异能会消耗专注力，之后会随时间缓慢恢复。\r\n\r\n异能主要以三种方式消耗专注力：\r\n\r\n[tcol=FFE399]即时[/tcol]异能会直接消耗固定数值；\r\n\r\n[tcol=FFE399]持续施放[/tcol]异能会在整个生效期间逐渐消耗专注力；\r\n\r\n[tcol=FFE399]常驻[/tcol]异能会占用一部分专注力，直到异能被中断或解除。\r\n\r\n多种技能技巧会影响专注力。[tcol=FFE399]清明[/tcol]提高专注力恢复速度，[tcol=FFE399]迭代[/tcol]降低连续使用同一异能的后续消耗，[tcol=FFE399]维持[/tcol]降低持续施放异能的消耗，[tcol=FFE399]抽象[/tcol]则减少常驻异能占用的专注力。 \r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:thaumaturgy"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "manual.combat",
+      "en": "\r\n[algn=2][tcol=FFE399]COMBAT[/tcol]\r\n[algn=0]\r\nThis game features a unique combat system where all motion and outcomes are determined by a physics simulation rather than fixed animations and simple rules. \r\n\r\nYour inputs must work in harmony with your character's motions and the physics affecting their body. This will take some deliberate practice, but in time it will feel fluid and intuitive.\r\n\r\n\r\n[algn=2][tcol=FFE399]MANOEUVERING[/tcol]\r\n\r\n[rimg=TutCmbt01]\r\n[algn=0]\r\nMovement doesn't just control your position, it is a fundamental part of all motion. Your character's body has weight and momentum, if you throw your weight around erratically you will stumble and flail awkwardly, just as you would in the real world.\r\n\r\nDon't move more than strictly necessary, stay balanced and ready so you can move when and how you need to. Your movements must be coordinated with your attacks and other actions. In another game one button may perform a complete motion, here you must make your own motions through a combination of inputs.\r\n\r\nPress [inpt9] to enter combat mode. The reticle now turns your character and aims your steps, attacks and parries. Press Forward to advance, Back to retreat, Left and Right to circle your target.\r\n\r\nTap the movement keys to take quick controlled steps. Holding the keys will perform large dashes or lunges, which are slower to recover from. You can change this dash behaviour in controls.\r\n\r\n\r\n\r\n[algn=2][tcol=FFE399]ATTACKING[/tcol]\r\n\r\n[rimg=TutCmbt02]\r\n[algn=0]\r\nDamage is determined by the forces involved in impacts. Footwork and body movement are crucial, most power comes from your body, not your arms. When attacking you must move and turn your body with the attack. Poorly coordinated attacks will be weak and look clumsy.\r\n\r\nTo initiate an attack hold down the left mouse button. If you move the reticle to your character's left before pressing the button, you will attack from the left. If you press, release and then hold you will swing from above.\r\n\r\nYou can release the button at any time to interrupt your attack. This can be used to feint or to transition into defending. You don't want to be swinging your weapon without good reason, release and recover as soon as you can.\r\n\r\nTo perform a thrust, hold [inpt13] and then mouse left. While thrusting you aim continuously with the reticle, targeting a specific point on your opponent.\r\n\r\nHow hard you hit, with what part of your weapon, at what angle, where you hit your opponent and how much armour they are wearing there are all critical. Attacking requires precision and tactics. Speed is not important, take your time and make it count. A single well placed hit can end a fight.\r\n\r\n\r\n[algn=2][tcol=FFE399]DEFENDING[/tcol]\r\n\r\n[rimg=TutCmbt03]\r\n[algn=0]\r\nWhen not attacking you will attempt to defend and parry. You can let go of an attack at any point to defend instead. Even if you do not successfully parry you will be less vulnerable when defending.\r\n\r\nParries and blocks are not binary actions, positioning and angles are important and ultimately physics will determine the outcome.\r\n\r\nYou can dodge attacks, or move to reduce their threat. For example, moving into an attack may allow you to block the arm or handle of the weapon with your own body, or reduce the power of the blow.\r\n",
+      "zh": "\r\n[algn=2][tcol=FFE399]战斗[/tcol]\r\n[algn=0]\r\n本作采用独特的战斗系统：所有动作和结果都由物理模拟决定，而不是固定动画与简单规则。 \r\n\r\n你的输入必须与角色动作及作用于身体的物理效果协调配合。这需要有意识地练习，但熟悉后会变得流畅而自然。\r\n\r\n\r\n[algn=2][tcol=FFE399]移动与身法[/tcol]\r\n\r\n[rimg=TutCmbt01]\r\n[algn=0]\r\n移动不仅决定位置，也是所有动作的基础。角色的身体具有重量和动量；若胡乱甩动重心，就会像现实中一样踉跄失衡、动作笨拙。\r\n\r\n不要做多余移动，应保持平衡和准备姿态，以便在需要时按合适方式行动。移动必须与攻击和其他动作配合。在其他游戏中，一个按键或许会完成整套动作；在这里，你必须通过多种输入组合亲自完成动作。\r\n\r\n按 [inpt9] 进入战斗模式。此时准星会控制角色朝向，并引导步伐、攻击与招架。按前进键逼近，后退键撤步，左右键则绕目标移动。\r\n\r\n轻点移动键可做出快速且受控的小步移动；按住则会大幅突进或跨步，之后恢复较慢。你可以在操作设置中调整这种突进方式。\r\n\r\n\r\n\r\n[algn=2][tcol=FFE399]攻击[/tcol]\r\n\r\n[rimg=TutCmbt02]\r\n[algn=0]\r\n伤害由碰撞时的力量决定。步法和身体移动至关重要；大部分力量来自身体，而非手臂。攻击时必须随招式移动并转动身体，配合不佳的攻击会软弱无力、显得笨拙。\r\n\r\n按住鼠标左键发起攻击。若在按键前把准星移到角色左侧，会从左侧攻击；若先按下、松开，再次按住，则会从上方挥击。\r\n\r\n随时松开按键都能中断攻击，可用于佯攻或转入防守。不要无缘无故挥舞武器，应尽快松键并恢复架势。\r\n\r\n要进行突刺，按住 [inpt13] 后再按鼠标左键。突刺过程中可持续用准星瞄准，攻击对手的特定部位。\r\n\r\n打击力度、武器命中的部位、碰撞角度、击中对手的位置，以及该部位的护甲厚度都至关重要。攻击需要精度和战术。速度并不重要，应稳住节奏，让每次攻击真正奏效；一次位置准确的打击就可能结束战斗。\r\n\r\n\r\n[algn=2][tcol=FFE399]防守[/tcol]\r\n\r\n[rimg=TutCmbt03]\r\n[algn=0]\r\n不在攻击时，角色会尝试防守和招架。攻击过程中也可随时松键转入防守。即使未能成功招架，防守状态下也不易受到重创。\r\n\r\n招架和格挡不是简单的成功或失败判定；位置和角度都很重要，最终结果由物理模拟决定。\r\n\r\n你可以闪避攻击，也可以通过移动降低其威胁。例如迎向攻击移动，可能让身体挡住对方手臂或武器柄，或削弱打击力量。\r\n",
+      "source": "manualkm.fds",
+      "source_ids": [
+        "manualkm.fds:combat"
+      ],
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

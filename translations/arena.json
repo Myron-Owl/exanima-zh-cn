@@ -1,0 +1,1499 @@
+{
+  "language": "zh-CN",
+  "entries": [
+    {
+      "id": "arena.0",
+      "en": "Arsenal",
+      "zh": "军械库",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b3e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.1",
+      "en": "ARSENAL",
+      "zh": "军械库",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a688"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.2",
+      "en": "Recruit",
+      "zh": "招募",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b408"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.3",
+      "en": "Hire",
+      "zh": "雇用",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b428",
+        "exe:0031c090"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.4",
+      "en": "HIRE",
+      "zh": "雇用",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a860"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.5",
+      "en": "Owned",
+      "zh": "持有",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b448"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.6",
+      "en": "Upkeep",
+      "zh": "日薪",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b468"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.7",
+      "en": "Earned today",
+      "zh": "今日收入",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b488"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.8",
+      "en": "Spent today",
+      "zh": "今日支出",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b4b0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.9",
+      "en": "End Day",
+      "zh": "结束当天",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031aca0",
+        "exe:0031b4d8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.10",
+      "en": "Records",
+      "zh": "战绩",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b518"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.11",
+      "en": "Status",
+      "zh": "状况",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b538"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.12",
+      "en": "Insufficient funds",
+      "zh": "资金不足",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031bff0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.13",
+      "en": "Recruitment",
+      "zh": "招募",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c020"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.14",
+      "en": "Points: ",
+      "zh": "点数： ",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c048"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.15",
+      "en": "Points: 0 / 5",
+      "zh": "点数：0 / 5",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a750"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.16",
+      "en": "You do not have room for any more fighters.",
+      "zh": "斗士名额已满。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c0b0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.17",
+      "en": "You already have a merchant in your employ.",
+      "zh": "你已经雇有一名商人。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c0f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.18",
+      "en": "You already have a physician in your employ.",
+      "zh": "你已经雇有一名医师。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c140"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.19",
+      "en": "You already have a trainer in your employ.",
+      "zh": "你已经雇有一名教练。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c188"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.20",
+      "en": "Dismiss",
+      "zh": "解雇",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a608",
+        "exe:0031a6f0",
+        "exe:0031c1d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.21",
+      "en": "Profession: Trainer",
+      "zh": "职业：教练",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c228"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.22",
+      "en": "Profession: Merchant",
+      "zh": "职业：商人",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c258"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.23",
+      "en": "Profession: Physician",
+      "zh": "职业：医师",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c288"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.24",
+      "en": "Profession: Combatant",
+      "zh": "职业：斗士",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a8c8",
+        "exe:0031c2b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.25",
+      "en": "Do you wish to forfeit the entire tourney?",
+      "zh": "是否退出整场锦标赛？",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c330"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.26",
+      "en": "Matches",
+      "zh": "比赛",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c378",
+        "exe:003238a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.27",
+      "en": "Match",
+      "zh": "比赛",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c398"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.28",
+      "en": "Tier",
+      "zh": "装备级别",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c3d8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.29",
+      "en": "Entry",
+      "zh": "报名费",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c3f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.30",
+      "en": "Prize",
+      "zh": "奖金",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ac80",
+        "exe:0031c418"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.31",
+      "en": "Event",
+      "zh": "项目",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c438"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.32",
+      "en": "Winner",
+      "zh": "胜者",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c458"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.33",
+      "en": "Name",
+      "zh": "姓名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c478"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.34",
+      "en": "Health",
+      "zh": "健康",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c498"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.35",
+      "en": "Tournament winners",
+      "zh": "锦标赛获胜者",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c4b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.36",
+      "en": "Enter",
+      "zh": "报名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ace0",
+        "exe:0031c4e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.37",
+      "en": "Begin",
+      "zh": "开始",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c508"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.38",
+      "en": "The tournament has ended.",
+      "zh": "锦标赛已结束。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c550"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.39",
+      "en": "No more events entered.",
+      "zh": "没有其他已报名的项目。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c588"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.40",
+      "en": "Tournament is in progress.",
+      "zh": "锦标赛正在进行。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c5b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.41",
+      "en": "Tournament begins tomorrow.",
+      "zh": "锦标赛明天开始。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c5f0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.42",
+      "en": "Company Records",
+      "zh": "战队战绩",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c6c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.43",
+      "en": "Company Status",
+      "zh": "战队状况",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c6e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.44",
+      "en": "A merchant is available for hire.",
+      "zh": "有一名商人可供雇用。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c900"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.45",
+      "en": "A trainer is available for hire.",
+      "zh": "有一名教练可供雇用。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031c980"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.46",
+      "en": "A physician is available for hire.",
+      "zh": "有一名医师可供雇用。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ca00"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.47",
+      "en": "The tournament takes place today.",
+      "zh": "锦标赛于今天举行。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ca80"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.48",
+      "en": "The tournament begins tomorrow.",
+      "zh": "锦标赛明天开始。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031cac0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.49",
+      "en": "Manage Company",
+      "zh": "管理战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031cc08",
+        "exe:00323dc0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.50",
+      "en": "Anything",
+      "zh": "不限类别",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d748"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.51",
+      "en": "Clothing & Armour",
+      "zh": "衣物与护甲",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d770"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.52",
+      "en": "Weapons",
+      "zh": "武器",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d7a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.53",
+      "en": "Any",
+      "zh": "不限",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d7c0",
+        "exe:003485d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.54",
+      "en": "Look for:",
+      "zh": "寻找：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d8a8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.55",
+      "en": "Rank:",
+      "zh": "级别：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d8d0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.56",
+      "en": "Pay:",
+      "zh": "支付：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d8f0",
+        "exe:0031dae0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.57",
+      "en": "You cannot afford this transaction.",
+      "zh": "你没有足够的钱完成这笔交易。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d910"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.58",
+      "en": "Owned:",
+      "zh": "持有：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d950"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.59",
+      "en": "Trade",
+      "zh": "交易",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031d970",
+        "exe:0031db28"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.60",
+      "en": "Restock",
+      "zh": "补充货品",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031da98"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.61",
+      "en": "Transaction",
+      "zh": "交易",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031dab8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.62",
+      "en": "Receive:",
+      "zh": "获得：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031db00"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.63",
+      "en": "CLOSE",
+      "zh": "关闭",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a840",
+        "exe:0031b1c8",
+        "exe:0031b368"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.64",
+      "en": "Hire Fee:",
+      "zh": "雇用费：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a880"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.65",
+      "en": "Upkeep:",
+      "zh": "日薪：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a8a8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.66",
+      "en": "Combatants can fight in your stead, or by your side in team matches.",
+      "zh": "斗士可以代你出战，也可以在团队赛中与你并肩作战。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a8f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.67",
+      "en": "Merchants provide an inventory of items for you to buy. They can help you find more specific items by providing stock of a particular type and rank.",
+      "zh": "商人提供可供购买的货品。你可以指定类别和级别，让商人进货时寻找所需的装备。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031a958"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.68",
+      "en": "Physicians improve the rate of healing of your fighters and can save fighters from death if the injuries sustained aren't too severe.",
+      "zh": "医师能加快斗士的伤势恢复。只要伤势不太严重，他们还能挽救濒死的斗士。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031aa08"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.69",
+      "en": "Trainers increase the rate at which your fighters learn skills. They can also teach the techniques they know to your fighters when they are idle.",
+      "zh": "教练能加快斗士学习技能的速度。斗士闲暇时，教练也能传授自己掌握的技巧。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031aaa8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.70",
+      "en": "Standard",
+      "zh": "常规赛",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ab58"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.71",
+      "en": "Specials",
+      "zh": "特别赛",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ab80"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.72",
+      "en": "Tournament",
+      "zh": "锦标赛",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031aba8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.73",
+      "en": "Tournaments",
+      "zh": "锦标赛",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00324278"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.74",
+      "en": "Season",
+      "zh": "赛季",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031abd0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.75",
+      "en": "Entry:",
+      "zh": "报名费：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031abf0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.76",
+      "en": "Prize:",
+      "zh": "奖金：",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ac10"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.77",
+      "en": "Available",
+      "zh": "可报名",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ac30"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.78",
+      "en": "Entered 1/1",
+      "zh": "已报名 1/1",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ac58"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.79",
+      "en": "Forfeit",
+      "zh": "弃权",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ad00"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.80",
+      "en": "Prize for this season",
+      "zh": "本赛季奖励",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ad20"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.81",
+      "en": "Weapon Restriction",
+      "zh": "武器限制",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ad50"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.82",
+      "en": "Choose",
+      "zh": "选择",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ad80"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.83",
+      "en": "Matches won",
+      "zh": "获胜场数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ae20"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.84",
+      "en": "Matches lost",
+      "zh": "落败场数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031ae68"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.85",
+      "en": "Matches forfeited",
+      "zh": "弃权场数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031aeb0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.86",
+      "en": "Tournaments won",
+      "zh": "锦标赛夺冠次数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031af00"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.87",
+      "en": "Tournaments lost",
+      "zh": "锦标赛落败次数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031af48"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.88",
+      "en": "Seasons won",
+      "zh": "赛季夺冠次数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031af98"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.89",
+      "en": "Beasts fought",
+      "zh": "挑战巨兽次数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031afe0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.90",
+      "en": "Beasts defeated",
+      "zh": "击败巨兽次数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b028"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.91",
+      "en": "Total Hires",
+      "zh": "累计雇用人数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b070"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.92",
+      "en": "Deaths",
+      "zh": "死亡人数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b0b8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.93",
+      "en": "Fired",
+      "zh": "解雇人数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b0f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.94",
+      "en": "Total earned",
+      "zh": "总收入",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b138"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.95",
+      "en": "Total spent",
+      "zh": "总支出",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b180"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.96",
+      "en": "Renown",
+      "zh": "名望",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b218"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.97",
+      "en": "Reputation",
+      "zh": "声誉",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b258"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.98",
+      "en": "Morale",
+      "zh": "士气",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b2a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.99",
+      "en": "Good",
+      "zh": "良好",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b2c0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.100",
+      "en": "Total Staff",
+      "zh": "人员总数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b2e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.101",
+      "en": "Masters",
+      "zh": "大师人数",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b328"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.102",
+      "en": "None",
+      "zh": "无",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b348",
+        "exe:0034d3e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.103",
+      "en": "Roster",
+      "zh": "人员名册",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b388"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.104",
+      "en": "Report",
+      "zh": "报告",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:002fd188",
+        "exe:003049a0",
+        "exe:00316bf0",
+        "exe:0031b3a8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.105",
+      "en": "Manage",
+      "zh": "管理",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b3c8",
+        "exe:00323f68"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.106",
+      "en": "Don't show again",
+      "zh": "不再显示",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003235e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.107",
+      "en": "Getting Started",
+      "zh": "入门指引",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00323618"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.108",
+      "en": "Trading",
+      "zh": "交易",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00323ba0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.109",
+      "en": "WARNING",
+      "zh": "警告",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003240e0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.110",
+      "en": "Purchased Items",
+      "zh": "已购物品",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003241d8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.111",
+      "en": "Choose which new power you wish to learn first.",
+      "zh": "选择你想先学习的新异能。",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00327408"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.112",
+      "en": "Bonten Company",
+      "zh": "邦滕战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319ac8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.113",
+      "en": "Fitten Gang",
+      "zh": "菲滕帮",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319af0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.114",
+      "en": "Vanrel's Band",
+      "zh": "范雷尔战团",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319b18"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.115",
+      "en": "Mowbrots Bunch",
+      "zh": "莫布罗特一伙",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319b40"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.116",
+      "en": "Dullos Company",
+      "zh": "杜洛斯战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319b68"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.117",
+      "en": "Dayker's Crew",
+      "zh": "戴克战团",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319b90"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.118",
+      "en": "Lofton Company",
+      "zh": "洛夫顿战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319bb8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.119",
+      "en": "Frerren Section",
+      "zh": "弗雷伦分队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319be0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.120",
+      "en": "Evelique Company",
+      "zh": "埃维利克战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319c08"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.121",
+      "en": "Bantree Outfit",
+      "zh": "班特里战团",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319c38"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.122",
+      "en": "Forriel Company",
+      "zh": "福里尔战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319c60"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.123",
+      "en": "Rallop Company",
+      "zh": "拉洛普战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319c88"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.124",
+      "en": "Queedell's Knot",
+      "zh": "奎德尔同盟",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319cb0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.125",
+      "en": "Clivard's Lot",
+      "zh": "克利瓦德一伙",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319cd8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.126",
+      "en": "Westryn Company",
+      "zh": "韦斯特林战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319d00"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.127",
+      "en": "Hisselmore Guard",
+      "zh": "希瑟尔莫卫队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319d28"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.128",
+      "en": "Greenque Pact",
+      "zh": "格林克盟约",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319d58"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.129",
+      "en": "Solden Corpora",
+      "zh": "索尔登兵团",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319d80"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.130",
+      "en": "Rickwich Fellers",
+      "zh": "里克维奇伐木帮",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319da8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.131",
+      "en": "The Jolly Ranchers",
+      "zh": "快乐牧人战队",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:0031b1e8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.132",
+      "en": "Billhook (short)",
+      "zh": "短柄钩镰",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003194c8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.133",
+      "en": "Sickle (short)",
+      "zh": "短柄镰刀",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003194f8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.134",
+      "en": "Billhook (long)",
+      "zh": "长柄钩镰",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319578"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.135",
+      "en": "Sickle (long)",
+      "zh": "长柄镰刀",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003195a0"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.136",
+      "en": "Iron-Shod Quarterstaff",
+      "zh": "铁箍长棍",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319548"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.137",
+      "en": "Two Handed War Hammer",
+      "zh": "双手战锤",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00319720"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.138",
+      "en": "COMPANY NAME",
+      "zh": "战队名称",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345a08"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.139",
+      "en": "Company Name",
+      "zh": "战队名称",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:003463a8"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.140",
+      "en": "COMPANY EMBLEM",
+      "zh": "战队徽记",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345a30"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.141",
+      "en": "Background",
+      "zh": "底色",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345a58"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.142",
+      "en": "Design",
+      "zh": "图案",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345b10",
+        "exe:0034cd78",
+        "exe:0034d160"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.143",
+      "en": "Mirror",
+      "zh": "镜像",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345aa0",
+        "exe:00345b50"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.144",
+      "en": "Colour 1",
+      "zh": "颜色 1",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345ac0",
+        "exe:00345b70"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.145",
+      "en": "Colour 2",
+      "zh": "颜色 2",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345ae8",
+        "exe:00345b98"
+      ],
+      "status": "translated_not_visual_verified"
+    },
+    {
+      "id": "arena.146",
+      "en": "Randomise",
+      "zh": "随机生成",
+      "source": "Exanima.exe",
+      "source_ids": [
+        "exe:00345bc0"
+      ],
+      "status": "translated_not_visual_verified"
+    }
+  ]
+}

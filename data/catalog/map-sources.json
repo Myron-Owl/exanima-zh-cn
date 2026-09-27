@@ -1,0 +1,986 @@
+[
+  {
+    "id": "arenahub.rfc:rdb:0",
+    "source": "arenahub.rfc",
+    "offset": 87896,
+    "length": 78,
+    "en": "A nice looking bottle. You notice someone scratched \"Rob\" on the bottom of it.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:2",
+    "source": "arenahub.rfc",
+    "offset": 88517,
+    "length": 36,
+    "en": "The Healing Power of Flora and Fungi",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:3",
+    "source": "arenahub.rfc",
+    "offset": 91550,
+    "length": 276,
+    "en": "An extensive list of recipes to help cure all manner of common ailments. Ointments, poultices, drinks and soups, the remedies are accompanied by colourful illustrations and even guides as to where one may locate the relevant plants, herbs and mushrooms contained within them. ",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:4",
+    "source": "arenahub.rfc",
+    "offset": 92182,
+    "length": 503,
+    "en": "A guide to blood and its many uses in the field of medicine. How blood functions in the body and why it is so vital to health. There are also sections of the book that deal with the history of blood work in the medical field, and the mythology and folklore surrounding blood in a more general sense. Apparently there was once a cult that mimicked a certain annoying insect and sustained themselves on a diet of nothing but the blood of other humans, believing mistakenly it would give them eternal life.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:5",
+    "source": "arenahub.rfc",
+    "offset": 88553,
+    "length": 18,
+    "en": "The Book of Stones",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:6",
+    "source": "arenahub.rfc",
+    "offset": 91826,
+    "length": 352,
+    "en": "Not, as one may guess, a guide to the treatment of liver and bladder stones. Rather an elaborate and extensive list of minerals, their properties, and how one may use them in medicinal practices. The largest section of the book deals with the processes that must be followed in order to properly extract a specific mineral from certain types of rock.\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:7",
+    "source": "arenahub.rfc",
+    "offset": 88571,
+    "length": 24,
+    "en": "The Practitioner's Guide",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:8",
+    "source": "arenahub.rfc",
+    "offset": 89375,
+    "length": 628,
+    "en": "Book I - Diagnosis\r\n\r\nExplains the necessary steps required to properly diagnose a patient's condition or disease. Notable chapters include: Physical testing and examination. Determining a patient's medical history by means of written record. Determining a patient's medical history by interview or questionnaire. Diagnostic procedures. How best to avoid misdiagnosis. How best to give the bad news. How best to avoid contracting illness yourself. Lastly a chapter called: What is that? No I'm not touching it, get away from me! Deals with the most grotesque and repulsive boils, warts, rashes and sexually transmitted diseases.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:9",
+    "source": "arenahub.rfc",
+    "offset": 88595,
+    "length": 18,
+    "en": "The Power of Blood",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:10",
+    "source": "arenahub.rfc",
+    "offset": 88613,
+    "length": 24,
+    "en": "The Practitioner's Guide",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:11",
+    "source": "arenahub.rfc",
+    "offset": 89111,
+    "length": 264,
+    "en": "Book II - Anatomy\r\n\r\nA detailed guide to the human anatomy. Every limb, organ, vessel, tissue, bone and muscle broken down and elaborated on to great extent. Full of near perfectly accurate illustrations, strange sounding names and terms, and lists of functions.\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:12",
+    "source": "arenahub.rfc",
+    "offset": 88637,
+    "length": 24,
+    "en": "The Practitioner's Guide",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:13",
+    "source": "arenahub.rfc",
+    "offset": 88793,
+    "length": 318,
+    "en": "Book III - Treatment \r\n\r\nA glossary of every known condition or disease. The book does not offer specifics in how to prepare and administer treatments. Rather it lists the name of the illness then references other books where the specifics may be found, mainly within The Books of Healing written by the same author.\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:14",
+    "source": "arenahub.rfc",
+    "offset": 88661,
+    "length": 20,
+    "en": "The Books of Healing",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:15",
+    "source": "arenahub.rfc",
+    "offset": 88681,
+    "length": 20,
+    "en": "The Books of Healing",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:16",
+    "source": "arenahub.rfc",
+    "offset": 88701,
+    "length": 20,
+    "en": "The Books of Healing",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:17",
+    "source": "arenahub.rfc",
+    "offset": 88721,
+    "length": 20,
+    "en": "The Books of Healing",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:18",
+    "source": "arenahub.rfc",
+    "offset": 90003,
+    "length": 405,
+    "en": "Book I - Herbs and Plants \r\n\r\nAn extensive examination of the healing properties of herbs and plants. The book is organised into two sections. The first lists individual plants and herbs, what properties they have and the \r\nillnesses they treat, even going as far as how best to cultivate them. The second is dedicated to the preparation of medicines, often involving highly complex and laborious methods.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:19",
+    "source": "arenahub.rfc",
+    "offset": 90408,
+    "length": 279,
+    "en": "Book II - Animals \r\n\r\nPrimarily details the usage of animals in the preparation of various medicines. Everything from breast milk, to gall, to ground bone marrow and even brain tissue, are suggested as vital ingredients in treatments for a range of diseases and lesser ailments. ",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:20",
+    "source": "arenahub.rfc",
+    "offset": 90687,
+    "length": 391,
+    "en": "Book III - Oils, Potions and Brews \r\n\r\nA kind of extension to the first two books in the series. This book covers old ground, as well as going into deeper detail on the preparation of various healing liquids. It also introduces new, more advanced, and sometimes esoteric methods. Many ingredients for the brews and oils it lists can not be found on the surface and are totally unfamiliar. \r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "arenahub.rfc:rdb:21",
+    "source": "arenahub.rfc",
+    "offset": 91078,
+    "length": 472,
+    "en": "Book IV = Amulets \r\n\r\nA list of unknown legendary objects with healing proprieties.\r\nA wild tangent is taken in the series here as it seems to primarily deal with thaumaturgic principles. Very little of it can be understood, other than the names and properties of various rare or totally unknown substances. The processes and methods it details are too far fetched to be accurate, perhaps the author wrote it in his old age, or perhaps it was meant as a work of fiction.\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:0",
+    "source": "exanima01.rfc",
+    "offset": 1744222,
+    "length": 33,
+    "en": "A tattered padded cloth gambeson.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:1",
+    "source": "exanima01.rfc",
+    "offset": 1744259,
+    "length": 55,
+    "en": "A pair of hardened leather vambraces in poor condition.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:2",
+    "source": "exanima01.rfc",
+    "offset": 1746973,
+    "length": 25,
+    "en": "A badly worn leather cap.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:3",
+    "source": "exanima01.rfc",
+    "offset": 1750886,
+    "length": 196,
+    "en": "A detailed log of various materials being delivered and dispatched. The script and some of the spelling seem very unusual. What you assume must be dates have a format that you can't make sense of.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:4",
+    "source": "exanima01.rfc",
+    "offset": 1744800,
+    "length": 203,
+    "en": "Consignment has arrived, I must find a suitable place and begin work. Finally I can resume living with a vague semblance of decency. I cannot stand this filth any longer, I've been living like an animal.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:5",
+    "source": "exanima01.rfc",
+    "offset": 1745003,
+    "length": 396,
+    "en": "They lose the will to live without their bodies. They seem completely bound to their mortal remains. Is it just because of their lesser minds? I have attempted to sustain one with nothing left but th...\r\n\r\nGods below, what am I doing? It is horrifying. Sometimes it is as if I suddenly wake to realise that I am fuelled by rage, as if I hold these poor souls responsible for what has befallen me.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:6",
+    "source": "exanima01.rfc",
+    "offset": 1745399,
+    "length": 356,
+    "en": "I think my illness has worsened since coming here, I often feel confused, as if battling conflicting thoughts. My temper keeps getting the better of me, an aggressive trait I never knew I posessed. Perhaps it is simply a response to all that has happened. Even so it scares me, I don't recognise myself. I must make a greater effort to retain my composure.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:7",
+    "source": "exanima01.rfc",
+    "offset": 1745755,
+    "length": 305,
+    "en": "So far results are disappointing. I suppose I should have expected as much after the initial dramatic progress. I am seeing some improvement but I feel as though I need a change in direction to really go further. If only poor Papin was still with me, exchanging thoughts with him would benefit me greatly.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:8",
+    "source": "exanima01.rfc",
+    "offset": 1746060,
+    "length": 461,
+    "en": "I feel a growing resentment for Thaven. On the one hand I wish to please him, to impress him, but such thoughts then lead me to anger. I once believed there was friendship between us, now I think perhaps it was based on naught but common interests. His disregard for all things other than his single minded purpose has hurt us, it has put us all in difficulty and danger. I was always feared, but I was also respected. To be driven from my own home by peasants!",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:9",
+    "source": "exanima01.rfc",
+    "offset": 1746521,
+    "length": 412,
+    "en": "Hamon has obviously cast aside our agreement. He's sending far too many down here and I've lost all contact with him. What is he trying to do? One of these wretches confessed that he was told to seek treasure. Someone will notice all these missing people. And what if one finds me while I sleep? I no longer feel safe here, I have locked the doors but I should venture further and look for something more secure.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:10",
+    "source": "exanima01.rfc",
+    "offset": 1750703,
+    "length": 183,
+    "en": "A log of work orders, it seems as though many people were involved in completing them. Most of the names seem strange and many items are described with words you've never seen before.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:11",
+    "source": "exanima01.rfc",
+    "offset": 1750516,
+    "length": 187,
+    "en": "A long list of people undergoing treatment of often grevious wounds. Many of the injuries appear to be bites and lacerations, presumably resulting from the attacks of some sort of animal.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:12",
+    "source": "exanima01.rfc",
+    "offset": 1757309,
+    "length": 271,
+    "en": "Sal,\r\n\r\nI will, though hurry back, he went for Fabon at inspection causing him to cry out. No harm was done but to his pride, his high pitch drew much laughter. He's declared him unfit for duty, and by the way he talks, we fear he may have more permanent plans. \r\n\r\nTaren",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:13",
+    "source": "exanima01.rfc",
+    "offset": 1751914,
+    "length": 164,
+    "en": "A catalogue exhaustively describing many common and unremarkable plants in great detail. It's hard to imagine why anyone would undertake such a pointless endeavour.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:14",
+    "source": "exanima01.rfc",
+    "offset": 1750077,
+    "length": 208,
+    "en": "A list of people assigned guard duty here. The same names are repeated, signed and stamped over and over again. Occasionally a name disappears suddenly and is replaced by another, no reason for this is noted.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:15",
+    "source": "exanima01.rfc",
+    "offset": 1749374,
+    "length": 6,
+    "en": "Letter",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:16",
+    "source": "exanima01.rfc",
+    "offset": 1749380,
+    "length": 529,
+    "en": "Dearest Mathis,\r\n\r\nElara has disappeared. Many have gone missing of late but bandits in the area are not uncommon. Elara however does not travel, why would they have taken her? I dread to think what they might do to her. I thought of a ransom and so, I am ashamed to admit, I thought of you. But there have been no requests for ransom, just more and more missing. I assume news of these events has not reached Ardent, it has been long since we've seen a proctor. What am I to do dear cousin? Will you at least advise me?\r\n\r\nTessa",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:17",
+    "source": "exanima01.rfc",
+    "offset": 1751770,
+    "length": 4,
+    "en": "Book",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:18",
+    "source": "exanima01.rfc",
+    "offset": 1752130,
+    "length": 345,
+    "en": "In response to our surprising failure we've installed Naiss's ingenious mechanism as a final precaution against intrusion. It can only be operated by those with knowledge of its workings. Simply press all the outer buttons but never two near eachother in sequence before operating it. This will surely keep them out no matter how smart they are.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:19",
+    "source": "exanima01.rfc",
+    "offset": 1752475,
+    "length": 344,
+    "en": "Darrin, please inform Naiss that he's an idiot. Only a handful of the soldiers are able to reliably operate the mechanism without incident. They don't even understand what they're doing wrong, clearly it is not as simple as he'd have us believe. We've had several incidents already and I'm now having to teach precautions to avoid being burned.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:20",
+    "source": "exanima01.rfc",
+    "offset": 1757696,
+    "length": 111,
+    "en": "Taren,\r\n\r\n Leave my key in Han's care. If you're called before I return, I pity any man who try take it.\r\n\r\nSal",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:21",
+    "source": "exanima01.rfc",
+    "offset": 1757811,
+    "length": 20,
+    "en": "The Canine Conductor",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima01.rfc:rdb:22",
+    "source": "exanima01.rfc",
+    "offset": 1757851,
+    "length": 284,
+    "en": "[algn=2][scrp=i]How to Form an Unbreakable Bond with Your Hounds[scrp=n][algn=0]\r\n\r\nHandlers and trainers of canines refer to this book for techniques to enhance the connection between humans and their hounds. It details training methods and rituals that ensure obedience and loyalty.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:0",
+    "source": "exanima02.rfc",
+    "offset": 3667245,
+    "length": 258,
+    "en": "That idiot and his thugs are still sending many down here. I must admit I am impressed by his methods, in some ways he is less a fool than he appears. I must take advantage of this and resume my research while I still can. I've yet to find a place where I w-",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:1",
+    "source": "exanima02.rfc",
+    "offset": 3669850,
+    "length": 377,
+    "en": "I have been informed that the conservers have spies amongst us. Despite our differences I cannot imagine that they're looking to harm us, or even impede our mission here. I cannot in truth see much reason to prevent them from knowing of our progress, I am inclined to just let them get their information rather than waste resources and encourage doubt and suspicion amongst us.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:2",
+    "source": "exanima02.rfc",
+    "offset": 3669126,
+    "length": 346,
+    "en": "This place begins to intrigue me. Thaven understands more things than I imagined. What if he is right? It would change everything. How could we be so ignorant? If I had more time I believe I would undertake his mission. I wonder what changes he has brought about by now with these discoveries. These are important times, I would live to see them.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:3",
+    "source": "exanima02.rfc",
+    "offset": 3668050,
+    "length": 552,
+    "en": "I'm sitting in a tavern, something I have not done a long time. Alas it is quite empty and all the drink has spoiled long ago.\r\n\r\n\r\nThese people cannot have been so different from us. And yet some things are very strange. There are lamps and even fires that never burn out, I do not understand the source of their power. These walls echo with the souls of the long dead but beneath that I sense something else, like a far reaching presence, it is faint but everywhere, and very strange. Could this be the mythical Guardian? Or even Thaven's Spellgiver?",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:4",
+    "source": "exanima02.rfc",
+    "offset": 3667503,
+    "length": 547,
+    "en": "I've been avoiding relations with my subjects as it could become a serious impediment to my work. I did not imagine that I would miss human contact so much. Papin could have carried my legacy but I now treasure his company and friendship more than anything. Even so I deeply regret the loss of a lifetime of imparted knowledge and teachings. If I were to succeed poor Papin would never truly have reaped the benefits of his apprenticeship but he accepted this and was always eager and gratef-\r\n\r\n-s too late now, I must not dwell on it any longer.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:5",
+    "source": "exanima02.rfc",
+    "offset": 3668602,
+    "length": 524,
+    "en": "I discovered a truly miraculous substance. It produces a faint light and a pungent odour, when I touched it a wound on my hand I acquired during my cuttings healed rapidly. It was astounding. I have experimented with it but so far it has proven ineffective against my illness. If only I could find more. It was well hidden, obviously it is something of great value. I thought perhaps the lamps contained this substance but I was unable to break one open, when I finally removed one from the wall it gradually lost its light.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:6",
+    "source": "exanima02.rfc",
+    "offset": 3669472,
+    "length": 378,
+    "en": "Clearly this was once a place of military activity, but who were they fighting? Were we once at war with these people? It would seem we won. How could such events be completely erased from our history? Thaven believes that somewhere down here lies the true source of our power. I cannot make sense of any of this, I wish now that I had been less dismissive of Thaven's theories.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:7",
+    "source": "exanima02.rfc",
+    "offset": 3673361,
+    "length": 230,
+    "en": "This log is filled with detailed reports of people violating certain rules. Most of these rules are obviously aimed at preventing the entry of intruders. They are strict and elaborate to the point of seeming a product of paranoia.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:8",
+    "source": "exanima02.rfc",
+    "offset": 3666925,
+    "length": 47,
+    "en": "A mouldy old scroll that's too damaged to read.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:9",
+    "source": "exanima02.rfc",
+    "offset": 3666972,
+    "length": 49,
+    "en": "A mouldy old scroll that's too damaged to read.\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:10",
+    "source": "exanima02.rfc",
+    "offset": 3671483,
+    "length": 10,
+    "en": "Old scroll",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:11",
+    "source": "exanima02.rfc",
+    "offset": 3671493,
+    "length": 377,
+    "en": "I have been informed that the conservers have spies amongst us. Despite our differences I cannot imagine that they're looking to harm us, or even impede our mission here. I cannot in truth see much reason to prevent them from knowing of our progress, I am inclined to just let them get their information rather than waste resources and encourage doubt and suspicion amongst us.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:12",
+    "source": "exanima02.rfc",
+    "offset": 3671870,
+    "length": 18,
+    "en": "The Kingdom Beyond",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:13",
+    "source": "exanima02.rfc",
+    "offset": 3671888,
+    "length": 1077,
+    "en": "The Kingdom Beyond by Alisian Dayen.\r\n\r\nIn a brutal battle a knight named Buto is trapped behind enemy lines. He fights valiantly but is overwhelmed and captured. His captors demand strategic information, but his interrogator is kind to him and tries to win him over to their cause. Buto is loyal to his king and will not give them anything of import. In time however a friendship is established between him and his interrogator. One day the interrogator reveals himself as the very king of Buto's captors and tells him that through their exchanges he has learned much to gain an advantage in the war. He offers Buto his freedom, so that he can return to his king and that one day they might meet again in battle. As Buto leaves his prison he sees the people he would assail in a new light and is disheartened, he knows too that he may be received by his own people as a traitor. And so he asks if he can stay and lead a simple life. The king consents, knowing that he will grow to love and cherish his new home and people, a formidable warrior who will rise to protect them.\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:14",
+    "source": "exanima02.rfc",
+    "offset": 3677191,
+    "length": 602,
+    "en": "A Handbook for Navigators\r\n\r\nThe pages of this book are filled with essential knowledge for plotting your course across unfamiliar lands. It uncovers the art of mapmaking, from the use of compasses to triangulating positions using either the sun, moon, stars, or even simply identifying features in the terrain helping to develop the artistic and technical skills necessary to craft accurate and visually appealing maps. With beautifully detailed illustrations and carefully written instructions, this book would clearly make a useful companion for anyone interested in learning the art of cartography.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima02.rfc:rdb:15",
+    "source": "exanima02.rfc",
+    "offset": 3677159,
+    "length": 32,
+    "en": "The Art and Science of Mapmaking",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima03.rfc:rdb:0",
+    "source": "exanima03.rfc",
+    "offset": 1811636,
+    "length": 411,
+    "en": "A proctor! Just as I feared, and yet I grew complacent. She was well prepared, obviously she had some idea of what to expect, it was only luck that she didn't kill me. I cannot stay here, I must hide and prepare defences. I don't know how I will be able to continue my work. The proctor would have made an excellent subject, a shame I had to kill her so. I will leave her here to impede any who would pursue me.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima03.rfc:rdb:1",
+    "source": "exanima03.rfc",
+    "offset": 1809949,
+    "length": 280,
+    "en": "One of my subjects found a most remarkable weapon and escaped, making quick work of anything in his path. I was surprised by his ability to guard his mind against me, I tracked his escape for some time but he then completely vanished from my senses. How did he do that? Who is he?",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima03.rfc:rdb:2",
+    "source": "exanima03.rfc",
+    "offset": 1810229,
+    "length": 480,
+    "en": "I have found a helmet which blocks my power when I wear it. Perhaps more importantly it shielded me from the noise of other minds, that presence that has haunted me since I came here was gone. Shortly after donning it I fell asleep, I am certain it was not its power that did this but the calm that came over me, I had not slept so well in quite some time. I feel certain now that it is this presence that causes unrest and aggressiveness in my subjects, clearly it is malevolent.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima03.rfc:rdb:3",
+    "source": "exanima03.rfc",
+    "offset": 1810709,
+    "length": 317,
+    "en": "I am certain that Zuiek is importing contraband goods. We have searched his lodgings and the glass workshop on several occasions but we never find anything, not even a hiding place he might use. That old toad has been here longer than any of us and he thinks he can outsmart us. I must be missing something, but what?",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima03.rfc:rdb:5",
+    "source": "exanima03.rfc",
+    "offset": 1811464,
+    "length": 172,
+    "en": "Zuiek,\r\n\r\nAs you know I have placed a very special order with you. Given the significant payment I have given you I expect prompt delivery, why have I yet to hear from you?",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima03.rfc:rdb:6",
+    "source": "exanima03.rfc",
+    "offset": 1811026,
+    "length": 284,
+    "en": "Some of the soldiers are trying to intimidate me into giving them certain items. I made the mistake of trying to explain why we limit their use, clearly they do not agree and now they dislike me more. Should I inform the captain? I see no choice that will not lead me to more trouble.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:0",
+    "source": "exanima04.rfc",
+    "offset": 162402,
+    "length": 424,
+    "en": "What terrible place is this? A thunderous voice shouts unintelligibly in my mind, as though trying to command me with wordless urgency. It's as though it wants to both urge me and sooth me, I am terrified that I may succumb to its will. This strange helm is my only respite, but it leaves me vulnerable.\r\n\r\nThere is also a constant wailing of ancient restless spirits, has this presence been keeping them from finding peace?",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:1",
+    "source": "exanima04.rfc",
+    "offset": 162830,
+    "length": 180,
+    "en": "Dassin, keep a watchful eye over the scribes and the archivists, especially the archivists. There have been many reports of things being taken and hidden away. We must be thorough.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:2",
+    "source": "exanima04.rfc",
+    "offset": 163010,
+    "length": 344,
+    "en": "Burn, burn it all! A lifetime watching over things that I must now quietly consign to the fires. For what? The teachings of a monstrous traitor? The sorry truth is that no one is willing now to admit they were wrong, too much was invested, it couldn't be for nothing. And so we go forth and burn the path behind us, let blind hope be our guide.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:3",
+    "source": "exanima04.rfc",
+    "offset": 163354,
+    "length": 290,
+    "en": "Our glorious hero is little more than a killer. Now that his deadly work is done he cares nothing for the consequences. Murder our gods so that we may be free. And lost. I will not forget who saved us from oblivion. We have been warned, far worse is coming and our demise is now inevitable.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:4",
+    "source": "exanima04.rfc",
+    "offset": 163644,
+    "length": 308,
+    "en": "Venerable Aderon, \r\n\r\nI understand that you are conflicted, but I must ask that you keep the voicing of your misgivings to within the council. You cannot hope to stop this now, you will only cause disquiet and potentially worse. Please, remember the responsibility that comes with your position.\r\n\r\nTerschenn",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:5",
+    "source": "exanima04.rfc",
+    "offset": 163952,
+    "length": 476,
+    "en": "I have never been so terrified. I was attacked by a huge dreadful creature. A demon perhaps? I tried to control it, but though its mind felt completely unguarded, it was oblivious to my intrusion. I was only able to confuse it briefly and get away, I am defenceless against this thing. I dare not venture out again.\r\n\r\nThese dead guards, perhaps I could call them to action. I don't imagine they could do much against such a monster, but the distraction might cover my escape.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:6",
+    "source": "exanima04.rfc",
+    "offset": 164468,
+    "length": 261,
+    "en": "When I took this oath I told myself my life no longer mattered. Now that courage, that sense of purpose, is fading fast. I look to the others for strength, but I find the same doubt in their eyes. They mocked us and now I see the truth of it. This is senseless.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:7",
+    "source": "exanima04.rfc",
+    "offset": 164769,
+    "length": 485,
+    "en": "I fear I don't have long left. I have abandoned my efforts to escape death. It was foolish, and yet I have accomplished so much. I must try to send word to Thaven, he will see the importance of my work, even though he is concerned with other matters.\r\n\r\nI believed Thaven's pursuits to be as hollow as my own, a stubborn refusal to accept bitter truths. After what I've seen here anything seems possible. I will spend the rest of my days discovering what I can, I can still be of help.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:8",
+    "source": "exanima04.rfc",
+    "offset": 165458,
+    "length": 584,
+    "en": "Venerable Kaeylen,\r\n\r\nForgive me if I speak so directly, but I won't hold my tongue given what I'm witness to. It cannot be what you intended, they are taking and burning everything! We will be left completely in the dark of our past, our mistakes, the threats that we've yet to face. No good can come of this, and those who bring it about seek only to rule absolute through the power of ignorance.\r\n\r\nI implore you to see the fault in this and put an end to it. This is not how we embark on a new path, we head towards nothing but our ultimate demise.\r\n\r\nYour humble servant,\r\nAderon",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima04.rfc:rdb:9",
+    "source": "exanima04.rfc",
+    "offset": 166058,
+    "length": 415,
+    "en": "Orenn,\r\n\r\nI commend you for intercepting this correspondence, you have been of great service.\r\n\r\nIt pains me to see him so misguided, his only fault is to believe too strongly in the quality of our spirit. This delusion of his and his very conviction is too dangerous, we cannot risk the harm he would do if he were to infect others with his ideas.\r\n\r\nMy heart is heavy with the burden of it, but I must ask that y-",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:0",
+    "source": "exanima05.rfc",
+    "offset": 766866,
+    "length": 184,
+    "en": "That silly nurse touching everything! She accidentally opened my secret study. All I could think to do is send her away in a hurry. I think she may have gotten entirely the wrong idea.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:1",
+    "source": "exanima05.rfc",
+    "offset": 767050,
+    "length": 148,
+    "en": "Who needs The Guardian when you have the great Torris? What do I expect? To be hailed as a hero? If they knew what I attempted, they'd have my head.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:2",
+    "source": "exanima05.rfc",
+    "offset": 767198,
+    "length": 322,
+    "en": "I have no more time, and find I cannot leave without knowing. I will give my life, nothing else matters to me now.\r\n\r\nI was not able to acquire a stronger source of power, so I must be quick. Should I disappear forever behind this wall, then perhaps at least I will be remembered as the good physician, and not the madman.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:3",
+    "source": "exanima05.rfc",
+    "offset": 767520,
+    "length": 269,
+    "en": "With breaths held we tread\r\nYou and me, hand in hand\r\nOur gazes locked ahead\r\nUpon this endless land\r\n\r\nWhere rivers flow\r\nUnder open skies\r\nAnd slow they grow\r\nBut trees reach high\r\nThe beasts run wild\r\nWe'll hunt, and after\r\nWe'll make a child\r\nTo raise with laughter",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:4",
+    "source": "exanima05.rfc",
+    "offset": 767789,
+    "length": 229,
+    "en": "I've finally received a reply from Thaven, and I regret that I wrote to him. We all know what he did, we all know what he's capable of. I can't trust him, if he's sending someone to me, I fear it will not be with good intentions.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:5",
+    "source": "exanima05.rfc",
+    "offset": 768018,
+    "length": 630,
+    "en": "Dearest Corlian,\r\n\r\nIt is good to hear from you my old friend. I heard what had befallen you, but I knew you would not be so easily thwarted.\r\n\r\nI am terribly sorry about Papin, I cannot imagine what a loss it is for you. I am sending someone to help you. I know you well, and I believe you will be greatly attuned.\r\n\r\nOh, the things we are discovering! I find myself struggling to keep to my purpose. It seems my theories were correct, but there is so much more to learn, so much I would never have guessed. I cannot wait to hear what a man with your insight has uncovered.\r\n\r\nBe well my friend, I hope to see you soon.\r\n\r\nThaven",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:6",
+    "source": "exanima05.rfc",
+    "offset": 768652,
+    "length": 151,
+    "en": "A book containing a great many recipes for mixtures, salves and unguents. They seem to be all targeted at curing conditions that you've never heard of.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:7",
+    "source": "exanima05.rfc",
+    "offset": 768915,
+    "length": 392,
+    "en": "The situation is getting worse, now everyone seems to be amassing weapons and other combat gear. They fear that there will be violence, and want to be prepared. These items are being traded everywhere in secret, including some of our own equipment, which is greatly concerning. If someone were to impersonate the law they could cause some serious damage, and no doubt I'd be held responsible.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:8",
+    "source": "exanima05.rfc",
+    "offset": 771199,
+    "length": 1498,
+    "en": "As we are now invaded, I have asked my assistant to bring me what bodies of the creatures he can. I believe that through dissection I may be able to discover some weakness, some way we might combat them more effectively.\r\n\r\n\r\nI have made a very strange discovery, through an upsetting accident. I found a kind of gland, filled with a highly adhesive fluid. It made contact with my hand, and within a short period of time the skin on my arm has changed. It has become tough, almost scaly. I am hoping the effect will wear off with time.\r\n\r\n\r\nIt has been several days and my skin has not improved. I've consulted the physician Theris, we've come to the conclusion that it must be an altering agent, changing the structure and function of living tissues it contacts.\r\n\r\nTheris wants to know more, and we've decided to test small doses on those in his care who do not have long to live. I will persuade Elko to go below and fetch more, where many of the creatures can now be found.\r\n\r\n\r\nThe glands seem to have many varied effects! In some subjects we noticed nothing but mild disfiguration, sometimes with mild adverse effects, but in others we've noticed such things as an increase in strength, or a capacity for more rapid movements. The changes are small, so we cannot be certain, more tests are needed.\r\n\r\n\r\nWe've now had two serious accidents and we must stop. We noticed some fleeting changes in behaviour, but now we've had a second subject lose all reason and suddenly act as a trapped animal.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:9",
+    "source": "exanima05.rfc",
+    "offset": 772697,
+    "length": 658,
+    "en": "Captain Renis,\r\n\r\nI have received your initial report. I appreciate that you did not try to draw conclusions, but it is clear that the intent of the transgression was to sell crystals that would go unused by means of the device. In response to this the supply of crystals will be more strictly regulated. Every use and transport must be logged and new crystals will not be supplied until exhausted ones have been returned in parity.\r\n\r\nIt is requested that you further question your men based on this information and see if potential buyers had already been approached and if they can be identified.\r\n\r\nI await further communications.\r\n\r\nSupervisor Seredin\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima05.rfc:rdb:10",
+    "source": "exanima05.rfc",
+    "offset": 773355,
+    "length": 1314,
+    "en": "Captain Renis,\r\n\r\nI write in regard to the recent incident with your missing guards. There will be inquiries about discipline, but for now all efforts should be directed at finding out where the device comes from and who made it. They believe the device has origins within your jurisdiction. You will be leading the investigation as you are deemed best equipped to do so. This is a matter of the highest priority. The item will be left with you for the purpose of your investigation. Guard it well, it is extremely dangerous. I cannot stress this enough.\r\n\r\nSomeone should have already come to reclaim the crystal by now. Do not concern yourself with the provenance of that, it will be handled internally.\r\n\r\nThey expect a prompt report on the interrogation of your men. Don't be surprised if someone comes in to follow up on this and conducts further interrogations. It is assumed that you have suitable people in place who can ask the right questions about the origin of the device. If you do not, let me know and I will put you in contact with an agent of my own.\r\n\r\nBe sure that if you uncover any item of a similar construction or any information you may deem pertinent you report on it immediately. I don't think I need to tell you to take no action, but only communicate your findings.\r\n\r\nSupervisor Seredin",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:0",
+    "source": "exanima06.rfc",
+    "offset": 872006,
+    "length": 313,
+    "en": "A group must have stayed in hiding, and once we were almost all gone they raided the armouries. I assume they killed an officer to gain access. Many were killed, but our attempts to stop them were ultimately futile. I was backed into this room and they blocked the door. They did not see I was carrying this mask.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:1",
+    "source": "exanima06.rfc",
+    "offset": 872319,
+    "length": 201,
+    "en": "It has been some time now, I don't know how long. I don't think anyone will come for me. Are the other all dead? This mask will sustain me for some time, but I fear it will only prolongue my suffering.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:2",
+    "source": "exanima06.rfc",
+    "offset": 872520,
+    "length": 576,
+    "en": "These golems have proven an impassable barrier for me, I must turn back. I was shocked and dismayed to see them animate. At first I thought them to be lifeless constructs, a product of magics that I cannot fathom, and yet I sense something from them. Being versed in necromancy as I am, I fear these may be the result of something horrible, far worse than the practices of my art.\r\n\r\nWhat if all that I see here is explained by the harvesting souls as a source of power? Minds reduced and locked in the eternal torment of serving some mundane purpose. The notion is frightful.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:3",
+    "source": "exanima06.rfc",
+    "offset": 873096,
+    "length": 407,
+    "en": "I feel almost certain that Spellgiver and Corruptor are one and the same, condemned for atrocities, corrupting mortal souls. If this is true then Thaven's quest is folly. We did well to refuse our past and abandon such dark practices. I would hope that Thaven too might reach this conclusion, but I fear otherwise, and that he must be stopped. I now regret having sent word to him, he cannot save me anyway.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:4",
+    "source": "exanima06.rfc",
+    "offset": 873963,
+    "length": 209,
+    "en": "Many now come to our doors. I suppose they wish to be prepared for what's ahead. It is good to see fresh blood, but I am concerned by the implications of their selfish purpose. That is not what we're here for.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:5",
+    "source": "exanima06.rfc",
+    "offset": 874172,
+    "length": 291,
+    "en": "I woke to terrible screams. Who could sleep through that? Edrian, my neighbour, was never found. All that's left of him is the blood in his bathroom. They say they are now amongst us. How could this happen? There are rumors that they were let through deliberately, but I cannot believe that.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:6",
+    "source": "exanima06.rfc",
+    "offset": 874463,
+    "length": 415,
+    "en": "It will be good to leave here, start anew. I feel torn between two worlds, and responsible for things that are beyond me. I have blindly deferred to the judgement of others, and just as blindly enforced their will. I find that I have no opinion of my own, I see no atrocities committed, no teachings imparted, just empty words and stubborn egos. How can we judge such things? Yes, I am eager to leave it all behind.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima06.rfc:rdb:7",
+    "source": "exanima06.rfc",
+    "offset": 874882,
+    "length": 285,
+    "en": "This appears to have been an alchemical treatise holding many recipes for the transmutation of materials and producing magical effects. A great many of its pages seem to have been torn out in a terrible hurry. What is left is written in words that are mostly beyond your comprehension.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima07.rfc:rdb:0",
+    "source": "exanima07.rfc",
+    "offset": 983912,
+    "length": 590,
+    "en": "[scrp=i]I'm sorry Stenris, but I'm going to leave the company.\r\n\r\nThis is not what we do. We challenged the mind, we asked the questions! Look at us now, acting out badly written lies, pretending nothing's wrong. I know you are being pressured, and probably under threat, but it is too much to bear. I used to be proud of what we do, but now all I feel as I stand on our stage is shame. I won't do it anymore.\r\n\r\nI will seek other ways to reach people, perhaps I'll join the fight. I hope that you can find peace when this is all over.\r\n\r\nYour friend who begs you will forgive him,\r\nAthelin",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima07.rfc:rdb:1",
+    "source": "exanima07.rfc",
+    "offset": 985211,
+    "length": 364,
+    "en": "[scrp=i]Methis gave me and some others these rods. He says they're useless on their own, and he made us each swear to keep our rod and its crystal safe. If we're to find ourselves in danger and with no escape, then we should gather all in the same place, surround it with the rods and wait for help. He's not said much more, but we trust him well. I'll do my part.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima07.rfc:rdb:2",
+    "source": "exanima07.rfc",
+    "offset": 984506,
+    "length": 701,
+    "en": "[scrp=i]Dear Themin,\r\n\r\nI hope this letter finds you well and whole. I have heard of your foolhardy endeavours. Always a champion of the common people.\r\n\r\nI am due to leave with the next group in five days. I would have sought you out, but with everything that's happening I had to settle for this letter. I hope to see you again soon, please do not risk everything for this dying city. \r\n\r\nI would have left word either way, but I'm afraid I must also warn you of a great danger. Amatine claims to have someone who can truly wake the sentries, and he intends to do it. You must stop him, no one else has the authority. If he is not stopped we will have another great threat upon us.\r\n\r\nYours,\r\nElenis",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima07_sw.rfc:rdb:0",
+    "source": "exanima07_sw.rfc",
+    "offset": 520644,
+    "length": 641,
+    "en": "This journal is filled with diagrams of what look like strange organs, and some others you don't understand. It seems various fluids were being tested on fleshy tissues, most of the names are very unusual. On the last written page, there seem to be the author's dying words:\r\n\r\n[scrp=i]I think I will die here. I can hear them at the door, scratching. I cannot escape.\r\n\r\nNephil, know that your concoction was entirely ineffective in deterring the monsters. I think we've got it all wrong, something else is driving them. I do not blame you, it was an honor to work with you, and I knew the risk I was taking. \r\n\r\nPlease take care of Esthra.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:0",
+    "source": "exanima08.rfc",
+    "offset": 9245327,
+    "length": 447,
+    "en": "Thaven's lackey has reached me. {®Exanima.Unknown.HeShe} is not a bad sort, and a strong mind too. I do not sense nefarious intent, Thaven's offer of help at least seems true. It is strange to find some companionship after all this strife, the death of Papin and my own life slipping away spurred me into a compulsion to do something before the end, I never stopped to consider my actions. I hurt so many, and buried my guilt along with my grief. ",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:1",
+    "source": "exanima08.rfc",
+    "offset": 9243051,
+    "length": 861,
+    "en": "I have encountered multiple times dead that were not raised by me. At first I thought I was forgetful, then I feared a necromancer with a talent to match my own was near. I wondered even if the fanciful myths of a Guardian who rules the dead could hold some truth. Now I am beset by a frightful notion, what if the dead, once awoken so, call to each other? Could it be a thing that spreads as does a plague? What if this is an art not merely forgotten and shunned by those of sensitive natures, but willfully concealed and forbidden for what it might do if left unchecked? Have I set something terrible in motion?\r\n\r\nI wish it were not so, but I feel it is true. Is this to be my own fate as well? I will not let it be, I must find a way to escape this mortal shell, even if into oblivion. Perhaps if I truly succeed, I can undo some of the damage I've wrought.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:2",
+    "source": "exanima08.rfc",
+    "offset": 9243912,
+    "length": 36,
+    "en": "The Ways of the Thaumaturge - Part 1",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:3",
+    "source": "exanima08.rfc",
+    "offset": 9243952,
+    "length": 1375,
+    "en": "A book that introduces many concepts on the working of the thaumaturgic mind and presents various notions that seem at times in conflict and of little substance. Your impression is that the author was well informed, but did not truly understand what was divulged.\r\n\r\nThaumaturges are known to dwell in lonely towers and other remote residences. A common misconception is that it is to conduct their strange work away from prying eyes, but the truth is less sinister and less obvious. The mind of a thaumaturge is an intangible thing that extends far beyond their physical presence, it is as a great tree of connections to the world around them. When the lesser minds of multitudes move through this time and time again, they slowly chip away at its branches, weakening the thaumaturge as they do so. This is why they withdraw from company and seek isolation, so that their power is not drained away.\r\n\r\nA notable exception to this are the great healers, they who live selflessly among those to which they might lend aid. The uncomfortable substance of their success is that as they care for those whom from illness pass to death, they form a bond, and from that bond, in the moment of passing, they take something to sustain them. This is little known and little discussed, as it could be seen in the wrong light and cast suspicion on these devoted servants of the community.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:4",
+    "source": "exanima08.rfc",
+    "offset": 9245778,
+    "length": 9,
+    "en": "Torn Page",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:5",
+    "source": "exanima08.rfc",
+    "offset": 9245787,
+    "length": 680,
+    "en": "Sashya said I am the most devoted wife she ever did meet. I give give give, he takes takes takes, she told me. I laughed and told her to hush, but I must admit the conversation left me with an uneasy feeling. It reminded me of the same old question I've been asking all these years. Why does he spend so much time alone in his blasted study? What does he do in there? Suspicion overcomes me at times. He is so evasive when questioned about it. I know he has secrets there, I just know it. I suppress my curiosity, as a dutiful wife must, but I do so wish he wouldn't keep things from me! I suppose I must accept I shall never know my husband fully, perhaps all men are this way...",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:6",
+    "source": "exanima08.rfc",
+    "offset": 9246471,
+    "length": 486,
+    "en": "My work is near complete, I believe it will serve, but for this first vessel to come alive and be told to do as you wish I will need one more thing, a greater source of power. I believe in time I could find another way, but I know time is short and you already grow impatient. I am also concerned that rumours of what we attempt are spreading, and that some might be considering my involvement. If I am discovered I cannot hope to defend my actions.\r\n\r\nYour humble and anonymous servant",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:7",
+    "source": "exanima08.rfc",
+    "offset": 9246957,
+    "length": 36,
+    "en": "The Ways of the Thaumaturge - Part 2",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:8",
+    "source": "exanima08.rfc",
+    "offset": 9250468,
+    "length": 1402,
+    "en": "The 2nd part of a book discussing the workings of the minds of thaumaturges. This volume focuses on the strong connections formed between elevated minds and the traditions surrounding them.\r\n\r\nAn important figure in the life of a thaumaturge is their apprentice, though this relationship isn't always what it might seem. The minds of two thaumaturges can become highly attuned and learn to live and work in harmony. In unison they can be stronger, and when the time comes for the mentor to leave this world behind, their mind will not simply dissipate and be lost entirely, but continue to live in part through their apprentice. Thaumaturges consider their power to be a great gift that must not be lost, but passed on, treasured and nurtured.\r\n\r\nThe tradition of apprenticeship in the Order of Thaumaturges does not only concern the preservation of knowledge and power, but serves also to temper and check the spirits of those who would wield it. It is not only aptitude that is passed on, but the wisdom and temperament of the master. It is not unheard of that apprentices were ultimately deemed to be unfit for such talents and their apprenticeship abandoned.\r\n\r\nIt appears a final chapter was removed from this book, and in its place there is a brief warning against the dangers of bonds formed with beasts, of how these corrupt the mind of a thaumaturge, reducing them to savage beasts themselves.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:9",
+    "source": "exanima08.rfc",
+    "offset": 9246993,
+    "length": 547,
+    "en": "The time has come, my body is failing. I am certain now that Thaven must be stopped, but I cannot trust his agent to understand, and so I must complete one more dreadful act. I will try to use {®Exanima.Unknown.HimHer} as a vessel even as I die. It is not what I sought, but I believe it will work. I fear it won't be long before my mind and {®Exanima.Unknown.HisHers} are locked in a battle that neither may survive. I must make haste to reach the surface, find sympathetic ears among the Order and warn against the actions of Thaven, and my own.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:10",
+    "source": "exanima08.rfc",
+    "offset": 9247580,
+    "length": 963,
+    "en": "The memoirs and research of a necromancer named Corlian of Blackwell. He dedicated his later life to investigating the possibility of an existence beyond one tied to a physical and mortal form. This is known to some as transcendence, and believed to be the ultimate but elusive goal of the Order of Thaumaturges.\r\n\r\nCorlian's research grew in fervour as he became afflicted by an illness from which he would not recover, leading him to acts and experiments that were ruthless in nature. Despite his grim efforts, and many discoveries made, his goal seemed yet distant even as death drew near.\r\n\r\nThe most significant milestone in Corlian's work was the raising of dead that would remain animated even without aid from the necromancer. Corlian saw little use in this, but took it as proof of his theories and an important step towards greater things. He describes this discovery in detail here, someone with an aptitude for such things may be able to replicate it.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:11",
+    "source": "exanima08.rfc",
+    "offset": 9248599,
+    "length": 747,
+    "en": "Dearest Lisiria,\r\n\r\nI hope this letter finds you well, if it finds you at all. The messengers have stopped, but I've been told that for the right price I might get a letter to you. How are things in Scorpe? Here they are burning all writings indiscriminately, they make no exceptions, and take other things too. I set aside some books, telling them they could do no harm, but they would not listen and threatened violence. They took your letters too. When I think of all the books they burn I am filled with rage, but when I thought of them burning your letters I shed tears.\r\n\r\nWhen this is finally all over I will look for you. It will be difficult and it may take time, but I will find you, do not lose hope my love.\r\n\r\nYours lovingly,\r\n\r\nNoran",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:12",
+    "source": "exanima08.rfc",
+    "offset": 9249346,
+    "length": 75,
+    "en": "Bread \r\nSalted fish \r\nEggs \r\nCheese and butter\r\nAle \r\nCandles\r\nSoap\r\nCoal\r\n",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:13",
+    "source": "exanima08.rfc",
+    "offset": 9249457,
+    "length": 116,
+    "en": "Lavender\r\nThyme\r\nChamomile\r\nMarjoram\r\nComfrey\r\nDandelion\r\nNutmeg\r\nGinger\r\nJuniper \r\nAnise \r\nSulphur\r\nSalt\r\nAlum\r\nWax",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:14",
+    "source": "exanima08.rfc",
+    "offset": 9249593,
+    "length": 11,
+    "en": "Sketch Book",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:15",
+    "source": "exanima08.rfc",
+    "offset": 9250054,
+    "length": 406,
+    "en": "There are others here, I sensed them. They are not of Hamon's group or my subjects and they did not come the same way as I did. I tracked them for some time and then they quickly vanished from my perception. This is just as it was for the one who escaped, and I know now that he moved through that portal. This must mean there is another somewhere, perhaps it is a more direct way to return to the surface.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima08.rfc:rdb:16",
+    "source": "exanima08.rfc",
+    "offset": 9251914,
+    "length": 67,
+    "en": "This helmet when worn grants vision even in complete darkness. [sq]",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:0",
+    "source": "exanima67.rfc",
+    "offset": 4289947,
+    "length": 431,
+    "en": "Brothers and sisters, it is time to act. They have brought death and ruin upon us all, and now they scramble to hide the proof of their misdeeds and flee. We cannot simply forgive and forget. Those who don't know their past are doomed to repeat mistakes. When the enemy comes knocking at our door we will be unarmed and unprepared. Would you stand idle when assailed? Join us now, we are strong, we are many, and our cause is just.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:1",
+    "source": "exanima67.rfc",
+    "offset": 4290378,
+    "length": 549,
+    "en": "It has come to my attention that you let Fengus borrow your key to the vault, and of course he \"misplaced\" it. The foreman is respected and we do sometimes let him borrow things, but we don't give him access to the vault! Everyone knows he's chums with that tavern keep who's up to no good. You need to remedy this immediately. If he can't produce the key within two days I expect you to take some men and thoroughly search his regular haunts and anyone who works under him. Find that key Donilan, or this will be your last blunder under my command.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:2",
+    "source": "exanima67.rfc",
+    "offset": 4290927,
+    "length": 741,
+    "en": "Keeper Oren,\r\n\r\nAs you know we expect supervisor Seren with a delegation from Manta three days from now. My dislike for those pompous fools has not changed. They revel in their appointment after their supposed success, everyone ignoring the difficulties of our grander scale and all the problems that can be ascribed to nothing but misfortune.\r\n\r\nI want this place to look busy, impress them with our scale and the scope of our endeavour. Hire actors if you must, I don't care who they are so long as they look the part. Make it look grandiose, but orderly, not as if we're scrambling to prevent chaos. I need not tell you what's at stake and what this might mean for all of us, I do not question your ability, but I expect your best effort.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:3",
+    "source": "exanima67.rfc",
+    "offset": 4291668,
+    "length": 643,
+    "en": "My love,\r\n\r\nI leave this message as I will not be meeting you here again. I know that when we were last together you noticed the scaling on my neck. Neither of us should pretend it isn't so. I will go under Elento's care. He has told me that the changes are often harmless and that there is no risk of contagion, but in some case they develop gravely, and some also lose their minds. I will not risk you seeing me with disgust, or that I might cause you harm.\r\n\r\nWith all that's taking place I doubt we will see each other again. I've acted as if this were no more than tryst, for fear of upsetting what we had, but know that truly I love you.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:4",
+    "source": "exanima67.rfc",
+    "offset": 4292311,
+    "length": 711,
+    "en": "I'm quite certain that young Thelia has a strong talent. She does not know it, but she perceives and discerns the thoughts of others in ways that ordinary people cannot. I'm sure you're aware of her particular empathy, and perhaps you too have suspected there's more to it.\r\n\r\nI do not presume to suggest how you should handle it, and I'm sure you'd want to keep it quiet as things are, but she is already eagerly active and well liked in our community and her talents could be of great use to us. Perhaps you could talk to her, and she could put her ability to discreet use. I hope you know I would never put her in harm's way. I think her danger may be greater if she continues to be unaware of what she does.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:5",
+    "source": "exanima67.rfc",
+    "offset": 4293022,
+    "length": 608,
+    "en": "Alright, so I admit the new lad may indeed be a spy as you've said. He asks too many pertinent questions, and his cheery, helpful demeanour does not fit the times. Still I don't think that your boys should \"ask him some questions\" as they eloquently put it. We should keep a close eye on him and discover to whom he might report, maybe give him something false and see what comes of it. We're more likely to make our advantage this way, and there's still a chance that all we sense is our own irritation at his manner.\r\n\r\nThere may be another way for us to know the truth of it, but I cannot speak of it yet.",
+    "extraction": "embedded_rdb_index"
+  },
+  {
+    "id": "exanima67.rfc:rdb:6",
+    "source": "exanima67.rfc",
+    "offset": 4293630,
+    "length": 244,
+    "en": "The inscription uses words and phrasing unfamiliar to you, but you are able to discern some of its meaning.\r\n\r\nIt appears to profess that the body is the seed of the mind and when laid to rest in peace the mind may bloom and take its true form.",
+    "extraction": "embedded_rdb_index"
+  }
+]
