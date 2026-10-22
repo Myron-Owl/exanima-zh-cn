@@ -97,6 +97,8 @@ def main():
     map_rows=json.loads((ROOT/'build/catalog/map-sources.json').read_text(encoding='utf-8'))
     dialogue_rows=json.loads((ROOT/'translations/dialogue.json').read_text(encoding='utf-8'))['entries']
     internal_rules=sum(r['en'].startswith(('@item.','@format:','@match.type:')) for r in enabled)
+    version_profiles=json.loads((ROOT/'data/versions.json').read_text(encoding='utf-8'))['versions']
+    supported_versions=[{key:profile[key] for key in ('id','exe_sha256','rpk_sha256')} for profile in version_profiles]
     report={'enabled_unique_strings':len(enabled),'deferred_unique_strings':len(deferred),
             'visible_text_records':len(enabled)-internal_rules,'internal_matching_rules':internal_rules,
             'dialogue_unique_written':len({r['en'] for r in dialogue_rows}),
@@ -110,7 +112,11 @@ def main():
             'source_records_with_exact_translation':dict(collections.Counter(r['source'] for r in sources if r['en'] in exact)),
             'long_text_or_format_entries':sum(len(r['en'])>80 or any(c in r['en'] for c in '\r\n[') for r in enabled),
             'settings_page_user_verified':True,'expanded_game_visual_verified':False,'full_localization':False,
-            'runtime_revision':f'{len(enabled)}-audit-preview',
+            'runtime_revision':f'{len(enabled)}-steam-auto-compat-v1',
+            'automatic_compatibility':'full-body-relocation-only-v1',
+            'automatic_compatibility_baseline':'steam-0.9.5.2e-build25701113',
+            'supported_versions':supported_versions,
+            'steam_visual_verified':False,
             'previous_revision_user_verified_pages':['settings','controls','powers'],
             'parchment_fix_game_visual_verified':True,
             'manual_movement_game_visual_verified':False,
@@ -119,11 +125,12 @@ def main():
             'manual_all_chapters_game_visual_verified':False,
             'deferred':deferred}
     (ROOT/'build/preview-coverage.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (out/'ExanimaZh/version.json').write_text(json.dumps({'game_version':'0.9.5.2','profile':'preview',**{k:v for k,v in report.items() if k!='deferred'}},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    (out/'ExanimaZh/version.json').write_text(json.dumps({'game_version':'0.9.5.2f','profile':'preview',**{k:v for k,v in report.items() if k!='deferred'}},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     for name in ('OFL.txt','Latin-OFL.txt','provenance.json'):shutil.copy2(ROOT/'assets/fonts'/name,out/'ExanimaZh/licenses'/name)
     # Preserve the author's release text, including its encoding and line breaks.
     shutil.copyfile(ROOT/'release/README.txt',out/'ExanimaZh/README.txt')
-    names=['winmm.dll','ExanimaZh.dll','ExanimaZh/fonts/ui.zhf','ExanimaZh/translations/ui.utf8','ExanimaZh/version.json','ExanimaZh/README.txt','ExanimaZh/licenses/OFL.txt','ExanimaZh/licenses/Latin-OFL.txt','ExanimaZh/licenses/provenance.json']
+    shutil.copyfile(ROOT/'build/compatibility.zhc',out/'ExanimaZh/compatibility.zhc')
+    names=['winmm.dll','ExanimaZh.dll','ExanimaZh/compatibility.zhc','ExanimaZh/fonts/ui.zhf','ExanimaZh/translations/ui.utf8','ExanimaZh/version.json','ExanimaZh/README.txt','ExanimaZh/licenses/OFL.txt','ExanimaZh/licenses/Latin-OFL.txt','ExanimaZh/licenses/provenance.json']
     manifest={n:hashlib.sha256((out/n).read_bytes()).hexdigest() for n in names}
     (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
     print(json.dumps({k:v for k,v in report.items() if k!='deferred'},ensure_ascii=False,indent=2))

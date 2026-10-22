@@ -1,0 +1,28 @@
+# Generated files and local dependencies
+/build/
+/dist/
+/.venv/
+/venv/
+/toolchain/
+/agent.md
+__pycache__/
+*.py[cod]
+.zig-cache/
+zig-out/
+
+# Local game data and diagnostic files
+/work/
+/research/
+*.exe
+*.dll
+*.pdb
+*.rpk
+*.exanima-zh-original
+*.log
+
+# Machine-specific settings and credentials
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

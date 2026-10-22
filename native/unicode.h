@@ -1,7 +1,18 @@
 #ifndef EXANIMA_ZH_UNICODE_H
 #define EXANIMA_ZH_UNICODE_H
 #include <windows.h>
+#include <stdint.h>
+#include <stddef.h>
+typedef struct { uint32_t legacy_rva,current_rva; } ZhScopeRva;
+typedef struct {
+    uint32_t font_slot,begin,end,uv,vertex,color,batch_count,gui_slot,current_color;
+    const ZhScopeRva *scopes;
+    size_t scope_count;
+    BOOL remap_scopes;
+} ZhEngineLayout;
 typedef void (*ZhLogger)(const char*,...);
+/* Copy before the first zh_load; scopes must outlive the loaded dictionary. */
+void zh_set_layout(const ZhEngineLayout *layout);
 BOOL zh_load(HMODULE module, unsigned char *image, ZhLogger logger);
 int zh_width(const char *source, void *font);
 BOOL zh_draw(const char *source, float x, float y, BOOL batched, float *right);

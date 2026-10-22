@@ -3,6 +3,7 @@ import argparse
 import hashlib
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -14,7 +15,8 @@ COMPILE_STEPS = (
     'compile_controller_manual.py', 'compile_maps.py', 'compile_runtime.py',
 )
 BUILD_STEPS = ('build_native.py', 'build_font_atlas.py', 'stage_preview.py')
-VERIFY_STEPS = ('audit_batch.py', 'verify_font_coverage.py', 'verify_translations.py', 'verify_render_state.py')
+VERIFY_STEPS = ('generate_version_profiles.py', 'verify_proxy.py', 'audit_batch.py',
+                'verify_font_coverage.py', 'verify_translations.py', 'verify_render_state.py', 'verify_compatibility.py')
 
 
 def read_json(path):
@@ -44,11 +46,34 @@ def check_inputs(zig):
     if version != ZIG_VERSION:
         raise RuntimeError(f'Use Zig {ZIG_VERSION}; selected compiler reports {version}.')
     required = ['native/proxy.c', 'native/runtime.c', 'native/unicode.c', 'native/unicode.h',
-                'native/unicode_verify.c', 'native/render_state_verify.c', 'release/README.txt']
-    required += ['tools/' + name for name in (*COMPILE_STEPS, *BUILD_STEPS, *VERIFY_STEPS, 'package_m1.py', 'font_cmap.py')]
+                'native/unicode_verify.c', 'native/render_state_verify.c',
+                'native/proxy_verify.c', 'native/proxy_import_probe.c',
+                'native/version_profiles.h', 'native/compatibility.c', 'native/compatibility.h',
+                'native/compatibility_verify.c', 'native/runtime_compat_verify.c', 'native/compatibility_contract.h', 'tools/compile_compatibility.py',
+                'data/versions.json', 'data/compatibility.json', 'release/README.txt']
+    required += ['tools/' + name for name in (*COMPILE_STEPS, *BUILD_STEPS, *VERIFY_STEPS,
+                                             'verify_game_version.py', 'package_m1.py', 'font_cmap.py')]
     for relative in required:
         if not (ROOT / relative).is_file():
             raise FileNotFoundError(relative)
+    versions = read_json(ROOT / 'data/versions.json')
+    if (not isinstance(versions, dict) or versions.get('schema_version') != 1
+            or not isinstance(versions.get('versions'), list) or not versions['versions']):
+        raise ValueError('data/versions.json must contain schema_version 1 and a nonempty versions list.')
+    profile_ids, profile_pairs = set(), set()
+    for profile in versions['versions']:
+        if not isinstance(profile, dict):
+            raise ValueError('Each version profile must be a JSON object.')
+        identity = profile.get('id')
+        if not isinstance(identity, str) or not re.fullmatch(r'[a-zA-Z0-9_.-]+', identity) or identity in profile_ids:
+            raise ValueError('Version profile IDs must be unique plain ASCII identifiers.')
+        pair = tuple(profile.get(key) for key in ('exe_sha256', 'rpk_sha256'))
+        if any(not isinstance(value, str) or not re.fullmatch(r'[0-9a-f]{64}', value) for value in pair):
+            raise ValueError(f'Profile {identity} needs exact lowercase EXE and RPK SHA256 values.')
+        if pair in profile_pairs:
+            raise ValueError(f'Duplicate EXE/RPK identity: {identity}')
+        profile_ids.add(identity)
+        profile_pairs.add(pair)
     catalogs = {}
     for name in CATALOG_NAMES:
         local = ROOT / 'build/catalog' / name
@@ -72,6 +97,8 @@ def check_inputs(zig):
     return {'python': sys.version.split()[0], 'pillow': PIL.__version__,
             'freetype': features.version('freetype2'), 'zig': str(zig), 'zig_version': version,
             'catalog_inputs': catalogs, 'translation_json_files': len(translation_files),
+            'version_profiles': [{'id': p['id'], 'exe_sha256': p['exe_sha256'],
+                                  'rpk_sha256': p['rpk_sha256']} for p in versions['versions']],
             'readme_sha256': hashlib.sha256((ROOT / 'release/README.txt').read_bytes()).hexdigest()}
 
 
@@ -85,6 +112,11 @@ def main():
         report = check_inputs(zig)
         print(json.dumps(report, ensure_ascii=False, indent=2), flush=True)
         if args.check_only:
+            subprocess.run([sys.executable, '-B', '-X', 'utf8',
+                            str(ROOT / 'tools/generate_version_profiles.py'), '--check'],
+                           cwd=ROOT, env=compiler_environment(), check=True)
+            subprocess.run([sys.executable, '-B', '-X', 'utf8', str(ROOT/'tools/compile_compatibility.py'), '--check'],
+                           cwd=ROOT, env=compiler_environment(), check=True)
             print('Input and dependency checks passed; no build files were created.')
             return 0
         # Re-extracted catalogs take precedence. Only seed files which are absent.
@@ -99,8 +131,10 @@ def main():
             command = [sys.executable, '-B', '-X', 'utf8', str(ROOT / 'tools' / step)]
             if step == 'package_m1.py':
                 command += ['--profile', 'preview']
+            elif step == 'generate_version_profiles.py':
+                command += ['--check']
             subprocess.run(command, cwd=ROOT, env=env, check=True)
-        print('Build complete: dist/Exanima-zh-CN-0.9.5.2.zip and its .sha256 file.')
+        print('Build complete: dist/Exanima-zh-CN-0.9.5.2f-Steam.zip and its .sha256 file.')
         print('Automated checks passed. This does not replace visual verification in the game.')
         return 0
     except (OSError, ValueError, RuntimeError, ImportError, subprocess.CalledProcessError) as error:

@@ -8,9 +8,13 @@
 #include <string.h>
 #include <wchar.h>
 #include "unicode.h"
+#include "version_profiles.h"
+#include "compatibility.h"
 
 static HMODULE self;
 static unsigned char *base;
+static const ZhGameVersion *version;
+static ZhCompatResult auto_version;
 static HANDLE logfile = INVALID_HANDLE_VALUE;
 static SRWLOCK log_lock = SRWLOCK_INIT;
 static LONG initialized;
@@ -24,14 +28,14 @@ static void log_line(const char *format, ...) {
     WriteFile(logfile,line,n,&wrote,NULL); FlushFileBuffers(logfile);
     ReleaseSRWLockExclusive(&log_lock);
 }
-static BOOL verify_exe(void) {
+static const ZhGameVersion *verify_exe(void) {
     wchar_t path[MAX_PATH];
     DWORD length=GetModuleFileNameW(NULL,path,MAX_PATH);
     if(!length || length>=MAX_PATH) return FALSE;
     HANDLE f=CreateFileW(path,GENERIC_READ,FILE_SHARE_READ,NULL,OPEN_EXISTING,0,NULL);
     if(f==INVALID_HANDLE_VALUE) return FALSE;
     BCRYPT_ALG_HANDLE alg=NULL; BCRYPT_HASH_HANDLE hash=NULL;
-    unsigned char digest[32],buffer[16384]; DWORD n; BOOL ok=FALSE;
+    unsigned char digest[32],buffer[16384]; DWORD n; const ZhGameVersion *matched=NULL;
     if(BCryptOpenAlgorithmProvider(&alg,BCRYPT_SHA256_ALGORITHM,NULL,0)<0) goto done;
     if(BCryptCreateHash(alg,&hash,NULL,0,NULL,0,0)<0) goto done;
     for(;;) {
@@ -42,11 +46,30 @@ static BOOL verify_exe(void) {
     if(BCryptFinishHash(hash,digest,32,0)<0) goto done;
     char hex[65]; for(int i=0;i<32;i++) sprintf(hex+i*2,"%02x",digest[i]);
     log_line("Executable SHA256: %s",hex);
-    ok=!strcmp(hex,"97a83509f1e230349126817adb8576a7725bceda120023f1173bb463b46cba6a");
+    matched=zh_find_version(hex);
+    if(!matched) {
+        unsigned char *executable=NULL,*metadata=NULL;size_t executable_size=0,metadata_size=0;
+        wchar_t config[MAX_PATH];DWORD config_length=GetModuleFileNameW(self,config,MAX_PATH);
+        wchar_t *slash=config_length && config_length<MAX_PATH?wcsrchr(config,L'\\'):NULL;
+        char reason[256]="compatibility metadata unavailable";
+        if(slash && slash-config<MAX_PATH-40) {
+            wcscpy(slash+1,L"ExanimaZh\\compatibility.zhc");
+            if(zh_read_file(path,64*1024*1024,&executable,&executable_size) &&
+               zh_read_file(config,2*1024*1024,&metadata,&metadata_size) &&
+               zh_auto_detect(executable,executable_size,metadata,metadata_size,&auto_version,reason,sizeof(reason)) &&
+               zh_auto_verify_loaded(executable,executable_size,(unsigned char*)GetModuleHandleW(NULL),&auto_version,reason,sizeof(reason))) {
+                matched=&auto_version.version;
+                log_line("AUTO COMPATIBILITY: verified %u complete functions, 4 engine fields and 9 scoped contexts; loaded bytes match.",auto_version.function_count);
+            }
+        }
+        if(!matched) log_line("AUTO COMPATIBILITY REFUSED: %s",reason);
+        if(executable) HeapFree(GetProcessHeap(),0,executable);
+        if(metadata) HeapFree(GetProcessHeap(),0,metadata);
+    }
 done:
     if(hash) BCryptDestroyHash(hash);
     if(alg) BCryptCloseAlgorithmProvider(alg,0);
-    CloseHandle(f); return ok;
+    CloseHandle(f); return matched;
 }
 
 typedef struct { void *entry; void *replacement; unsigned char signature[24]; size_t size; void *trampoline; } Hook;
@@ -139,7 +162,7 @@ static void record(const char *kind,void *renderer,const char *text,int x,int y)
     if(seen_count==4096) {ReleaseSRWLockExclusive(&seen_lock);return;}
     seen[seen_count++]=hash;
     ReleaseSRWLockExclusive(&seen_lock);
-    void *font=*(void**)(base+0x496650);
+    void *font=*(void**)(base+version->layout.font_slot);
     int *f=(int*)font;
     log_line("%s xy=%d,%d renderer=%p font=%p size=%d,%d cap=%d leading=%d text=%.*s",kind,x,y,renderer,font,
         f?f[2]:0,f?f[3]:0,f?f[4]:0,f?f[7]:0,(int)(length<1400?length:1400),text);
@@ -174,7 +197,7 @@ static void clip_hook(float x,float y,float width,const char *s) {
     original_clip(x,y,width,s);
 }
 static int width_hook(const char *s) {
-    int width=zh_width(s,*(void**)(base+0x496650));
+    int width=zh_width(s,*(void**)(base+version->layout.font_slot));
     return width>=0?width:original_width(s);
 }
 static int font_width_hook(const char *s,void *font) {
@@ -204,23 +227,26 @@ __declspec(dllexport) BOOL WINAPI ExanimaZhInitialize(void) {
     wcscat(path,L"\\latest.log");
     logfile=CreateFileW(path,GENERIC_WRITE,FILE_SHARE_READ,NULL,CREATE_ALWAYS,FILE_ATTRIBUTE_NORMAL,NULL);
     log_line("ExanimaZh Unicode localization preview; external dictionary enabled.");
-    if(!verify_exe()) {log_line("UNSUPPORTED VERSION: no hooks installed; English passthrough.");return FALSE;}
+    version=verify_exe();
+    if(!version) {log_line("UNSUPPORTED VERSION: no hooks installed; English passthrough.");return FALSE;}
+    log_line("Verified game profile: %s",version->id);
+    zh_set_layout(&version->layout);
     base=(unsigned char*)GetModuleHandleW(NULL);
-    if(!zh_load(self,base,log_line)) log_line("Unicode assets missing/invalid: diagnostic English passthrough.");
-    Hook hooks[]={
-        {base+0x34d20,draw_hook,{0x55,0x48,0x89,0xe5,0x48,0x8d,0xa4,0x24,0xf0,0xfe,0xff,0xff,0x48,0x89,0x9d,0x28,0xff,0xff,0xff},19,NULL},
-        {base+0x35540,measure_hook,{0x53,0x57,0x56,0x41,0x54,0x41,0x55,0x41,0x56,0x41,0x57,0x48,0x8d,0x64,0x24,0xb0},16,NULL},
-        {base+0x26f20,label_hook,{0x53,0x57,0x56,0x41,0x54,0x48,0x8d,0x64,0x24,0x98,0x66,0x0f,0x7f,0x74,0x24,0x20},16,NULL},
-        {base+0x270b0,batch_hook,{0x53,0x57,0x56,0x41,0x54,0x48,0x8d,0x64,0x24,0x98,0x66,0x0f,0x7f,0x74,0x24,0x20},16,NULL},
-        {base+0x26da0,width_hook,{0x31,0xc0,0x48,0x89,0xca,0x48,0x85,0xc9,0x74,0x04,0x48,0x8b,0x52,0xf8},14,NULL},
-        {base+0x26de0,font_width_hook,{0x31,0xc0,0x49,0x89,0xc8,0x48,0x85,0xc9,0x74,0x04,0x4d,0x8b,0x40,0xf8},14,NULL},
-        {base+0x27230,center_hook,{0x53,0x57,0x56,0x41,0x54,0x48,0x8d,0x64,0x24,0x88,0x66,0x0f,0x7f,0x74,0x24,0x20},16,NULL},
-        {base+0x27920,clip_hook,{0x53,0x57,0x56,0x41,0x54,0x41,0x55,0x41,0x56,0x48,0x8d,0x64,0x24,0x98},14,NULL},
-        {base+0x27d40,block_hook,{0x55,0x48,0x89,0xe5,0x48,0x8d,0xa4,0x24,0x10,0xff,0xff,0xff,0x48,0x89,0x9d,0x30,0xff,0xff,0xff},19,NULL},
-        {base+0x280a0,float_block_hook,{0x55,0x48,0x89,0xe5,0x48,0x8d,0xa4,0x24,0x00,0xff,0xff,0xff,0x48,0x89,0x9d,0x20,0xff,0xff,0xff},19,NULL},
-        {base+0x28410,block_lines_hook,{0x53,0x57,0x56,0x41,0x54,0x41,0x55,0x41,0x56,0x41,0x57,0x49,0x89,0xcf},14,NULL}
-    };
-    const size_t count=sizeof(hooks)/sizeof(hooks[0]);
+    if(!zh_load(self,base,log_line)) {
+        log_line("Unicode assets missing/invalid: no hooks installed; English passthrough.");
+        return FALSE;
+    }
+    void *replacements[ZH_HOOK_COUNT]={draw_hook,measure_hook,label_hook,batch_hook,
+        width_hook,font_width_hook,center_hook,clip_hook,block_hook,float_block_hook,block_lines_hook};
+    Hook hooks[ZH_HOOK_COUNT]={0};
+    const size_t count=ZH_HOOK_COUNT;
+    for(size_t i=0;i<count;i++) {
+        const ZhHookSite *site=&version->hooks[i];
+        hooks[i].entry=base+site->rva;
+        hooks[i].replacement=replacements[i];
+        hooks[i].size=site->size;
+        memcpy(hooks[i].signature,site->signature,site->size);
+    }
     for(size_t i=0;i<count;i++) if(!prepare_hook(&hooks[i])) {log_line("Signature/trampoline validation failed at hook %zu; no hooks installed.",i);return FALSE;}
     original_draw=(DrawFn)hooks[0].trampoline; original_measure=(MeasureFn)hooks[1].trampoline;
     original_label=(LabelFn)hooks[2].trampoline;original_batch=(LabelFn)hooks[3].trampoline;

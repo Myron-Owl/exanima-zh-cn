@@ -2,16 +2,20 @@
 
 常规编译使用仓库内的 `data/catalog/`，无需每次读取游戏。仅在核对原文或重新审核提取结果时运行这些工具。导出仅写入 `build/catalog/`，目录不存在时自动创建，不覆盖 `data/catalog/` 或人工译文。
 
+这些索引以旧版 0.9.5.2 EXE 地址为规范来源。当前提取工具仍只接受下表的旧版精确文件对；支持 Steam build 25441985、25701113 和 25733142 的运行时配置不等于提取工具也接受它。不要为了读取 Steam 文件而移除哈希校验，或用 Steam 偏移覆盖现有 `source_ids`。
+
 ## 本地游戏校验
 
 四个工具都要求显式传入 `--game-dir`，不设默认游戏目录，不自动搜索安装位置。游戏目录只读，任何工具开始导出前都必须找到以下两个原版文件，并校验 SHA256：
 
-| 文件 | Exanima 0.9.5.2 原版 SHA256 |
+| 文件 | 规范提取源：旧版 Exanima 0.9.5.2 SHA256 |
 | --- | --- |
 | `Exanima.exe` | `97a83509f1e230349126817adb8576a7725bceda120023f1173bb463b46cba6a` |
 | `Resource.rpk` | `e32dbf99663d648848a1dff3c777fc9a5a32d17c20576a7df69cfd60b39b751a` |
 
 优先使用正式文件名。如果文件缺失或哈希不符，则尝试同目录下的 `Exanima.exe.exanima-zh-original` 或 `Resource.rpk.exanima-zh-original`。备份必须通过同样的原版哈希校验，选中备份时会显示提示。任一文件没有合格候选便停止，不输出索引；Python 优化模式不会跳过版本校验。
+
+维护者若只需确认 Steam 安装是否属于已适配版本，应使用 `tools/verify_game_version.py --game-dir "<游戏目录>"`。它读取 `data/versions.json` 中的 EXE/RPK 精确文件对，不重建词典索引。两种来源的差异和上下文地址转换见 [Steam 兼容说明](STEAM_COMPATIBILITY.md)。
 
 ## 用法
 

@@ -18,6 +18,34 @@ static GLuint textures[64];
 static HGLRC texture_context;
 static ZhLogger write_log;
 static BOOL texture_failure, draw_logged;
+static ZhEngineLayout engine_layout={
+    0x496650,0x1f6c00,0x1f6f10,0x1f6de0,0x1f6ca0,0x1f6e60,0x58ac20,0x5ae0d0,0x5aad00,
+    NULL,0,FALSE
+};
+static BOOL layout_locked;
+void zh_set_layout(const ZhEngineLayout *layout) {
+    if(layout && !layout_locked) engine_layout=*layout;
+}
+static BOOL valid_scope_map(void) {
+    if(!engine_layout.remap_scopes) return TRUE;
+    if(engine_layout.scope_count>8192 || (engine_layout.scope_count && !engine_layout.scopes)) return FALSE;
+    for(size_t i=0;i<engine_layout.scope_count;i++) {
+        const ZhScopeRva *entry=engine_layout.scopes+i;
+        if(!entry->legacy_rva || !entry->current_rva) return FALSE;
+        for(size_t j=0;j<i;j++)
+            if(engine_layout.scopes[j].legacy_rva==entry->legacy_rva ||
+               engine_layout.scopes[j].current_rva==entry->current_rva) return FALSE;
+    }
+    return TRUE;
+}
+static BOOL remap_scope_rva(uint32_t *rva) {
+    if(!engine_layout.remap_scopes) return TRUE;
+    for(size_t i=0;i<engine_layout.scope_count;i++)
+        if(engine_layout.scopes[i].legacy_rva==*rva) {
+            *rva=engine_layout.scopes[i].current_rva;return TRUE;
+        }
+    return FALSE;
+}
 static uint64_t text_hash(const char *s,size_t n) {
     uint64_t h=1469598103934665603ULL;
     for(size_t i=0;i<n;i++) h=(h^(unsigned char)s[i])*1099511628211ULL;
@@ -376,7 +404,9 @@ int zh_test_translate(const char *source,int length,char *out,int capacity) {
 }
 #endif
 BOOL zh_load(HMODULE module,unsigned char *image,ZhLogger logger) {
+    layout_locked=TRUE;
     image_base=image;write_log=logger;
+    if(!valid_scope_map()) return FALSE;
     DWORD size=0;
     font_data=read_asset(module,L"ExanimaZh\\fonts\\ui.zhf",64*1024*1024,&size);
     if(!font_data || size<24 || memcmp(font_data,"ZHF1",4)) return FALSE;
@@ -408,6 +438,7 @@ BOOL zh_load(HMODULE module,unsigned char *image,ZhLogger logger) {
                 *scope++=0;char *end;unsigned long rva=strtoul(scope,&end,16);
                 if(end==scope || *end || !rva || rva>0x600000) {valid=FALSE;break;}
                 row.source_rva=(uint32_t)rva;
+                if(!remap_scope_rva(&row.source_rva)) {valid=FALSE;break;}
             }
             if(!unescape(cursor) || !unescape(tab) || strlen(cursor)>65536) {valid=FALSE;break;}
             row.length=strlen(cursor);row.hash=text_hash(cursor,row.length);
@@ -512,13 +543,13 @@ static BOOL upload_textures(void) {
 }
 static BOOL draw_row(const Translation *row,float x,float y,BOOL batched,float max_width,float *right) {
     if(!row || !image_base) return FALSE;
-    void *font=*(void**)(image_base+0x496650);float scale=scale_for(font);
+    void *font=*(void**)(image_base+engine_layout.font_slot);float scale=scale_for(font);
     if(!row || !scale || text_width(row,scale)<0 || !upload_textures()) return FALSE;
-    void (*begin)(void)=(void*)(image_base+0x1f6c00);
-    void (*end)(void)=(void*)(image_base+0x1f6f10);
-    void (*uv)(float,float)=(void*)(image_base+0x1f6de0);
-    void (*vertex)(float,float)=(void*)(image_base+0x1f6ca0);
-    if(batched && *(int*)(image_base+0x58ac20)>0) end();
+    void (*begin)(void)=(void*)(image_base+engine_layout.begin);
+    void (*end)(void)=(void*)(image_base+engine_layout.end);
+    void (*uv)(float,float)=(void*)(image_base+engine_layout.uv);
+    void (*vertex)(float,float)=(void*)(image_base+engine_layout.vertex);
+    if(batched && *(int*)(image_base+engine_layout.batch_count)>0) end();
     GLint active,bound;glGetIntegerv(0x84e0,&active);active_texture(0x84c0);
     glGetIntegerv(GL_TEXTURE_BINDING_2D,&bound);
     uint32_t page=UINT32_MAX;float cursor=x;
@@ -554,7 +585,7 @@ BOOL zh_draw(const char *source,float x,float y,BOOL batched,float *right) {
 }
 BOOL zh_draw_clipped(const char *source,float x,float y,float width,BOOL centered,float *right) {
     const Translation *row=lookup(source);
-    float scale=scale_for(*(void**)(image_base+0x496650));
+    float scale=scale_for(*(void**)(image_base+engine_layout.font_slot));
     if(!row || !scale || width<0) return FALSE;
     float length=text_width(row,scale);if(length<0) return FALSE;
     if(centered && length<width) {float offset=(float)(int)((width-length)*0.5f+0.5f);x+=offset;width-=offset;}
@@ -674,13 +705,13 @@ static BOOL draw_paragraph(void *renderer,const Translation *row,float x,float y
     TextRenderer *r=renderer;Layout p;
     if(!make_layout(r,row,&p)) return FALSE;
     if(!upload_textures()) {free_layout(&p);return FALSE;}
-    void (*begin)(void)=(void*)(image_base+0x1f6c00);
-    void (*end)(void)=(void*)(image_base+0x1f6f10);
-    void (*uv)(float,float)=(void*)(image_base+0x1f6de0);
-    void (*vertex)(float,float)=(void*)(image_base+0x1f6ca0);
-    void (*color)(void*)=(void*)(image_base+0x1f6e60);
-    unsigned char *gui=*(unsigned char**)(image_base+0x5ae0d0);
-    unsigned char original_color[4];memcpy(original_color,raw?image_base+0x5aad00:gui+0xe4,4);
+    void (*begin)(void)=(void*)(image_base+engine_layout.begin);
+    void (*end)(void)=(void*)(image_base+engine_layout.end);
+    void (*uv)(float,float)=(void*)(image_base+engine_layout.uv);
+    void (*vertex)(float,float)=(void*)(image_base+engine_layout.vertex);
+    void (*color)(void*)=(void*)(image_base+engine_layout.color);
+    unsigned char *gui=*(unsigned char**)(image_base+engine_layout.gui_slot);
+    unsigned char original_color[4];memcpy(original_color,raw?image_base+engine_layout.current_color:gui+0xe4,4);
     GLint active,bound;glGetIntegerv(0x84e0,&active);active_texture(0x84c0);glGetIntegerv(GL_TEXTURE_BINDING_2D,&bound);
     // Both paragraph entry points own their batch, just like the original
     // renderer. Engine End leaves its vertex count intact; it is not a
@@ -732,7 +763,7 @@ BOOL zh_draw_text(void *renderer,const char *source,int x,int y,int skip,const v
 }
 int zh_draw_block(const char *source,int length,float x,float y,int width,int height,int skip,BOOL centered) {
     if(!image_base) return -1;
-    TextRenderer r={.font=*(void**)(image_base+0x496650),.width=width,.height=height};int lines;
+    TextRenderer r={.font=*(void**)(image_base+engine_layout.font_slot),.width=width,.height=height};int lines;
     return draw_paragraph(&r,lookup_span(source,length),x,y,skip,centered,TRUE,&lines)?lines:-1;
 }
 int zh_block_lines(const char *source,int length,int width,void *font) {

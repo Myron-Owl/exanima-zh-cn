@@ -3,13 +3,17 @@ from pathlib import Path
 import subprocess
 import hashlib
 import json
+import sys
 from build_support import find_zig,compiler_environment
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'build/native'
-OUT.mkdir(parents=True,exist_ok=True)
 env=compiler_environment()
 zig=find_zig()
-for source,name,libs in [('proxy.c','winmm.dll',[]),('runtime.c','ExanimaZh.dll',[str(ROOT/'native/unicode.c'),'-lbcrypt','-lopengl32'])]:
+subprocess.run([sys.executable,'-B','-X','utf8',str(ROOT/'tools/compile_compatibility.py')],env=env,check=True,cwd=ROOT)
+subprocess.run([sys.executable,'-B','-X','utf8',str(ROOT/'tools/generate_version_profiles.py')],
+               env=env,check=True,cwd=ROOT)
+OUT.mkdir(parents=True,exist_ok=True)
+for source,name,libs in [('proxy.c','winmm.dll',[]),('runtime.c','ExanimaZh.dll',[str(ROOT/'native/unicode.c'),str(ROOT/'native/compatibility.c'),'-lbcrypt','-lopengl32'])]:
     command=[str(zig),'cc','-target','x86_64-windows-gnu','-shared','-O2','-g','-Wall','-Wextra',
              '-Werror',str(ROOT/'native'/source),'-o',str(OUT/name),*libs]
     subprocess.run(command,env=env,check=True,cwd=ROOT)

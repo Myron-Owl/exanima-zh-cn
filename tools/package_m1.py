@@ -7,7 +7,7 @@ source=ROOT/f'build/{args.profile}-package'
 manifest=json.loads((source/'manifest.json').read_text())
 dist=ROOT/'dist';dist.mkdir(exist_ok=True)
 suffix={'m1':'M1-test','settings':'settings-preview','preview':'batch-preview'}[args.profile]
-destination=dist/('Exanima-zh-CN-0.9.5.2.zip' if args.profile=='preview' else f'Exanima-zh-CN-0.9.5.2-{suffix}.zip')
+destination=dist/('Exanima-zh-CN-0.9.5.2f-Steam.zip' if args.profile=='preview' else f'Exanima-zh-CN-0.9.5.2-{suffix}.zip')
 names=sorted([*manifest,'manifest.json'])
 assert all(n in ('winmm.dll','ExanimaZh.dll','manifest.json') or n.startswith('ExanimaZh/') for n in names)
 assert all(not PurePosixPath(n).is_absolute() and '..' not in PurePosixPath(n).parts and '\\' not in n for n in names)

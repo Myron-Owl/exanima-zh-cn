@@ -1,5 +1,7 @@
 # 独立源码整理与构建验证
 
+本文保留 2026-09-27 的历史整理记录，文件数量、运行逻辑和机器码对比不代表后续 Steam 修订。Steam 改动及验证边界见 [STEAM_COMPATIBILITY.md](STEAM_COMPATIBILITY.md)。
+
 审核日期：2026-09-27。目标版本：Exanima 0.9.5.2。
 
 ## 整理范围

@@ -1,0 +1,12 @@
+* text=auto
+*.py text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ttf binary
+# Preserve the author's release instructions and the original font licenses byte-for-byte.
+README.md -text
+release/README.txt -text
+assets/fonts/OFL.txt -text
+assets/fonts/Latin-OFL.txt -text
