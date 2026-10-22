@@ -6,6 +6,7 @@
 
 - 构建及验证：[BUILD.md](BUILD.md)。已有译文的构建无需原版游戏文件。
 - 修改中文：[TRANSLATING.md](TRANSLATING.md)。先确认编辑源文件，避免改动被生成过程覆盖。
+- 单独替换字体：[FONT_TOOL.md](FONT_TOOL.md)。选择 TTF/OTF，生成 `ui.zhf`，无需重编译汉化模块。
 - 重新提取原文：[EXTRACTING.md](EXTRACTING.md)。仅在需要更新文本索引时使用，自行提供相应原版游戏。
 - Steam 适配与验证边界：[STEAM_COMPATIBILITY.md](STEAM_COMPATIBILITY.md)。
 - 2026-09-27 的历史整理记录：[SOURCE_AUDIT.md](SOURCE_AUDIT.md)。

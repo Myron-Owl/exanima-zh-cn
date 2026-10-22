@@ -9,9 +9,9 @@ from PIL import Image,ImageDraw,ImageFont
 from font_cmap import cmap_glyph
 ROOT=Path(__file__).resolve().parents[1]
 
-def build(characters,size,page_size,out):
-    font_path=ROOT/'assets/fonts/NotoSerifSC.ttf'
-    fallback_path=ROOT/'assets/fonts/NotoSerifLatin.ttf'
+def build(characters,size,page_size,out,*,font_path=None,fallback_path=None,license_name='SIL OFL 1.1'):
+    font_path=Path(font_path) if font_path is not None else ROOT/'assets/fonts/NotoSerifSC.ttf'
+    fallback_path=Path(fallback_path) if fallback_path is not None else ROOT/'assets/fonts/NotoSerifLatin.ttf'
     font_bytes=font_path.read_bytes();fallback_bytes=fallback_path.read_bytes()
     primary=ImageFont.truetype(str(font_path),size)
     fallback=ImageFont.truetype(str(fallback_path),size)
@@ -43,7 +43,7 @@ def build(characters,size,page_size,out):
         (out/f'page-{i:03}.a8').write_bytes(b'ZHA8'+struct.pack('<II',page_size,page_size)+page.tobytes())
     meta={'format':1,'font_sha256':hashlib.sha256(font_path.read_bytes()).hexdigest(),
           'fallback_font_sha256':hashlib.sha256(fallback_bytes).hexdigest(),
-          'license':'SIL OFL 1.1','pixel_size':size,'page_size':page_size,'page_count':len(pages),
+          'license':license_name,'pixel_size':size,'page_size':page_size,'page_count':len(pages),
           'row_order':'top_to_bottom','bearing_origin':'baseline','glyphs':glyphs}
     (out/'metrics.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     # Reopen generated files and verify every glyph rectangle, page and byte count.
