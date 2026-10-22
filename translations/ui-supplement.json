@@ -98,7 +98,7 @@
     {
       "id": "supplement.9",
       "en": "Two Handed Battle Axe",
-      "zh": "双手战斧",
+      "zh": "双手斗斧",
       "source": "Exanima.exe",
       "source_ids": [
         "exe:00319888"
@@ -108,7 +108,7 @@
     {
       "id": "supplement.10",
       "en": "Two Handed Spiked Mace",
-      "zh": "双手尖刺锤",
+      "zh": "双手晨星锤",
       "source": "Exanima.exe",
       "source_ids": [
         "exe:003198b8"
@@ -118,7 +118,7 @@
     {
       "id": "supplement.11",
       "en": "Two Handed Mace",
-      "zh": "双手钉头锤",
+      "zh": "双手锤",
       "source": "Exanima.exe",
       "source_ids": [
         "exe:003198e8"

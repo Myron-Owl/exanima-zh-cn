@@ -41,7 +41,7 @@
     {
       "id": "item.3",
       "en": "Maul",
-      "zh": "重锤",
+      "zh": "大铁锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:3",
@@ -95,7 +95,7 @@
     {
       "id": "item.11",
       "en": "Bardiche",
-      "zh": "长柄大斧",
+      "zh": "月刃斧",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:11"
@@ -176,7 +176,7 @@
     {
       "id": "item.21",
       "en": "Battle Axe",
-      "zh": "战斧",
+      "zh": "斗斧",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:21",
@@ -187,7 +187,7 @@
     {
       "id": "item.22",
       "en": "Grand Falchion",
-      "zh": "大型弯刃刀",
+      "zh": "弯刃大刀",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:22"
@@ -227,7 +227,7 @@
     {
       "id": "item.26",
       "en": "Billhook",
-      "zh": "钩镰刀",
+      "zh": "钩镰",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:26",
@@ -283,7 +283,7 @@
     {
       "id": "item.35",
       "en": "Mace",
-      "zh": "钉头锤",
+      "zh": "单手锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:35"
@@ -445,7 +445,7 @@
     {
       "id": "item.76",
       "en": "Voulge",
-      "zh": "长柄砍刀",
+      "zh": "钩斧",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:76"
@@ -455,7 +455,7 @@
     {
       "id": "item.77",
       "en": "Helm",
-      "zh": "头盔",
+      "zh": "全盔",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:77",
@@ -467,7 +467,7 @@
     {
       "id": "item.78",
       "en": "Helmet",
-      "zh": "头盔",
+      "zh": "半盔",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:78",
@@ -492,7 +492,7 @@
     {
       "id": "item.81",
       "en": "Mail Coif",
-      "zh": "锁甲头套",
+      "zh": "锁甲头巾",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:81"
@@ -535,7 +535,7 @@
     {
       "id": "item.88",
       "en": "Plate Helm",
-      "zh": "板甲头盔",
+      "zh": "板甲全盔",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:88",
@@ -557,7 +557,7 @@
     {
       "id": "item.91",
       "en": "Brigandine",
-      "zh": "布面甲",
+      "zh": "板甲衣",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:91",
@@ -783,7 +783,7 @@
     {
       "id": "item.135",
       "en": "Life of Linus Fendrick",
-      "zh": "莱纳斯·芬德里克传",
+      "zh": "莱努斯·芬德里克传",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:135"
@@ -846,7 +846,7 @@
     {
       "id": "item.156",
       "en": "Spiked Mace",
-      "zh": "尖刺钉头锤",
+      "zh": "晨星锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:156",
@@ -1210,7 +1210,7 @@
     {
       "id": "item.280",
       "en": "Flanged Mace",
-      "zh": "凸缘钉头锤",
+      "zh": "页锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:280",
@@ -1222,7 +1222,7 @@
     {
       "id": "item.281",
       "en": "Heater Shield",
-      "zh": "熨斗形盾",
+      "zh": "斗盾",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:281",
@@ -1254,7 +1254,7 @@
     {
       "id": "item.286",
       "en": "Sledgehammer",
-      "zh": "大锤",
+      "zh": "长柄锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:286"
@@ -1453,7 +1453,7 @@
     {
       "id": "item.350",
       "en": "Bar Mace",
-      "zh": "条形钉头锤",
+      "zh": "条形页锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:350"
@@ -1494,7 +1494,7 @@
     {
       "id": "item.373",
       "en": "Proctor's Seal",
-      "zh": "执法官印信",
+      "zh": "执行官印章",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:373"
@@ -1622,7 +1622,7 @@
     {
       "id": "item.401",
       "en": "Cuirass",
-      "zh": "躯干甲",
+      "zh": "胸甲",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:401",
@@ -1685,7 +1685,7 @@
     {
       "id": "item.416",
       "en": "Two-handed Mace",
-      "zh": "双手钉头锤",
+      "zh": "双手锤",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:416"
@@ -1815,7 +1815,7 @@
     {
       "id": "item.457",
       "en": "PickAxe",
-      "zh": "鹤嘴锄",
+      "zh": "战镐",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:457"
@@ -1996,7 +1996,7 @@
     {
       "id": "item.498",
       "en": "Token",
-      "zh": "徽记",
+      "zh": "徽章",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:498"
@@ -2326,7 +2326,7 @@
     {
       "id": "item.598",
       "en": "Leather Helm",
-      "zh": "皮头盔",
+      "zh": "皮全盔",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:598",
@@ -2358,7 +2358,7 @@
     {
       "id": "item.614",
       "en": "Bevor",
-      "zh": "护颔甲",
+      "zh": "颈甲",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:614"
@@ -2551,7 +2551,7 @@
     {
       "id": "item.675",
       "en": "Doublet",
-      "zh": "紧身上衣",
+      "zh": "紧身衣",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:675"
@@ -2726,7 +2726,7 @@
     {
       "id": "item.742",
       "en": "Pick Axe",
-      "zh": "鹤嘴锄",
+      "zh": "战镐",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:742",
@@ -2788,7 +2788,7 @@
     {
       "id": "item.756",
       "en": "Rusty Pick Axe",
-      "zh": "生锈的鹤嘴锄",
+      "zh": "生锈的战镐",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:756"
@@ -3528,7 +3528,7 @@
     {
       "id": "item.995",
       "en": "Glaive",
-      "zh": "长柄偃月刀",
+      "zh": "长柄大刀",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:995"
@@ -3663,7 +3663,7 @@
     {
       "id": "item.1069",
       "en": "Pourpoint",
-      "zh": "衬甲紧身衣",
+      "zh": "紧身棉外套",
       "source": "objstrings.rdb",
       "source_ids": [
         "objstrings.rdb:1069"

@@ -375,7 +375,7 @@
     {
       "id": "generated.runtime.53",
       "en": "@item.base:This helmet when worn grants vision even in complete darkness",
-      "zh": "戴上这顶头盔，即使在完全的黑暗中也能视物",
+      "zh": "戴上这顶半盔，即使在完全的黑暗中也能视物",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -389,21 +389,21 @@
     {
       "id": "generated.runtime.55",
       "en": "@item.base:This large two-handed mace looks to be made of brass, but is deceptively light and features a fairly keen spike",
-      "zh": "这把大型双手钉头锤看似黄铜制成，却出奇地轻巧，还带有一根相当锋利的尖刺",
+      "zh": "这把大型双手锤看似黄铜制成，却出奇地轻巧，还带有一根相当锋利的尖刺",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.56",
       "en": "@item.base:This mace has large flanges that form a hollow space lined with strange decorative elements",
-      "zh": "这把钉头锤的大型凸缘围成了一个中空空间，内壁饰有奇异的装饰",
+      "zh": "这把单手锤的大型凸缘围成了一个中空空间，内壁饰有奇异的装饰",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.57",
       "en": "@item.base:This ornate battle axe is seemingly made largely of a brassy metal, but it's not as heavy as it looks",
-      "zh": "这把华丽的战斧似乎主要由黄铜色金属制成，却没有看上去那么重",
+      "zh": "这把华丽的斗斧似乎主要由黄铜色金属制成，却没有看上去那么重",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -424,14 +424,14 @@
     {
       "id": "generated.runtime.60",
       "en": "@item.base:When you wear this helm you are able to make out your surroundings even in complete darkness",
-      "zh": "戴上这顶头盔后，即使身处完全的黑暗，你也能辨认周围的事物",
+      "zh": "戴上这顶全盔后，即使身处完全的黑暗，你也能辨认周围的事物",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.61",
       "en": "@item.base:When you wear this strange helmet you feel a strong sense of quiet and isolation",
-      "zh": "戴上这顶奇异的头盔时，你会感到强烈的宁静，仿佛与世隔绝",
+      "zh": "戴上这顶奇异的半盔时，你会感到强烈的宁静，仿佛与世隔绝",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -466,21 +466,21 @@
     {
       "id": "generated.runtime.66",
       "en": "@item.base:bar mace",
-      "zh": "条形钉头锤",
+      "zh": "条形页锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.67",
       "en": "@item.base:bardiche",
-      "zh": "长柄大斧",
+      "zh": "月刃斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.68",
       "en": "@item.base:battle axe",
-      "zh": "战斧",
+      "zh": "斗斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -508,7 +508,7 @@
     {
       "id": "generated.runtime.72",
       "en": "@item.base:brigandine",
-      "zh": "布面甲",
+      "zh": "板甲衣",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -550,21 +550,21 @@
     {
       "id": "generated.runtime.78",
       "en": "@item.base:cuirass",
-      "zh": "躯干甲",
+      "zh": "胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.79",
       "en": "@item.base:cuirass combining metal and a tough, light material",
-      "zh": "一副将金属与坚韧轻巧的材料结合而成的躯干甲",
+      "zh": "一副将金属与坚韧轻巧的材料结合而成的胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.80",
       "en": "@item.base:cuirass made from a very tough and light material",
-      "zh": "一副由极其坚韧轻巧的材料制成的躯干甲",
+      "zh": "一副由极其坚韧轻巧的材料制成的胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -585,7 +585,7 @@
     {
       "id": "generated.runtime.83",
       "en": "@item.base:elegant doublet",
-      "zh": "雅致的紧身上衣",
+      "zh": "雅致的紧身衣",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -620,14 +620,14 @@
     {
       "id": "generated.runtime.88",
       "en": "@item.base:flanged mace",
-      "zh": "凸缘钉头锤",
+      "zh": "页锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.89",
       "en": "@item.base:glaive",
-      "zh": "长柄偃月刀",
+      "zh": "长柄大刀",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -704,14 +704,14 @@
     {
       "id": "generated.runtime.100",
       "en": "@item.base:heavy ornate helm made from a brass like metal. When worn it provides vision in darkness",
-      "zh": "一顶沉重而华丽的头盔，由类似黄铜的金属制成，戴上后可以在黑暗中视物",
+      "zh": "一顶沉重而华丽的全盔，由类似黄铜的金属制成，戴上后可以在黑暗中视物",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.101",
       "en": "@item.base:helmet",
-      "zh": "头盔",
+      "zh": "半盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -767,7 +767,7 @@
     {
       "id": "generated.runtime.109",
       "en": "@item.base:laminar cuirass",
-      "zh": "环片躯干甲",
+      "zh": "环片胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -830,14 +830,14 @@
     {
       "id": "generated.runtime.118",
       "en": "@item.base:leather cuirass",
-      "zh": "皮制躯干甲",
+      "zh": "皮制胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.119",
       "en": "@item.base:leather helm",
-      "zh": "皮头盔",
+      "zh": "皮全盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -907,7 +907,7 @@
     {
       "id": "generated.runtime.129",
       "en": "@item.base:mace",
-      "zh": "钉头锤",
+      "zh": "单手锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -935,7 +935,7 @@
     {
       "id": "generated.runtime.133",
       "en": "@item.base:maul",
-      "zh": "重锤",
+      "zh": "大铁锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -956,7 +956,7 @@
     {
       "id": "generated.runtime.136",
       "en": "@item.base:ornate mace made entirely of some metal similar to brass",
-      "zh": "一把华丽的钉头锤，通体由某种类似黄铜的金属制成",
+      "zh": "一把华丽的单手锤，通体由某种类似黄铜的金属制成",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1355,28 +1355,28 @@
     {
       "id": "generated.runtime.193",
       "en": "@item.base:plate bevor",
-      "zh": "板甲护颔",
+      "zh": "板甲颈甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.194",
       "en": "@item.base:plate cuirass",
-      "zh": "板甲躯干甲",
+      "zh": "板甲胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.195",
       "en": "@item.base:plate cuirass made from a strange brassy metal that's heavier than normal, but still effective",
-      "zh": "一副由奇异黄铜色金属制成的板甲躯干甲，比普通护甲更重，但防护依然可靠",
+      "zh": "一副由奇异黄铜色金属制成的板甲胸甲，比普通护甲更重，但防护依然可靠",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.196",
       "en": "@item.base:plate helm",
-      "zh": "板甲头盔",
+      "zh": "板甲全盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1397,7 +1397,7 @@
     {
       "id": "generated.runtime.199",
       "en": "@item.base:pourpoint",
-      "zh": "衬甲紧身衣",
+      "zh": "紧身棉外套",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1495,7 +1495,7 @@
     {
       "id": "generated.runtime.213",
       "en": "@item.base:sledgehammer",
-      "zh": "大锤",
+      "zh": "长柄锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1523,21 +1523,21 @@
     {
       "id": "generated.runtime.217",
       "en": "@item.base:spiked mace",
-      "zh": "尖刺钉头锤",
+      "zh": "晨星锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.218",
       "en": "@item.base:spiked mace with a large hollow head",
-      "zh": "一把带有大型中空锤头的尖刺钉头锤",
+      "zh": "一把带有大型中空锤头的晨星锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.219",
       "en": "@item.base:splint cuirass",
-      "zh": "条板躯干甲",
+      "zh": "条板胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1572,7 +1572,7 @@
     {
       "id": "generated.runtime.224",
       "en": "@item.base:two-handed battle axe",
-      "zh": "双手战斧",
+      "zh": "双手斗斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1586,14 +1586,14 @@
     {
       "id": "generated.runtime.226",
       "en": "@item.base:two-handed mace",
-      "zh": "双手钉头锤",
+      "zh": "双手锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.227",
       "en": "@item.base:two-handed spiked mace",
-      "zh": "双手尖刺钉头锤",
+      "zh": "双手晨星锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1635,14 +1635,14 @@
     {
       "id": "generated.runtime.233",
       "en": "@item.base:visored helm made from a metal similar to brass, but not as heavy as you expect",
-      "zh": "一顶带面甲的头盔，由类似黄铜的金属制成，却没有想象中那么重",
+      "zh": "一顶带面甲的全盔，由类似黄铜的金属制成，却没有想象中那么重",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.234",
       "en": "@item.base:voulge",
-      "zh": "长柄砍刀",
+      "zh": "钩斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1957,14 +1957,14 @@
     {
       "id": "generated.runtime.279",
       "en": "@item.name:bar mace",
-      "zh": "条形钉头锤",
+      "zh": "条形页锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.280",
       "en": "@item.name:bardiche",
-      "zh": "长柄大斧",
+      "zh": "月刃斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1985,7 +1985,7 @@
     {
       "id": "generated.runtime.283",
       "en": "@item.name:battle axe",
-      "zh": "战斧",
+      "zh": "斗斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -1999,14 +1999,14 @@
     {
       "id": "generated.runtime.285",
       "en": "@item.name:bevor",
-      "zh": "护颔甲",
+      "zh": "颈甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.286",
       "en": "@item.name:billhook",
-      "zh": "钩镰刀",
+      "zh": "钩镰",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2090,7 +2090,7 @@
     {
       "id": "generated.runtime.298",
       "en": "@item.name:brigandine",
-      "zh": "布面甲",
+      "zh": "板甲衣",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2398,7 +2398,7 @@
     {
       "id": "generated.runtime.342",
       "en": "@item.name:cuirass",
-      "zh": "躯干甲",
+      "zh": "胸甲",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2503,7 +2503,7 @@
     {
       "id": "generated.runtime.357",
       "en": "@item.name:doublet",
-      "zh": "紧身上衣",
+      "zh": "紧身衣",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2587,7 +2587,7 @@
     {
       "id": "generated.runtime.369",
       "en": "@item.name:flanged mace",
-      "zh": "凸缘钉头锤",
+      "zh": "页锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2650,7 +2650,7 @@
     {
       "id": "generated.runtime.378",
       "en": "@item.name:glaive",
-      "zh": "长柄偃月刀",
+      "zh": "长柄大刀",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2692,7 +2692,7 @@
     {
       "id": "generated.runtime.384",
       "en": "@item.name:grand falchion",
-      "zh": "大型弯刃刀",
+      "zh": "弯刃大刀",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -2776,21 +2776,21 @@
     {
       "id": "generated.runtime.396",
       "en": "@item.name:heater shield",
-      "zh": "熨斗形盾",
+      "zh": "斗盾",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.397",
       "en": "@item.name:helm",
-      "zh": "头盔",
+      "zh": "全盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.398",
       "en": "@item.name:helmet",
-      "zh": "头盔",
+      "zh": "半盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3007,7 +3007,7 @@
     {
       "id": "generated.runtime.429",
       "en": "@item.name:leather helm",
-      "zh": "皮头盔",
+      "zh": "皮全盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3056,7 +3056,7 @@
     {
       "id": "generated.runtime.436",
       "en": "@item.name:life of linus fendrick",
-      "zh": "莱纳斯·芬德里克传",
+      "zh": "莱努斯·芬德里克传",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3077,14 +3077,14 @@
     {
       "id": "generated.runtime.439",
       "en": "@item.name:mace",
-      "zh": "钉头锤",
+      "zh": "单手锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.440",
       "en": "@item.name:mail coif",
-      "zh": "锁甲头套",
+      "zh": "锁甲头巾",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3147,7 +3147,7 @@
     {
       "id": "generated.runtime.449",
       "en": "@item.name:maul",
-      "zh": "重锤",
+      "zh": "大铁锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3336,14 +3336,14 @@
     {
       "id": "generated.runtime.476",
       "en": "@item.name:pick axe",
-      "zh": "鹤嘴锄",
+      "zh": "战镐",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
     {
       "id": "generated.runtime.477",
       "en": "@item.name:pickaxe",
-      "zh": "鹤嘴锄",
+      "zh": "战镐",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3406,7 +3406,7 @@
     {
       "id": "generated.runtime.486",
       "en": "@item.name:plate helm",
-      "zh": "板甲头盔",
+      "zh": "板甲全盔",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3469,7 +3469,7 @@
     {
       "id": "generated.runtime.495",
       "en": "@item.name:pourpoint",
-      "zh": "衬甲紧身衣",
+      "zh": "紧身棉外套",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3483,7 +3483,7 @@
     {
       "id": "generated.runtime.497",
       "en": "@item.name:proctor's seal",
-      "zh": "执法官印信",
+      "zh": "执行官印章",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3630,7 +3630,7 @@
     {
       "id": "generated.runtime.518",
       "en": "@item.name:rusty pick axe",
-      "zh": "生锈的鹤嘴锄",
+      "zh": "生锈的战镐",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3840,7 +3840,7 @@
     {
       "id": "generated.runtime.548",
       "en": "@item.name:sledgehammer",
-      "zh": "大锤",
+      "zh": "长柄锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -3896,7 +3896,7 @@
     {
       "id": "generated.runtime.556",
       "en": "@item.name:spiked mace",
-      "zh": "尖刺钉头锤",
+      "zh": "晨星锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -4085,7 +4085,7 @@
     {
       "id": "generated.runtime.583",
       "en": "@item.name:token",
-      "zh": "徽记",
+      "zh": "徽章",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -4141,7 +4141,7 @@
     {
       "id": "generated.runtime.591",
       "en": "@item.name:two-handed mace",
-      "zh": "双手钉头锤",
+      "zh": "双手锤",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },
@@ -4197,7 +4197,7 @@
     {
       "id": "generated.runtime.599",
       "en": "@item.name:voulge",
-      "zh": "长柄砍刀",
+      "zh": "钩斧",
       "source": "generated_runtime_rule",
       "status": "translated_not_visual_verified"
     },

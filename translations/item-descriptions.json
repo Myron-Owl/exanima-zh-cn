@@ -16,7 +16,7 @@
       "key": 0,
       "flags": 1,
       "en": "bardiche",
-      "zh": "长柄大斧",
+      "zh": "月刃斧",
       "status": "translated_not_visual_verified"
     },
     {
@@ -34,7 +34,7 @@
       "key": 0,
       "flags": 1,
       "en": "-maul",
-      "zh": "-重锤",
+      "zh": "-大铁锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -52,7 +52,7 @@
       "key": 0,
       "flags": 1,
       "en": "battle axe",
-      "zh": "战斧",
+      "zh": "斗斧",
       "status": "translated_not_visual_verified"
     },
     {
@@ -61,7 +61,7 @@
       "key": 0,
       "flags": 1,
       "en": "mace",
-      "zh": "钉头锤",
+      "zh": "单手锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -277,7 +277,7 @@
       "key": 0,
       "flags": 1,
       "en": "Binding of the Dead by Linus Fendrick.\r\n\r\nThe pages of this book are stuck together and ruined by copious amounts of blood.",
-      "zh": "《亡者的束缚》，莱纳斯·芬德里克著。\r\n\r\n大量鲜血浸透了书页，使它们黏结在一起，难以辨读。",
+      "zh": "《亡者的束缚》，莱努斯·芬德里克著。\r\n\r\n大量鲜血浸透了书页，使它们黏结在一起，难以辨读。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -286,7 +286,7 @@
       "key": 0,
       "flags": 1,
       "en": "Life of Linus Fendrick by Anonymous.\r\n\r\nA famous book with an even more famous story surrounding it, often told by mothers to their young children, a cautionary tale on the dark and sinister trappings of thaumaturgy. Fendrick was a gifted thaumaturge who lost his young wife and three children in some gruesome accident. He was thus driven to necromancy in the hope of resurrecting them, not the traditional crude raising of the dead, but with full sentience and cognizance. His practices and experiments were most vile in nature. Kidnappings, torture, murder, keeping his family's bodies in a state between life and death for some forty years; his crimes were plentiful and led to nothing save failure and despair.",
-      "zh": "《莱纳斯·芬德里克传》，佚名著。\r\n\r\n这本书很有名，书中的故事更是家喻户晓。母亲们常用它告诫年幼的孩子：异能之术潜藏着黑暗而险恶的诱惑。芬德里克是位天赋卓绝的异能术士，却在一场惨烈的意外中失去了年轻的妻子和三个孩子。为了让他们复活，他开始钻研死灵术。他追求的不是传统而粗陋的唤起死者，而是让他们带着完整的意识和认知归来。他的行径与实验极为邪恶：绑架、折磨、谋杀，让家人的尸身在生死之间维持了约四十年。他罪行累累，最终却只得到了失败与绝望。",
+      "zh": "《莱努斯·芬德里克传》，佚名著。\r\n\r\n这本书很有名，书中的故事更是家喻户晓。母亲们常用它告诫年幼的孩子：异能之术潜藏着黑暗而险恶的诱惑。芬德里克是位天赋卓绝的异能术士，却在一场惨烈的意外中失去了年轻的妻子和三个孩子。为了让他们复活，他开始钻研死灵术。他追求的不是传统而粗陋的唤起死者，而是让他们带着完整的意识和认知归来。他的行径与实验极为邪恶：绑架、折磨、谋杀，让家人的尸身在生死之间维持了约四十年。他罪行累累，最终却只得到了失败与绝望。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -394,7 +394,7 @@
       "key": 0,
       "flags": 1,
       "en": "spiked mace",
-      "zh": "尖刺钉头锤",
+      "zh": "晨星锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -421,7 +421,7 @@
       "key": 0,
       "flags": 1,
       "en": "voulge",
-      "zh": "长柄砍刀",
+      "zh": "钩斧",
       "status": "translated_not_visual_verified"
     },
     {
@@ -466,7 +466,7 @@
       "key": 0,
       "flags": 1,
       "en": "A well made heater shield.",
-      "zh": "一面做工精良的熨斗形盾。",
+      "zh": "一面做工精良的斗盾。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -529,7 +529,7 @@
       "key": 0,
       "flags": 1,
       "en": "plate helm.",
-      "zh": "板甲头盔。",
+      "zh": "板甲全盔。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -880,7 +880,7 @@
       "key": 0,
       "flags": 1,
       "en": "-sledgehammer",
-      "zh": "-大锤",
+      "zh": "-长柄锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -943,7 +943,7 @@
       "key": 0,
       "flags": 1,
       "en": "A well made heater shield with an unknown insignia.",
-      "zh": "一面做工精良的熨斗形盾，带有不明徽记。",
+      "zh": "一面做工精良的斗盾，带有不明徽记。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1042,7 +1042,7 @@
       "key": 0,
       "flags": 44,
       "en": "helmet",
-      "zh": "头盔",
+      "zh": "半盔",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1087,7 +1087,7 @@
       "key": 0,
       "flags": 1,
       "en": "When you wear this helm you are able to make out your surroundings even in complete darkness. [sc]",
-      "zh": "戴上这顶头盔后，即使身处完全的黑暗，你也能辨认周围的事物。[sc]",
+      "zh": "戴上这顶全盔后，即使身处完全的黑暗，你也能辨认周围的事物。[sc]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1258,7 +1258,7 @@
       "key": 0,
       "flags": 2,
       "en": "A seal carried by Proctors representing the law of Ardent. It can only be unlocked by turning the rings along its length in a particular combination known only to the Proctor who carries it.",
-      "zh": "执法官随身携带的印信，代表阿登的律法。只有将印信上的环转到特定组合才能开启；这个组合只有持有它的执法官知道。",
+      "zh": "执行官随身携带的印章，代表阿登的律法。只有将印章上的环转到特定组合才能开启；这个组合只有持有它的执行官知道。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1357,7 +1357,7 @@
       "key": 0,
       "flags": 1,
       "en": "A plate cuirass made from a strange brassy metal that's heavier than normal, but still effective. [sq]",
-      "zh": "一副由奇异黄铜色金属制成的板甲躯干甲，比普通护甲更重，但防护依然可靠。[sq]",
+      "zh": "一副由奇异黄铜色金属制成的板甲胸甲，比普通护甲更重，但防护依然可靠。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1366,7 +1366,7 @@
       "key": 0,
       "flags": 1,
       "en": "A \u0010 plate cuirass made from a strange brassy metal that's heavier than normal, but still effective. [sq]",
-      "zh": "一副\u0010板甲躯干甲，由奇异的黄铜色金属制成，比普通护甲更重，但防护依然可靠。[sq]",
+      "zh": "一副\u0010板甲胸甲，由奇异的黄铜色金属制成，比普通护甲更重，但防护依然可靠。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1375,7 +1375,7 @@
       "key": 0,
       "flags": 1,
       "en": "A heavy ornate helm made from a brass like metal. When worn it provides vision in darkness. [sq]",
-      "zh": "一顶沉重而华丽的头盔，由类似黄铜的金属制成，戴上后可以在黑暗中视物。[sq]",
+      "zh": "一顶沉重而华丽的全盔，由类似黄铜的金属制成，戴上后可以在黑暗中视物。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1402,7 +1402,7 @@
       "key": 0,
       "flags": 1,
       "en": "An ornate mace made entirely of some metal similar to brass. [sq]",
-      "zh": "一把华丽的钉头锤，通体由某种类似黄铜的金属制成。[sq]",
+      "zh": "一把华丽的单手锤，通体由某种类似黄铜的金属制成。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1411,7 +1411,7 @@
       "key": 0,
       "flags": 1,
       "en": "This ornate battle axe is seemingly made largely of a brassy metal, but it's not as heavy as it looks. [sq]",
-      "zh": "这把华丽的战斧似乎主要由黄铜色金属制成，却没有看上去那么重。[sq]",
+      "zh": "这把华丽的斗斧似乎主要由黄铜色金属制成，却没有看上去那么重。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1420,7 +1420,7 @@
       "key": 0,
       "flags": 1,
       "en": "This large two-handed mace looks to be made of brass, but is deceptively light and features a fairly keen spike. [sq]",
-      "zh": "这把大型双手钉头锤看似黄铜制成，却出奇地轻巧，还带有一根相当锋利的尖刺。[sq]",
+      "zh": "这把大型双手锤看似黄铜制成，却出奇地轻巧，还带有一根相当锋利的尖刺。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1618,7 +1618,7 @@
       "key": 0,
       "flags": 1,
       "en": "two-handed spiked mace",
-      "zh": "双手尖刺钉头锤",
+      "zh": "双手晨星锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1627,7 +1627,7 @@
       "key": 0,
       "flags": 1,
       "en": "two-handed mace",
-      "zh": "双手钉头锤",
+      "zh": "双手锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1690,7 +1690,7 @@
       "key": 0,
       "flags": 1,
       "en": "A token engraved with a round shield.",
-      "zh": "一枚刻有圆盾图案的徽记。",
+      "zh": "一枚刻有圆盾图案的徽章。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1699,7 +1699,7 @@
       "key": 0,
       "flags": 1,
       "en": "A token engraved with a heater shield.",
-      "zh": "一枚刻有熨斗形盾图案的徽记。",
+      "zh": "一枚刻有斗盾图案的徽章。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1708,7 +1708,7 @@
       "key": 0,
       "flags": 1,
       "en": "A token engraved with an eye.",
-      "zh": "一枚刻有眼睛图案的徽记。",
+      "zh": "一枚刻有眼睛图案的徽章。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1717,7 +1717,7 @@
       "key": 0,
       "flags": 1,
       "en": "A token engraved with two ribbons.",
-      "zh": "一枚刻有两条绶带图案的徽记。",
+      "zh": "一枚刻有两条绶带图案的徽章。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1726,7 +1726,7 @@
       "key": 0,
       "flags": 1,
       "en": "A token engraved with three ribbons.",
-      "zh": "一枚刻有三条绶带图案的徽记。",
+      "zh": "一枚刻有三条绶带图案的徽章。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1735,7 +1735,7 @@
       "key": 0,
       "flags": 1,
       "en": "A token engraved with a spider.",
-      "zh": "一枚刻有蜘蛛图案的徽记。",
+      "zh": "一枚刻有蜘蛛图案的徽章。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1744,7 +1744,7 @@
       "key": 0,
       "flags": 4,
       "en": "plate cuirass.",
-      "zh": "板甲躯干甲。",
+      "zh": "板甲胸甲。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1798,7 +1798,7 @@
       "key": 0,
       "flags": 3,
       "en": "splint cuirass.",
-      "zh": "条板躯干甲。",
+      "zh": "条板胸甲。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1807,7 +1807,7 @@
       "key": 0,
       "flags": 3,
       "en": "brigandine.",
-      "zh": "布面甲。",
+      "zh": "板甲衣。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1825,7 +1825,7 @@
       "key": 0,
       "flags": 1,
       "en": "A heavy heater shield.",
-      "zh": "一面沉重的熨斗形盾。",
+      "zh": "一面沉重的斗盾。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1924,7 +1924,7 @@
       "key": 0,
       "flags": 1,
       "en": "laminar cuirass.",
-      "zh": "环片躯干甲。",
+      "zh": "环片胸甲。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1933,7 +1933,7 @@
       "key": 0,
       "flags": 3,
       "en": "leather cuirass.",
-      "zh": "皮制躯干甲。",
+      "zh": "皮制胸甲。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -1996,7 +1996,7 @@
       "key": 0,
       "flags": 3,
       "en": "plate bevor",
-      "zh": "板甲护颔",
+      "zh": "板甲颈甲",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2032,7 +2032,7 @@
       "key": 0,
       "flags": 1,
       "en": "bar mace",
-      "zh": "条形钉头锤",
+      "zh": "条形页锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2095,7 +2095,7 @@
       "key": 0,
       "flags": 1,
       "en": "A cuirass made from a very tough and light material. [sq]",
-      "zh": "一副由极其坚韧轻巧的材料制成的躯干甲。[sq]",
+      "zh": "一副由极其坚韧轻巧的材料制成的胸甲。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2113,7 +2113,7 @@
       "key": 0,
       "flags": 1,
       "en": "A cuirass combining metal and a tough, light material. [sq]",
-      "zh": "一副将金属与坚韧轻巧的材料结合而成的躯干甲。[sq]",
+      "zh": "一副将金属与坚韧轻巧的材料结合而成的胸甲。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2176,7 +2176,7 @@
       "key": 0,
       "flags": 1,
       "en": "A spiked mace with a large hollow head. [sq]",
-      "zh": "一把带有大型中空锤头的尖刺钉头锤。[sq]",
+      "zh": "一把带有大型中空锤头的晨星锤。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2185,7 +2185,7 @@
       "key": 0,
       "flags": 1,
       "en": "elegant doublet.",
-      "zh": "雅致的紧身上衣。",
+      "zh": "雅致的紧身衣。",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2302,7 +2302,7 @@
       "key": 0,
       "flags": 1,
       "en": "This helmet when worn grants vision even in complete darkness. [sq]",
-      "zh": "戴上这顶头盔，即使在完全的黑暗中也能视物。[sq]",
+      "zh": "戴上这顶半盔，即使在完全的黑暗中也能视物。[sq]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2644,7 +2644,7 @@
       "key": 0,
       "flags": 1,
       "en": "two-handed battle axe",
-      "zh": "双手战斧",
+      "zh": "双手斗斧",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2761,7 +2761,7 @@
       "key": 0,
       "flags": 1,
       "en": "flanged mace",
-      "zh": "凸缘钉头锤",
+      "zh": "页锤",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2779,7 +2779,7 @@
       "key": 0,
       "flags": 1,
       "en": "glaive",
-      "zh": "长柄偃月刀",
+      "zh": "长柄大刀",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2806,7 +2806,7 @@
       "key": 0,
       "flags": 1,
       "en": "brigandine",
-      "zh": "布面甲",
+      "zh": "板甲衣",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2833,7 +2833,7 @@
       "key": 0,
       "flags": 1,
       "en": "leather helm",
-      "zh": "皮头盔",
+      "zh": "皮全盔",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2842,7 +2842,7 @@
       "key": 0,
       "flags": 1,
       "en": "This mace has large flanges that form a hollow space lined with strange decorative elements. [sc]",
-      "zh": "这把钉头锤的大型凸缘围成了一个中空空间，内壁饰有奇异的装饰。[sc]",
+      "zh": "这把单手锤的大型凸缘围成了一个中空空间，内壁饰有奇异的装饰。[sc]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2905,7 +2905,7 @@
       "key": 0,
       "flags": 2,
       "en": "cuirass",
-      "zh": "躯干甲",
+      "zh": "胸甲",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2959,7 +2959,7 @@
       "key": 0,
       "flags": 1,
       "en": "When you wear this strange helmet you feel a strong sense of quiet and isolation. [sc]",
-      "zh": "戴上这顶奇异的头盔时，你会感到强烈的宁静，仿佛与世隔绝。[sc]",
+      "zh": "戴上这顶奇异的半盔时，你会感到强烈的宁静，仿佛与世隔绝。[sc]",
       "status": "translated_not_visual_verified"
     },
     {
@@ -2977,7 +2977,7 @@
       "key": 0,
       "flags": 1,
       "en": "pourpoint\r\n",
-      "zh": "衬甲紧身衣\r\n",
+      "zh": "紧身棉外套\r\n",
       "status": "translated_not_visual_verified"
     },
     {
@@ -3031,7 +3031,7 @@
       "key": 0,
       "flags": 1,
       "en": "A visored helm made from a metal similar to brass, but not as heavy as you expect. [sq]",
-      "zh": "一顶带面甲的头盔，由类似黄铜的金属制成，却没有想象中那么重。[sq]",
+      "zh": "一顶带面甲的全盔，由类似黄铜的金属制成，却没有想象中那么重。[sq]",
       "status": "translated_not_visual_verified"
     },
     {

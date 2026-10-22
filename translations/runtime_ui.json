@@ -12,7 +12,7 @@
     {
       "id": "runtime.item.heavy_helmet",
       "en": "Heavy Helmet",
-      "zh": "重型头盔",
+      "zh": "重型半盔",
       "source": "runtime_capture",
       "evidence": "build/audit-before-20260927.log:370",
       "status": "translated_not_visual_verified"
